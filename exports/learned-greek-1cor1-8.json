@@ -471,6 +471,30 @@
       ]
     },
     {
+      "strong": "696",
+      "forms": [
+        {
+          "greek": "ἄργυρον,",
+          "russian": "серебро,",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "753",
+      "forms": [
+        {
+          "greek": "ἀρχιτέκτων",
+          "russian": "зодчий",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
       "strong": "846",
       "forms": [
         {
@@ -728,6 +752,18 @@
       ]
     },
     {
+      "strong": "1051",
+      "forms": [
+        {
+          "greek": "γάλα",
+          "russian": "Молоком",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
       "strong": "1063",
       "forms": [
         {
@@ -773,6 +809,30 @@
           "chapters": [
             3,
             7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1091",
+      "forms": [
+        {
+          "greek": "γεώργιον,",
+          "russian": "пашня,",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1096",
+      "forms": [
+        {
+          "greek": "γενήσεται,",
+          "russian": "сделается,",
+          "chapters": [
+            3
           ]
         }
       ]
@@ -990,6 +1050,18 @@
       ]
     },
     {
+      "strong": "1249",
+      "forms": [
+        {
+          "greek": "διάκονοι",
+          "russian": "Служители",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
       "strong": "1417",
       "forms": [
         {
@@ -1034,6 +1106,18 @@
           "russian": "я,",
           "chapters": [
             7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1487",
+      "forms": [
+        {
+          "greek": "εἴ",
+          "russian": "Если",
+          "chapters": [
+            3
           ]
         }
       ]
@@ -1578,6 +1662,30 @@
       ]
     },
     {
+      "strong": "2026",
+      "forms": [
+        {
+          "greek": "ἐποικοδομεῖ",
+          "russian": "надстраивает",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2041",
+      "forms": [
+        {
+          "greek": "ἔργον",
+          "russian": "дело",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
       "strong": "2192",
       "forms": [
         {
@@ -1685,6 +1793,30 @@
           "russian": "имеющего",
           "chapters": [
             8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2250",
+      "forms": [
+        {
+          "greek": "ἡμέρα",
+          "russian": "день",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2310",
+      "forms": [
+        {
+          "greek": "θεμέλιον",
+          "russian": "основание",
+          "chapters": [
+            3
           ]
         }
       ]
@@ -2332,6 +2464,18 @@
       ]
     },
     {
+      "strong": "3037",
+      "forms": [
+        {
+          "greek": "λίθους",
+          "russian": "камни",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
       "strong": "3120",
       "forms": [
         {
@@ -2540,6 +2684,18 @@
           "russian": "[о] котором",
           "chapters": [
             7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3619",
+      "forms": [
+        {
+          "greek": "οἰκοδομή",
+          "russian": "строение",
+          "chapters": [
+            3
           ]
         }
       ]
@@ -3280,6 +3436,18 @@
       ]
     },
     {
+      "strong": "4442",
+      "forms": [
+        {
+          "greek": "πυρὶ",
+          "russian": "огне",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
       "strong": "4561",
       "forms": [
         {
@@ -3415,6 +3583,18 @@
       ]
     },
     {
+      "strong": "4904",
+      "forms": [
+        {
+          "greek": "συνεργοί·",
+          "russian": "сотрудники;",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
       "strong": "4983",
       "forms": [
         {
@@ -3477,6 +3657,18 @@
       ]
     },
     {
+      "strong": "5100",
+      "forms": [
+        {
+          "greek": "τί",
+          "russian": "Что́",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
       "strong": "5209",
       "forms": [
         {
@@ -3512,6 +3704,42 @@
           "chapters": [
             2,
             4
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "5210",
+      "forms": [
+        {
+          "greek": "ὑμεῖς",
+          "russian": "вы",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "5216",
+      "forms": [
+        {
+          "greek": "ὑμῶν,",
+          "russian": "ваше,",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "5318",
+      "forms": [
+        {
+          "greek": "φανερὸν",
+          "russian": "явное",
+          "chapters": [
+            3
           ]
         }
       ]
@@ -3658,6 +3886,18 @@
           "russian": "Христос,",
           "chapters": [
             8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "5557",
+      "forms": [
+        {
+          "greek": "χρυσόν,",
+          "russian": "золото,",
+          "chapters": [
+            3
           ]
         }
       ]
