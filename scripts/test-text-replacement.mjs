@@ -69,18 +69,21 @@ console.log('Phrase priority, accents, boundaries, filters, aliases and source p
 // Exercise the actual loader and supplement merge for both GitHub and fallback.
 const japaneseDictionary = JSON.parse(fs.readFileSync('public/dictionaries/japanese.json', 'utf8'))
 let offline = false
+let localDictionaryUrl = ''
 const loaderContext = {
   module: { exports: {} }, exports: {}, AbortController, setTimeout, clearTimeout,
   fetch: async url => {
     if (offline && url.startsWith('https:')) throw new Error('Offline')
+    if (!url.startsWith('https:')) localDictionaryUrl = url
     return { ok: true, json: async () => japaneseDictionary }
   }
 }
 vm.runInNewContext(buildSync({ entryPoints: ['app/utils/dictionarySource.ts'], bundle: true, platform: 'node', format: 'cjs', write: false }).outputFiles[0].text, loaderContext)
-for (const source of ['github', 'public']) {
+for (const [source, baseURL] of [['github', '/'], ['public', '/'], ['public', '/Languages1/']]) {
   offline = source === 'public'
-  const loaded = await loaderContext.module.exports.loadReaderDictionary('japanese', new AbortController().signal)
+  const loaded = await loaderContext.module.exports.loadReaderDictionary('japanese', new AbortController().signal, baseURL)
   assert.equal(loaded.source, source)
+  if (source === 'public') assert.ok(localDictionaryUrl.startsWith(`${baseURL}dictionaries/japanese.json?`), localDictionaryUrl)
   const rules = buildReplacementIndex(loaded.entries, aliases.japanese, 'japanese', { knownOnly: false, includeRadicals: true })
   const render = text => replaceRussianText(text, rules).map(token => token.replacement?.foreign || token.text).join('')
   for (const [text, expected] of [['сыне', '子е'], ['Матере', '母е'], ['славословие', '栄ословие'], ['Пречистыя', 'Пре浄ыя']]) {

@@ -1,12 +1,18 @@
 // nuxt.config.ts
 import { defineNuxtConfig } from 'nuxt/config'
 
+const baseURL = (process.env.NUXT_APP_BASE_URL || '/').replace(/\/?$/, '/')
+
 export default defineNuxtConfig({
   // Указываем, что исходники в папке app
   srcDir: 'app/',
   app: {
+    baseURL,
     head: {
-      link: [{ rel: 'stylesheet', href: '/site-header.css' }]
+      link: [
+        { rel: 'stylesheet', href: `${baseURL}site-header.css` },
+        { rel: 'icon', href: `${baseURL}favicon.ico` }
+      ]
     }
   },
 

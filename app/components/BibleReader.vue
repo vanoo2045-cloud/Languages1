@@ -60,9 +60,11 @@ import { ref, onMounted, computed, nextTick, watch } from 'vue'
 import { BibleParser } from '~/utils/bibleParser'
 import { isInitiallyLearned, registerVocabularyStrongs } from '~/data/learnedWords'
 import initialVocabulary from '~/data/vocabulary.json'
+import { publicAssetUrl } from '~/utils/publicAssetUrl'
 
 type VocabularyEntry = { word: string; pronunciation: string; english: string }
 const isLocalDevelopment = import.meta.dev
+const baseURL = useRuntimeConfig().app.baseURL
 const vocabularyStorageKey = 'greece_vocabulary_v1'
 const readSavedVocabulary = (): VocabularyEntry[] => {
   const data = JSON.parse(localStorage.getItem(vocabularyStorageKey) || '[]')
@@ -100,7 +102,7 @@ const loadVocabularyStrongs = async () => {
   registerVocabularyStrongs(initialVocabulary.vocabulary.map(entry => entry.pronunciation))
   try {
     if (isLocalDevelopment) {
-      const data = await $fetch<{ vocabulary: VocabularyEntry[] }>('/api/vocabulary')
+      const data = await $fetch<{ vocabulary: VocabularyEntry[] }>(publicAssetUrl('api/vocabulary', baseURL))
       registerVocabularyStrongs(data.vocabulary.map(entry => entry.pronunciation))
       return
     }
@@ -112,7 +114,7 @@ const loadVocabularyStrongs = async () => {
 
 onMounted(async () => {
   await loadVocabularyStrongs()
-  await parser.loadFromFile(props.htmlPath)
+  await parser.loadFromFile(publicAssetUrl(props.htmlPath, baseURL))
   parser.setStorageKey(props.storageKey)
   parser.loadProgress()
   totalWords.value = parser.getAllWords().length
@@ -163,7 +165,7 @@ const addNewWordsToVocabulary = async () => {
 
   try {
     if (isLocalDevelopment) {
-      const result = await $fetch<{ added: number; skipped: number }>('/api/vocabulary', {
+      const result = await $fetch<{ added: number; skipped: number }>(publicAssetUrl('api/vocabulary', baseURL), {
         method: 'POST',
         body: { vocabulary: entries }
       })

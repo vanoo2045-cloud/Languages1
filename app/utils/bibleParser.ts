@@ -133,6 +133,10 @@ export class BibleParser {
     if (!this.container) return ''
     
     const clone = this.container.cloneNode(true) as HTMLElement
+
+    // Saved source pages contain stylesheets whose companion folders are absent.
+    // The reader uses the application's styles instead of loading those files.
+    clone.querySelectorAll('link[rel="stylesheet"], script').forEach(el => el.remove())
     
     // Удаляем ненужные блоки
     clone.querySelectorAll('div.numbers, div.chapters , div.number, a.chapter-href, ul.chapters, li.menu-item, span.panel, div.header-container, div.footer-container, div.popup, form.settings, div.link, nav.mobile-nav').forEach(el => el.remove())

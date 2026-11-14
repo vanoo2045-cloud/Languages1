@@ -8,12 +8,14 @@
         <NuxtLink to="/1cor" :aria-current="/^\/1cor\d*\/?$/.test(route.path) ? 'page' : undefined">Библия</NuxtLink>
         <NuxtLink to="/greek-prayers" :aria-current="route.path.replace(/\/$/, '') === '/greek-prayers' ? 'page' : undefined">Греческий молитвослов</NuxtLink>
         <NuxtLink to="/chinese-prayers" :aria-current="route.path.replace(/\/$/, '') === '/chinese-prayers' ? 'page' : undefined">Китайский молитвослов</NuxtLink>
-        <a href="/japanese.html">Японский</a>
+        <a :href="japaneseUrl">Японский</a>
       </nav>
     </div>
   </header>
 </template>
 
 <script setup lang="ts">
+import { publicAssetUrl } from '~/utils/publicAssetUrl'
 const route = useRoute()
+const japaneseUrl = publicAssetUrl('japanese.html', useRuntimeConfig().app.baseURL)
 </script>

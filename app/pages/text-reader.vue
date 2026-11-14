@@ -72,8 +72,10 @@
 import { computed, onMounted, onBeforeUnmount, ref, watch } from 'vue'
 import { buildReplacementIndex, replaceRussianText, type DictionaryEntry, type DictionaryAlias, type ReaderLanguage } from '~/utils/textReplacement'
 import { loadReaderDictionary, dictionaryGithubUrl, dictionaryEditorUrl, dictionaryPublicUrl } from '~/utils/dictionarySource'
+import { publicAssetUrl } from '~/utils/publicAssetUrl'
 
 useHead({ title: 'Ваш текст — практика языков', meta: [{ name: 'description', content: 'Чтение любого русского текста с заменой слов на древнегреческие, японские или китайские из личного словаря.' }] })
+const baseURL = useRuntimeConfig().app.baseURL
 const language = ref<ReaderLanguage>('ancientGreek')
 const text = ref('')
 const knownOnly = ref(false)
@@ -90,7 +92,7 @@ const feedback = ref('')
 const showOriginal = ref(false)
 const revealed = ref(new Set<number>())
 const textFileInput = ref<HTMLInputElement | null>(null)
-const dictionaryPath = computed(() => dictionarySource.value === 'github' ? dictionaryGithubUrl(language.value) : dictionaryPublicUrl(language.value))
+const dictionaryPath = computed(() => dictionarySource.value === 'github' ? dictionaryGithubUrl(language.value) : dictionaryPublicUrl(language.value, baseURL))
 const editorUrl = computed(() => dictionaryEditorUrl(language.value))
 const foreignLang = computed(() => ({ ancientGreek: 'grc', japanese: 'ja', chinese: 'zh' }[language.value]))
 const index = computed(() => buildReplacementIndex(entries.value, aliases.value, language.value, { knownOnly: knownOnly.value, includeRadicals: includeRadicals.value }))
@@ -110,8 +112,8 @@ async function loadDictionary() {
   const currentLanguage = language.value
   try {
     const [loaded, aliasResult] = await Promise.all([
-      loadReaderDictionary(currentLanguage, request.signal),
-      fetch(`/dictionaries/aliases.json?v=${Date.now()}`, { cache: 'no-store', signal: request.signal }).then(async response => { if (!response.ok) throw new Error('Aliases unavailable'); return await response.json() }).catch(() => null)
+      loadReaderDictionary(currentLanguage, request.signal, baseURL),
+      fetch(`${publicAssetUrl('dictionaries/aliases.json', baseURL)}?v=${Date.now()}`, { cache: 'no-store', signal: request.signal }).then(async response => { if (!response.ok) throw new Error('Aliases unavailable'); return await response.json() }).catch(() => null)
     ])
     if (request.signal.aborted) return
     entries.value = loaded.entries
@@ -126,7 +128,7 @@ async function loadDictionary() {
 async function prayerText() {
   prayerController?.abort()
   prayerController = new AbortController()
-  const response = await fetch('/texts/evening-prayers.txt', { cache: 'no-store', signal: prayerController.signal })
+  const response = await fetch(publicAssetUrl('texts/evening-prayers.txt', baseURL), { cache: 'no-store', signal: prayerController.signal })
   if (!response.ok) throw new Error('Не удалось загрузить вечерние молитвы.')
   return await response.text()
 }

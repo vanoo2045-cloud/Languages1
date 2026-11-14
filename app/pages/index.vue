@@ -30,7 +30,7 @@
           <span class="book-stats">Практика по вашему словарю</span>
         </div>
       </NuxtLink>
-      <a href="/japanese.html" class="toc-card">
+      <a :href="japaneseUrl" class="toc-card">
         <span class="book-icon">🇯🇵</span>
         <div class="book-info">
           <h2>Японский — практика</h2>
@@ -113,6 +113,11 @@
     </div>
   </div>
 </template>
+
+<script setup lang="ts">
+import { publicAssetUrl } from '~/utils/publicAssetUrl'
+const japaneseUrl = publicAssetUrl('japanese.html', useRuntimeConfig().app.baseURL)
+</script>
 
 <style scoped>
 .toc-header {
