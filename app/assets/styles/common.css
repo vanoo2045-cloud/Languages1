@@ -1,0 +1,117 @@
+/* Общие стили для всего сайта */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Georgia', 'Times New Roman', 'Palatino', serif;
+  background: #fefefe;
+  color: #2c3e2f;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* Навигация */
+.navbar {
+  background: #2c3e6b;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+/* Кнопки */
+.btn {
+  padding: 0.6rem 1.2rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+.btn-primary {
+  background: #2c3e6b;
+  color: white;
+}
+
+.btn-primary:hover {
+  background: #1e2a4a;
+  transform: translateY(-1px);
+}
+
+.btn-secondary {
+  background: #2c5f2d;
+  color: white;
+}
+
+.btn-secondary:hover {
+  background: #1e4a1f;
+  transform: translateY(-1px);
+}
+
+.btn-danger {
+  background: #c0392b;
+  color: white;
+}
+
+.btn-danger:hover {
+  background: #a93226;
+  transform: translateY(-1px);
+}
+
+/* Прогресс-бар */
+.progress-bar {
+  flex: 1;
+  min-width: 200px;
+  background: #e0e0e0;
+  border-radius: 10px;
+  height: 30px;
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-fill {
+  background: #2c5f2d;
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #333;
+  white-space: nowrap;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+}

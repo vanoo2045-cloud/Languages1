@@ -1,0 +1,2152 @@
+{
+  "vocabulary": [
+    {
+      "word": "и; соединительная частица",
+      "japan": "と",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "и",
+          "foreign": "と"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "о!; восклицание",
+      "japan": "おお",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "О",
+          "foreign": "おお"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "аминь",
+      "japan": "アーメン",
+      "status": "studied",
+      "stems": [
+        "аминь"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Аминь",
+          "foreign": "アーメン"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "Богородица",
+      "japan": "生神女",
+      "status": "studied",
+      "stems": [
+        "богороди"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Богородицу",
+          "foreign": "生神女цу"
+        },
+        {
+          "russian": "Богородице",
+          "foreign": "生神女це"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "мой Бог",
+      "japan": "私の神",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Бога моего",
+          "foreign": "私の神го"
+        },
+        {
+          "russian": "боже мой",
+          "foreign": "私の神"
+        },
+        {
+          "russian": "бог мой",
+          "foreign": "私の神"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "всемогущий (определение)",
+      "japan": "全能の",
+      "status": "studied",
+      "stems": [
+        "всевидяц"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "всевидяц",
+          "foreign": "全能の"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "Сын Божий",
+      "japan": "神の子",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "сына божия",
+          "foreign": "神の子ия"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "моё сердце",
+      "japan": "私の心",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "сердце моем",
+          "foreign": "私の心м"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "моё тело",
+      "japan": "私の体",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "телу моему",
+          "foreign": "私の体у"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "полночь",
+      "japan": "真夜中",
+      "status": "studied",
+      "stems": [
+        "полунощ"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "полунощ",
+          "foreign": "真夜中"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "Пресвятой Дух",
+      "japan": "至聖霊",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Пресвятому духу",
+          "foreign": "至聖霊у"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "пресвятой",
+      "japan": "至聖",
+      "status": "studied",
+      "stems": [
+        "пресвятом",
+        "пресвят"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Пресвятому",
+          "foreign": "至聖у"
+        },
+        {
+          "russian": "пресвят",
+          "foreign": "至聖"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "Святой Дух",
+      "japan": "聖霊",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Святому Духу",
+          "foreign": "聖霊у"
+        },
+        {
+          "russian": "Святаго Духа",
+          "foreign": "聖霊а"
+        },
+        {
+          "russian": "Духа Святаго",
+          "foreign": "聖霊го"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "мои уши",
+      "japan": "私の耳",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "слуху моему",
+          "foreign": "私の耳му"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "мои грехи",
+      "japan": "私の罪",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "грех моих",
+          "foreign": "私の罪их"
+        },
+        {
+          "russian": "греха моего",
+          "foreign": "私の罪его"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "мои глаза",
+      "japan": "私の目",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "мои очи",
+          "foreign": "私の目"
+        },
+        {
+          "russian": "очи мои",
+          "foreign": "私の目"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "Матери",
+      "japan": "の母",
+      "status": "studied",
+      "stems": [
+        "мате"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Матери",
+          "foreign": "の母ри"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "моя душа",
+      "japan": "私の魂",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "мою душу",
+          "foreign": "私の魂шу"
+        },
+        {
+          "russian": "души моея",
+          "foreign": "私の魂ея"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "мой рот; мои уста",
+      "japan": "私の口",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "моя уста",
+          "foreign": "私の口а"
+        },
+        {
+          "russian": "уста мои",
+          "foreign": "私の口и"
+        },
+        {
+          "russian": "уста моя",
+          "foreign": "私の口я"
+        },
+        {
+          "russian": "устне мои",
+          "foreign": "私の口и"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "моя мать",
+      "japan": "私の母",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "мати моя",
+          "foreign": "私の母"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "моя вера",
+      "japan": "私の信",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "вера моя",
+          "foreign": "私の信"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "мой язык",
+      "japan": "私の舌",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "язык мой",
+          "foreign": "私の舌"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "твоё имя",
+      "japan": "あなたの名",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "имя твое",
+          "foreign": "あなたの名е"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "твой сын; твой ребёнок",
+      "japan": "あなたの子",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "твой сын",
+          "foreign": "あなたの子"
+        },
+        {
+          "russian": "Сына твоего",
+          "foreign": "あなたの子"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "твои руки",
+      "japan": "あなたの両手",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "твоея руки",
+          "foreign": "あなたの両手"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "твоё царство; твоя страна",
+      "japan": "あなたの国",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Царствии Твоем",
+          "foreign": "あなたの国м"
+        },
+        {
+          "russian": "Царствие Твое",
+          "foreign": "あなたの国е"
+        },
+        {
+          "russian": "Царство Твое",
+          "foreign": "あなたの国"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "твой свет",
+      "japan": "あなたの光",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "твоим свет",
+          "foreign": "あなたの光"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "Царь Небесный",
+      "japan": "天の王",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Царю небесный",
+          "foreign": "天の王й"
+        },
+        {
+          "russian": "Царю́ Небесный",
+          "foreign": "天の王й"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "человеколю",
+      "japan": "愛人者",
+      "status": "studied",
+      "stems": [
+        "человеколю",
+        "человеколюб"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "человеколю",
+          "foreign": "愛人者"
+        },
+        {
+          "russian": "Человеколюбец",
+          "foreign": "愛人者ец"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "белый",
+      "japan": "白",
+      "status": "studied",
+      "stems": [
+        "бел"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "бел",
+          "foreign": "白"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "беззаконие; незаконный",
+      "japan": "非法",
+      "status": "studied",
+      "stems": [
+        "беззакон"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "беззакон",
+          "foreign": "非法"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "Бог; божество",
+      "japan": "神",
+      "status": "studied",
+      "stems": [
+        "бог",
+        "боже",
+        "бож"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Бог",
+          "foreign": "神"
+        },
+        {
+          "russian": "Бо́же",
+          "foreign": "神"
+        },
+        {
+          "russian": "Бож",
+          "foreign": "神"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "добро",
+      "japan": "善",
+      "status": "studied",
+      "stems": [
+        "благ"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "благ",
+          "foreign": "善"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "вера; доверие",
+      "japan": "信",
+      "status": "studied",
+      "stems": [
+        "вера",
+        "вер"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Вера",
+          "foreign": "信"
+        },
+        {
+          "russian": "Веры",
+          "foreign": "信ы"
+        },
+        {
+          "russian": "Верую",
+          "foreign": "信ую"
+        },
+        {
+          "russian": "Верую",
+          "foreign": "信ую"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "верховное божество",
+      "japan": "上帝",
+      "status": "studied",
+      "stems": [
+        "влады"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "влады",
+          "foreign": "上帝"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "воля",
+      "japan": "意愿",
+      "status": "studied",
+      "stems": [
+        "воля"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "воля",
+          "foreign": "意愿"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "враг",
+      "japan": "敵",
+      "status": "studied",
+      "stems": [
+        "враг"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Враг",
+          "foreign": "敵"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "всё; целый",
+      "japan": "全",
+      "status": "studied",
+      "stems": [
+        "все"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "все",
+          "foreign": "全"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "большой; великий",
+      "japan": "大",
+      "status": "studied",
+      "stems": [
+        "велико",
+        "велиц",
+        "велик"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Велико",
+          "foreign": "大"
+        },
+        {
+          "russian": "велиц",
+          "foreign": "大"
+        },
+        {
+          "russian": "велик",
+          "foreign": "大"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "стоять; вставать",
+      "japan": "立",
+      "status": "studied",
+      "stems": [
+        "воста"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "воста",
+          "foreign": "立"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "Господь; господин",
+      "japan": "主",
+      "status": "studied",
+      "stems": [
+        "господь",
+        "господи",
+        "господ"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Господь",
+          "foreign": "主"
+        },
+        {
+          "russian": "Го́споди",
+          "foreign": "主"
+        },
+        {
+          "russian": "Господ",
+          "foreign": "主"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "грех; вина",
+      "japan": "罪",
+      "status": "studied",
+      "stems": [
+        "греш",
+        "грех",
+        "грес"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "греш",
+          "foreign": "罪"
+        },
+        {
+          "russian": "грех",
+          "foreign": "罪"
+        },
+        {
+          "russian": "грес",
+          "foreign": "罪"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "день; солнце",
+      "japan": "日",
+      "status": "studied",
+      "stems": [
+        "день"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "День",
+          "foreign": "日"
+        },
+        {
+          "russian": "дня",
+          "foreign": "日я"
+        },
+        {
+          "russian": "дни",
+          "foreign": "日и"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "дом; жилище",
+      "japan": "宅",
+      "status": "studied",
+      "stems": [
+        "дом"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "дом",
+          "foreign": "宅"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "душа",
+      "japan": "魂",
+      "status": "studied",
+      "stems": [
+        "душ"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "душ",
+          "foreign": "魂"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "дух",
+      "japan": "霊",
+      "status": "studied",
+      "stems": [
+        "дух"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Дух",
+          "foreign": "霊"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "зло",
+      "japan": "悪",
+      "status": "studied",
+      "stems": [
+        "зло"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "зло",
+          "foreign": "悪"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "жизнь; рождение",
+      "japan": "生",
+      "status": "studied",
+      "stems": [
+        "жизн"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "жизн",
+          "foreign": "生"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "огонь",
+      "japan": "火",
+      "status": "studied",
+      "stems": [
+        "жегаем",
+        "огня",
+        "пламе",
+        "пламень"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "жегаем",
+          "foreign": "火"
+        },
+        {
+          "russian": "огня́",
+          "foreign": "火"
+        },
+        {
+          "russian": "пламе",
+          "foreign": "火"
+        },
+        {
+          "russian": "пла́мень",
+          "foreign": "火"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "земля",
+      "japan": "地",
+      "status": "studied",
+      "stems": [
+        "земли",
+        "земно"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "земли",
+          "foreign": "地"
+        },
+        {
+          "russian": "земно",
+          "foreign": "地"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "имя",
+      "japan": "名",
+      "status": "studied",
+      "stems": [
+        "имя",
+        "имен"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "имя",
+          "foreign": "名"
+        },
+        {
+          "russian": "имен",
+          "foreign": "名"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "кровь",
+      "japan": "血",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "кров",
+          "foreign": "血"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "кость",
+      "japan": "骨",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "кост",
+          "foreign": "骨"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "конец",
+      "japan": "末",
+      "status": "studied",
+      "stems": [
+        "конц"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "конц",
+          "foreign": "末"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "книга; источник",
+      "japan": "本",
+      "status": "studied",
+      "stems": [
+        "кни"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "книзе",
+          "foreign": "本зе"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "лукав",
+      "japan": "虚伪",
+      "status": "studied",
+      "stems": [
+        "лукав"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "лукав",
+          "foreign": "虚伪"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "лицо; поверхность",
+      "japan": "面",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "лице",
+          "foreign": "面"
+        },
+        {
+          "russian": "лица",
+          "foreign": "面"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "любить; нравиться",
+      "japan": "好",
+      "status": "studied",
+      "stems": [
+        "любе",
+        "люби",
+        "любст"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "любе",
+          "foreign": "好"
+        },
+        {
+          "russian": "люби",
+          "foreign": "好"
+        },
+        {
+          "russian": "лю́бст",
+          "foreign": "好"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "молиться; молитва",
+      "japan": "祈",
+      "status": "studied",
+      "stems": [
+        "молит",
+        "мольб",
+        "молящ"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "молитв",
+          "foreign": "祈в"
+        },
+        {
+          "russian": "мольб",
+          "foreign": "祈"
+        },
+        {
+          "russian": "молящ",
+          "foreign": "祈"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "мать",
+      "japan": "母",
+      "status": "studied",
+      "stems": [
+        "мати",
+        "матер"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Мати",
+          "foreign": "母"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "мой; моя; моё",
+      "japan": "私の",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "моя",
+          "foreign": "私の"
+        },
+        {
+          "russian": "мое",
+          "foreign": "私の"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "милосердие",
+      "japan": "慈悲",
+      "status": "studied",
+      "stems": [
+        "милос"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "милос",
+          "foreign": "慈悲"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "учить",
+      "japan": "教",
+      "status": "studied",
+      "stems": [
+        "науч"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "науч",
+          "foreign": "教"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "не; отрицание",
+      "japan": "非",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "не",
+          "foreign": "非"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "небо",
+      "japan": "天",
+      "status": "studied",
+      "stems": [
+        "небе",
+        "неб",
+        "небес"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Небе",
+          "foreign": "天"
+        },
+        {
+          "russian": "Небу",
+          "foreign": "天у"
+        },
+        {
+          "russian": "Небес",
+          "foreign": "天"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "ночь",
+      "japan": "夜",
+      "status": "studied",
+      "stems": [
+        "нощ"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Нощн",
+          "foreign": "夜и"
+        },
+        {
+          "russian": "Нощи",
+          "foreign": "夜и"
+        },
+        {
+          "russian": "Нощь",
+          "foreign": "夜ь"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "но; противительный союз (также показатель подлежащего)",
+      "japan": "が",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "но",
+          "foreign": "が"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "сейчас; ныне",
+      "japan": "今",
+      "status": "studied",
+      "stems": [
+        "ныне",
+        "сеичас"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "ныне",
+          "foreign": "今"
+        },
+        {
+          "russian": "Сейчас",
+          "foreign": "今"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "завершение",
+      "japan": "完",
+      "status": "studied",
+      "stems": [
+        "оконч"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "оконч",
+          "foreign": "完"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "мыть",
+      "japan": "洗",
+      "status": "studied",
+      "stems": [
+        "омыи"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "омый",
+          "foreign": "洗"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "отец",
+      "japan": "父",
+      "status": "studied",
+      "stems": [
+        "отец",
+        "отче",
+        "отцем",
+        "отц",
+        "отца",
+        "отцу"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "отец",
+          "foreign": "父"
+        },
+        {
+          "russian": "Отче",
+          "foreign": "父"
+        },
+        {
+          "russian": "О́тче",
+          "foreign": "父"
+        },
+        {
+          "russian": "Отце́м",
+          "foreign": "父"
+        },
+        {
+          "russian": "Отц",
+          "foreign": "父"
+        },
+        {
+          "russian": "Отца",
+          "foreign": "父"
+        },
+        {
+          "russian": "Отцу́",
+          "foreign": "父"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "открывать",
+      "japan": "開",
+      "status": "studied",
+      "stems": [
+        "отверз"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "отверз",
+          "foreign": "開"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "очи сердца",
+      "japan": "心の両目",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "очи сердечныя",
+          "foreign": "心の両目"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "оба глаза",
+      "japan": "両目",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "очи",
+          "foreign": "両目"
+        },
+        {
+          "russian": "очеса",
+          "foreign": "両目"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "плоть; мясо",
+      "japan": "肉",
+      "status": "studied",
+      "stems": [
+        "плот"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "плот",
+          "foreign": "肉"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "песня; петь",
+      "japan": "歌",
+      "status": "studied",
+      "stems": [
+        "пети",
+        "поет",
+        "песнь"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "пети",
+          "foreign": "歌"
+        },
+        {
+          "russian": "поет",
+          "foreign": "歌"
+        },
+        {
+          "russian": "Песнь",
+          "foreign": "歌"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "постоянный; всегда",
+      "japan": "常",
+      "status": "studied",
+      "stems": [
+        "присно"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "присно",
+          "foreign": "常"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "прав",
+      "japan": "对",
+      "status": "studied",
+      "stems": [
+        "прав"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "прав",
+          "foreign": "对"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "прежде; перед",
+      "japan": "前",
+      "status": "studied",
+      "stems": [
+        "прежд"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "прежд",
+          "foreign": "前"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "приходить",
+      "japan": "来",
+      "status": "studied",
+      "stems": [
+        "приид"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "приид",
+          "foreign": "来"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "путь",
+      "japan": "道",
+      "status": "studied",
+      "stems": [
+        "пут"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "пут",
+          "foreign": "道"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "работа; ремесло",
+      "japan": "工",
+      "status": "studied",
+      "stems": [
+        "раб"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "раб",
+          "foreign": "工"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "радость",
+      "japan": "喜",
+      "status": "studied",
+      "stems": [
+        "радует",
+        "радуют",
+        "радуи",
+        "радос"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "радует",
+          "foreign": "喜"
+        },
+        {
+          "russian": "радуют",
+          "foreign": "喜"
+        },
+        {
+          "russian": "радуй",
+          "foreign": "喜"
+        },
+        {
+          "russian": "радость",
+          "foreign": "喜ть"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "зажигание; воспламенение",
+      "japan": "点火",
+      "status": "studied",
+      "stems": [
+        "разжжен"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "разжжен",
+          "foreign": "点火"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "рай; небесное царство",
+      "japan": "天国",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "рай",
+          "foreign": "天国й"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "рука",
+      "japan": "手",
+      "status": "studied",
+      "stems": [
+        "рук"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "руку",
+          "foreign": "手у"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "обе руки",
+      "japan": "両手",
+      "status": "studied",
+      "stems": [
+        "руц"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Руце",
+          "foreign": "両手е"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "дьявол",
+      "japan": "悪魔",
+      "status": "studied",
+      "stems": [
+        "сатан"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "сатан",
+          "foreign": "悪魔"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "святой",
+      "japan": "聖",
+      "status": "studied",
+      "stems": [
+        "святаго",
+        "свята",
+        "святому",
+        "святыи",
+        "свят"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Свята́го",
+          "foreign": "聖"
+        },
+        {
+          "russian": "Свята́",
+          "foreign": "聖"
+        },
+        {
+          "russian": "Свято́му",
+          "foreign": "聖"
+        },
+        {
+          "russian": "Святы́й",
+          "foreign": "聖"
+        },
+        {
+          "russian": "Свят",
+          "foreign": "聖"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "сердце",
+      "japan": "心",
+      "status": "studied",
+      "stems": [
+        "сердц",
+        "сердеч"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "сердц",
+          "foreign": "心"
+        },
+        {
+          "russian": "се́рдц",
+          "foreign": "心"
+        },
+        {
+          "russian": "сердеч",
+          "foreign": "心"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "свет",
+      "japan": "光",
+      "status": "studied",
+      "stems": [
+        "свет",
+        "светл"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "свет",
+          "foreign": "光"
+        },
+        {
+          "russian": "светл",
+          "foreign": "光"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "сила",
+      "japan": "力",
+      "status": "studied",
+      "stems": [
+        "сила",
+        "сильн",
+        "сильств",
+        "сил"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Сила",
+          "foreign": "力"
+        },
+        {
+          "russian": "Сильн",
+          "foreign": "力"
+        },
+        {
+          "russian": "сильств",
+          "foreign": "力"
+        },
+        {
+          "russian": "силу",
+          "foreign": "力у"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "слава; процветание",
+      "japan": "栄",
+      "status": "studied",
+      "stems": [
+        "слав"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Слав",
+          "foreign": "栄"
+        },
+        {
+          "russian": "Сла́в",
+          "foreign": "栄"
+        },
+        {
+          "russian": "Славе",
+          "foreign": "栄е"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "слово; язык",
+      "japan": "語",
+      "status": "studied",
+      "stems": [
+        "слов"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Слов",
+          "foreign": "語"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "слеза",
+      "japan": "泪",
+      "status": "studied",
+      "stems": [
+        "слеза"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Слеза",
+          "foreign": "泪"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "смерть",
+      "japan": "死",
+      "status": "studied",
+      "stems": [
+        "смерт"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Смерт",
+          "foreign": "死"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "снег",
+      "japan": "雪",
+      "status": "studied",
+      "stems": [
+        "снег"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "снег",
+          "foreign": "雪"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "сон",
+      "japan": "眠",
+      "status": "studied",
+      "stems": [],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "сна",
+          "foreign": "眠"
+        },
+        {
+          "russian": "сна",
+          "foreign": "眠"
+        },
+        {
+          "russian": "сне",
+          "foreign": "眠"
+        },
+        {
+          "russian": "сон",
+          "foreign": "眠"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "сын; ребёнок",
+      "japan": "子",
+      "status": "studied",
+      "stems": [
+        "сын"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Сы́на",
+          "foreign": "子а"
+        },
+        {
+          "russian": "Сы́ну",
+          "foreign": "子у"
+        },
+        {
+          "russian": "Сын",
+          "foreign": "子"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "твой; твоя; твоё",
+      "japan": "あなたの",
+      "status": "studied",
+      "stems": [
+        "твоего",
+        "тво"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "твоего",
+          "foreign": "あなたの"
+        },
+        {
+          "russian": "твое",
+          "foreign": "あなたのе"
+        },
+        {
+          "russian": "твои",
+          "foreign": "あなたのи"
+        },
+        {
+          "russian": "твою",
+          "foreign": "あなたのю"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "тело",
+      "japan": "体",
+      "status": "studied",
+      "stems": [
+        "телесн",
+        "тело",
+        "тел",
+        "телес"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "телесн",
+          "foreign": "体"
+        },
+        {
+          "russian": "тело",
+          "foreign": "体"
+        },
+        {
+          "russian": "тела",
+          "foreign": "体а"
+        },
+        {
+          "russian": "телу",
+          "foreign": "体у"
+        },
+        {
+          "russian": "телес",
+          "foreign": "体"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "рот; уста",
+      "japan": "口",
+      "status": "studied",
+      "stems": [
+        "устне",
+        "усте",
+        "уст"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "устне",
+          "foreign": "口"
+        },
+        {
+          "russian": "устен",
+          "foreign": "口н"
+        },
+        {
+          "russian": "уста́",
+          "foreign": "口а"
+        },
+        {
+          "russian": "уста",
+          "foreign": "口а"
+        },
+        {
+          "russian": "усты",
+          "foreign": "口ы"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "рано",
+      "japan": "早",
+      "status": "studied",
+      "stems": [
+        "утр"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "утр",
+          "foreign": "早"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "лечить; лечение",
+      "japan": "療",
+      "status": "studied",
+      "stems": [
+        "врач"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "врач",
+          "foreign": "療"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "учиться",
+      "japan": "学",
+      "status": "studied",
+      "stems": [
+        "учат"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "учат",
+          "foreign": "学"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "страна; государство",
+      "japan": "国",
+      "status": "studied",
+      "stems": [
+        "царствие",
+        "царстви",
+        "царство"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Царствие",
+          "foreign": "国"
+        },
+        {
+          "russian": "Царствию",
+          "foreign": "国ю"
+        },
+        {
+          "russian": "царство",
+          "foreign": "国"
+        },
+        {
+          "russian": "Ца́рствие",
+          "foreign": "国"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "царь; король",
+      "japan": "王",
+      "status": "studied",
+      "stems": [
+        "цар",
+        "царе"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "царю",
+          "foreign": "王ю"
+        },
+        {
+          "russian": "царя",
+          "foreign": "王я"
+        },
+        {
+          "russian": "Цареви",
+          "foreign": "王ви"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "царица; королева",
+      "japan": "女王",
+      "status": "studied",
+      "stems": [
+        "цариц"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "царица",
+          "foreign": "女王а"
+        },
+        {
+          "russian": "царице",
+          "foreign": "女王е"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "хлеб",
+      "japan": "パン",
+      "status": "studied",
+      "stems": [
+        "хлеб"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Хлеб",
+          "foreign": "パン"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "человек",
+      "japan": "人",
+      "status": "studied",
+      "stems": [
+        "челове"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Человек",
+          "foreign": "人к"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "чистый; очищать",
+      "japan": "浄",
+      "status": "studied",
+      "stems": [
+        "чист"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "чист",
+          "foreign": "浄"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    },
+    {
+      "word": "язык (орган)",
+      "japan": "舌",
+      "status": "studied",
+      "stems": [
+        "язык"
+      ],
+      "stemsInsideWords": true,
+      "readingForms": [
+        {
+          "russian": "Язык",
+          "foreign": "舌"
+        }
+      ],
+      "notes": "Правила чтения перенесены из public/japanese.html. Полные словарные значения имеют приоритет; корни сохраняют русское окончание."
+    }
+  ]
+}

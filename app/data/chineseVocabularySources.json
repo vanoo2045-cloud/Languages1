@@ -1,0 +1,697 @@
+{
+  "sources": [
+    {
+      "title": "Json Ассоц1.txt",
+      "url": "https://drive.google.com/file/d/1A-3aprHSzzmICLsCmY4tMG-YGkBjVEi6/view"
+    },
+    {
+      "title": "Json ассоц2.txt",
+      "url": "https://drive.google.com/file/d/1WrxYBU1BkKMBcFZFUP1GAMYxPloFFSmE/view"
+    },
+    {
+      "title": "Json Ассоц3.txt",
+      "url": "https://drive.google.com/file/d/1Zv_OXvq_8jq4fVAJwb8wMiwD0pTtxBd6/view"
+    },
+    {
+      "title": "Карточки.txt",
+      "url": "https://drive.google.com/file/d/1H1NYXYCpiPGjhaWNPvAPmiEVvFp9w2Jc/view"
+    }
+  ],
+  "associationVocabulary": [
+    {
+      "hanzi": "囗",
+      "translation": "ограда",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "口",
+      "translation": "рот",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "音",
+      "translation": "звук",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "舌",
+      "translation": "язык",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "吅",
+      "translation": "спорить",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "品",
+      "translation": "предмет, товар",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "哭",
+      "translation": "крик, плачь",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "言",
+      "translation": "речь",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "号",
+      "translation": "имя",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "刀",
+      "translation": "нож",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "刃",
+      "translation": "лезвие",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "丯",
+      "translation": "изящный",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "分",
+      "translation": "делить",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "切",
+      "translation": "резать",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "力",
+      "translation": "сила",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "彡",
+      "translation": "-длинная шерсть",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "髟",
+      "translation": "волосы",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "毛",
+      "translation": "шерсть",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "豕",
+      "translation": "свинья",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "物",
+      "translation": "вещь, обьект",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "豸",
+      "translation": "змея",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "手",
+      "translation": "рука",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "毳",
+      "translation": "пух",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "羽",
+      "translation": "перья",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "冂",
+      "translation": "границы, широкий",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "网",
+      "translation": "сеть",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "冃",
+      "translation": "шляпа",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "禸",
+      "translation": "след",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "瓜",
+      "translation": "тыква, дыня",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "爪",
+      "translation": "когти",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "巾",
+      "translation": "полотенце, платок",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "市—",
+      "translation": "город, муниципалитет, рынок",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "市",
+      "translation": "город, муниципалитет, рынок",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "沛",
+      "translation": "обильный",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "巿",
+      "translation": "ритуальный праздник",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "雨",
+      "translation": "дождь",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "雲",
+      "translation": "облако",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "帛",
+      "translation": "шелк",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "黹",
+      "translation": "вышивание",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "而",
+      "translation": "и",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "耑",
+      "translation": "конец",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "襾",
+      "translation": "накрывать, покрывать",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "西",
+      "translation": "западный",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "酉",
+      "translation": "вино",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "囧",
+      "translation": "светлый, одаренный",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "酋",
+      "translation": "вождь",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "囪",
+      "translation": "дымоход",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "卤",
+      "translation": "соль",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "面",
+      "translation": "лицо",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "四",
+      "translation": "четыре",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "工",
+      "translation": "работа",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "士",
+      "translation": "воин",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "半",
+      "translation": "половина",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "干",
+      "translation": "сухой, щит, обижать, оскорблять, вторгатся",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "千",
+      "translation": "тысяча",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "才",
+      "translation": "талант",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "土",
+      "translation": "земля",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "无",
+      "translation": "небытие, ничето, нет, без.",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "壬",
+      "translation": "девятый льстивый",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "玉",
+      "translation": "царь",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "生",
+      "translation": "рождение жизнь",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "至",
+      "translation": "достигать",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "牛",
+      "translation": "корова",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "告",
+      "translation": "сказать",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "隹",
+      "translation": "Голубь",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "缶",
+      "translation": "амфора",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "聿",
+      "translation": "кисть для калиграфии, затем",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "韦",
+      "translation": "дубленка, мягкая кожа",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "书",
+      "translation": "книга",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "卩",
+      "translation": "печать",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "卯",
+      "translation": "паз в дереве",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "文",
+      "translation": "письменность, знак",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "又",
+      "translation": "правая рука, ладонь, снова, опять, еще раз",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "攴",
+      "translation": "ударять, бить, действие",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "夊",
+      "translation": "волочить ноги",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "放",
+      "translation": "отпускать, освобождать",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "友",
+      "translation": "дружба",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "殳",
+      "translation": "пика, гарпун",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "麦",
+      "translation": "пшеница",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "鼓",
+      "translation": "барабан",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "女",
+      "translation": "женщина",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "安",
+      "translation": "покой",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "叕",
+      "translation": "сшить, соединять, нехватать",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "爻",
+      "translation": "черта",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "父",
+      "translation": "отец",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "凶",
+      "translation": "преступник",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "豆",
+      "translation": "бобы, горох",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "喜",
+      "translation": "радость",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "壴",
+      "translation": "барабанчик",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "豈",
+      "translation": "разве",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "豐",
+      "translation": "богатый",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "月",
+      "translation": "луна",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "舟",
+      "translation": "лодка",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "有",
+      "translation": "иметь",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "明",
+      "translation": "светлый",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "朋",
+      "translation": "близкие",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "用",
+      "translation": "использовать",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "角",
+      "translation": "рог, острие, угол, риф, мыс",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "青",
+      "translation": "синий",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "耳",
+      "translation": "ухо",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "冄",
+      "translation": "медленно",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "甘",
+      "translation": "сладкий",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "日",
+      "translation": "солнце",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "晶",
+      "translation": "кристалл, сверкающий",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "旦",
+      "translation": "утро",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "曰",
+      "translation": "говорить",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "臼",
+      "translation": "ступа",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "目",
+      "translation": "глаз",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "自",
+      "translation": "сам, с тех пор",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "眉",
+      "translation": "бровь",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "見",
+      "translation": "видеть",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "覞",
+      "translation": "смотреть друг на друга",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "鼎",
+      "translation": "тренога инопланетянин",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "鼎",
+      "translation": "тренога",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "員",
+      "translation": "работник",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "页",
+      "translation": "голова",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "贝",
+      "translation": "раковина, деньги",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "百",
+      "translation": "сто",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "首",
+      "translation": "глава, предводитель, основное, суть",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "只",
+      "translation": "только",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "冥",
+      "translation": "загробный, ад",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "亯",
+      "translation": "получать, наслаждаться",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "高",
+      "translation": "высокий",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "鬲",
+      "translation": "кувшин",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "呂",
+      "translation": "позвоночник",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "宮",
+      "translation": "дворец",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "冖",
+      "translation": "крышка",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "亠",
+      "translation": "верхушка",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "宀",
+      "translation": "крыша",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "穴",
+      "translation": "пещера",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "六",
+      "translation": "шесть",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "立",
+      "translation": "стоять",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "竝",
+      "translation": "стоять рядом",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "宁",
+      "translation": "спокойный",
+      "pinyin": ""
+    },
+    {
+      "hanzi": "京",
+      "translation": "столица",
+      "pinyin": "jing"
+    }
+  ]
+}

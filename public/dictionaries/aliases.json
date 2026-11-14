@@ -1,0 +1,9403 @@
+{
+  "ancientGreek": [
+    {
+      "russian": "Павел",
+      "foreign": "Παῦλος",
+      "codeBible": "3972"
+    },
+    {
+      "russian": "званый",
+      "foreign": "κλητὸς",
+      "codeBible": "2822"
+    },
+    {
+      "russian": "апостол",
+      "foreign": "ἀπόστολος",
+      "codeBible": "652"
+    },
+    {
+      "russian": "Христа",
+      "foreign": "Χριστοῦ",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "Иисуса",
+      "foreign": "Ἰησοῦ",
+      "codeBible": "2424"
+    },
+    {
+      "russian": "через",
+      "foreign": "διὰ",
+      "codeBible": "1223"
+    },
+    {
+      "russian": "волю",
+      "foreign": "θελήματος",
+      "codeBible": "2307"
+    },
+    {
+      "russian": "Бога,",
+      "foreign": "θεοῦ",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "и",
+      "foreign": "καὶ",
+      "codeBible": "2532"
+    },
+    {
+      "russian": "Сосфен",
+      "foreign": "Σωσθένης",
+      "codeBible": "4988"
+    },
+    {
+      "russian": "брат,",
+      "foreign": "ἀδελφός",
+      "codeBible": "80"
+    },
+    {
+      "russian": "церкви",
+      "foreign": "ἐκκλησίᾳ",
+      "codeBible": "1577"
+    },
+    {
+      "russian": "Бога",
+      "foreign": "θεοῦ",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "сущей",
+      "foreign": "οὔσῃ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "в",
+      "foreign": "ἐν",
+      "codeBible": "1722"
+    },
+    {
+      "russian": "Коринфе,",
+      "foreign": "Κορίνθῳ",
+      "codeBible": "2882"
+    },
+    {
+      "russian": "освящённым",
+      "foreign": "ἡγιασμένοις",
+      "codeBible": "37"
+    },
+    {
+      "russian": "Христе",
+      "foreign": "Χριστῷ",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "Иисусе,",
+      "foreign": "Ἰησοῦ",
+      "codeBible": "2424"
+    },
+    {
+      "russian": "званым",
+      "foreign": "κλητοῖς",
+      "codeBible": "2822"
+    },
+    {
+      "russian": "святым,",
+      "foreign": "ἁγίοις",
+      "codeBible": "40"
+    },
+    {
+      "russian": "со",
+      "foreign": "σὺν",
+      "codeBible": "4862"
+    },
+    {
+      "russian": "всеми",
+      "foreign": "πᾶσιν",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "призывающими",
+      "foreign": "ἐπικαλουμένοις",
+      "codeBible": "1941"
+    },
+    {
+      "russian": "имя",
+      "foreign": "ὄνομα",
+      "codeBible": "3686"
+    },
+    {
+      "russian": "Го́спода",
+      "foreign": "κυρίου",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "нашего",
+      "foreign": "ἡμῶν",
+      "codeBible": "2257"
+    },
+    {
+      "russian": "во",
+      "foreign": "ἐν",
+      "codeBible": "1722"
+    },
+    {
+      "russian": "всяком",
+      "foreign": "παντὶ",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "месте,",
+      "foreign": "τόπῳ",
+      "codeBible": "5117"
+    },
+    {
+      "russian": "их",
+      "foreign": "αὐτῶν",
+      "codeBible": "846"
+    },
+    {
+      "russian": "нашего;",
+      "foreign": "ἡμῶν",
+      "codeBible": "2257"
+    },
+    {
+      "russian": "благодать",
+      "foreign": "χάρις",
+      "codeBible": "5485"
+    },
+    {
+      "russian": "вам",
+      "foreign": "ὑμῖν",
+      "codeBible": "5213"
+    },
+    {
+      "russian": "мир",
+      "foreign": "εἰρήνη",
+      "codeBible": "1515"
+    },
+    {
+      "russian": "от",
+      "foreign": "ἀπὸ",
+      "codeBible": "575"
+    },
+    {
+      "russian": "Отца",
+      "foreign": "πατρὸς",
+      "codeBible": "3962"
+    },
+    {
+      "russian": "Христа.",
+      "foreign": "Χριστοῦ",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "Благодарю",
+      "foreign": "Εὐχαριστῶ",
+      "codeBible": "2168"
+    },
+    {
+      "russian": "Бога",
+      "foreign": "θεῷ",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "моего",
+      "foreign": "μου",
+      "codeBible": "3450"
+    },
+    {
+      "russian": "всегда",
+      "foreign": "πάντοτε",
+      "codeBible": "3842"
+    },
+    {
+      "russian": "о",
+      "foreign": "περὶ",
+      "codeBible": "4012"
+    },
+    {
+      "russian": "вас",
+      "foreign": "ὑμῶν",
+      "codeBible": "5216"
+    },
+    {
+      "russian": "за",
+      "foreign": "ἐπὶ",
+      "codeBible": "1909"
+    },
+    {
+      "russian": "благодать",
+      "foreign": "χάριτι",
+      "codeBible": "5485"
+    },
+    {
+      "russian": "данную",
+      "foreign": "δοθείσῃ",
+      "codeBible": "1325"
+    },
+    {
+      "russian": "потому что",
+      "foreign": "ὅτι",
+      "codeBible": "3754"
+    },
+    {
+      "russian": "всём",
+      "foreign": "παντὶ",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "вы были обогащены",
+      "foreign": "ἐπλουτίσθητε",
+      "codeBible": "4148"
+    },
+    {
+      "russian": "Нём,",
+      "foreign": "αὐτῷ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "слове",
+      "foreign": "λόγῳ",
+      "codeBible": "3056"
+    },
+    {
+      "russian": "всяком",
+      "foreign": "πάσῃ",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "знании,",
+      "foreign": "γνώσει",
+      "codeBible": "1108"
+    },
+    {
+      "russian": "как",
+      "foreign": "καθὼς",
+      "codeBible": "2531"
+    },
+    {
+      "russian": "свидетельство",
+      "foreign": "μαρτύριον",
+      "codeBible": "3142"
+    },
+    {
+      "russian": "было упрочнено",
+      "foreign": "ἐβεβαιώθη",
+      "codeBible": "950"
+    },
+    {
+      "russian": "вас,",
+      "foreign": "ὑμῖν",
+      "codeBible": "5213"
+    },
+    {
+      "russian": "так что",
+      "foreign": "ὥστε",
+      "codeBible": "5620"
+    },
+    {
+      "russian": "вам",
+      "foreign": "ὑμᾶς",
+      "codeBible": "5209"
+    },
+    {
+      "russian": "не",
+      "foreign": "μὴ",
+      "codeBible": "3361"
+    },
+    {
+      "russian": "быть в нужде",
+      "foreign": "ὑστερεῖσθαι",
+      "codeBible": "5302"
+    },
+    {
+      "russian": "никаком",
+      "foreign": "μηδενὶ",
+      "codeBible": "3367"
+    },
+    {
+      "russian": "даровании,",
+      "foreign": "χαρίσματι",
+      "codeBible": "5486"
+    },
+    {
+      "russian": "ожидающих",
+      "foreign": "ἀπεκδεχομένους",
+      "codeBible": "553"
+    },
+    {
+      "russian": "открытия",
+      "foreign": "ἀποκάλυψιν",
+      "codeBible": "602"
+    },
+    {
+      "russian": "Христа;",
+      "foreign": "Χριστοῦ",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "Который",
+      "foreign": "ὃς",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "упрочит",
+      "foreign": "βεβαιώσει",
+      "codeBible": "950"
+    },
+    {
+      "russian": "вас",
+      "foreign": "ὑμᾶς",
+      "codeBible": "5209"
+    },
+    {
+      "russian": "до",
+      "foreign": "ἕως",
+      "codeBible": "2193"
+    },
+    {
+      "russian": "конца",
+      "foreign": "τέλους",
+      "codeBible": "5056"
+    },
+    {
+      "russian": "безукоризненных",
+      "foreign": "ἀνεγκλήτους",
+      "codeBible": "410"
+    },
+    {
+      "russian": "день",
+      "foreign": "ἡμέρᾳ",
+      "codeBible": "2250"
+    },
+    {
+      "russian": "Христа.",
+      "foreign": "[Χριστοῦ]",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "Верный",
+      "foreign": "πιστὸς",
+      "codeBible": "4103"
+    },
+    {
+      "russian": "Бог",
+      "foreign": "θεὸς",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "через",
+      "foreign": "δι᾽",
+      "codeBible": "1223"
+    },
+    {
+      "russian": "Которого",
+      "foreign": "οὗ",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "вы были призваны",
+      "foreign": "ἐκλήθητε",
+      "codeBible": "2564"
+    },
+    {
+      "russian": "в",
+      "foreign": "εἰς",
+      "codeBible": "1519"
+    },
+    {
+      "russian": "общность",
+      "foreign": "κοινωνίαν",
+      "codeBible": "2842"
+    },
+    {
+      "russian": "Сына",
+      "foreign": "υἱοῦ",
+      "codeBible": "5207"
+    },
+    {
+      "russian": "Его",
+      "foreign": "αὐτοῦ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "нашего.",
+      "foreign": "ἡμῶν",
+      "codeBible": "2257"
+    },
+    {
+      "russian": "Прошу",
+      "foreign": "Παρακαλῶ",
+      "codeBible": "3870"
+    },
+    {
+      "russian": "же",
+      "foreign": "δὲ",
+      "codeBible": "1161"
+    },
+    {
+      "russian": "вас,",
+      "foreign": "ὑμᾶς",
+      "codeBible": "5209"
+    },
+    {
+      "russian": "братья,",
+      "foreign": "ἀδελφοί",
+      "codeBible": "80"
+    },
+    {
+      "russian": "имя",
+      "foreign": "ὀνόματος",
+      "codeBible": "3686"
+    },
+    {
+      "russian": "Христа,",
+      "foreign": "Χριστοῦ",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "чтобы",
+      "foreign": "ἵνα",
+      "codeBible": "2443"
+    },
+    {
+      "russian": "то же",
+      "foreign": "αὐτὸ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "вы говорили",
+      "foreign": "λέγητε",
+      "codeBible": "3004"
+    },
+    {
+      "russian": "все,",
+      "foreign": "πάντες",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "были",
+      "foreign": "ᾖ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "вас",
+      "foreign": "ὑμῖν",
+      "codeBible": "5213"
+    },
+    {
+      "russian": "расколы,",
+      "foreign": "σχίσματα",
+      "codeBible": "4978"
+    },
+    {
+      "russian": "вы были",
+      "foreign": "ἦτε",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "налаженные",
+      "foreign": "κατηρτισμένοι",
+      "codeBible": "2675"
+    },
+    {
+      "russian": "том же",
+      "foreign": "αὐτῷ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "уме",
+      "foreign": "νοῒ",
+      "codeBible": "3563"
+    },
+    {
+      "russian": "том же",
+      "foreign": "αὐτῇ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "мнении.",
+      "foreign": "γνώμῃ",
+      "codeBible": "1106"
+    },
+    {
+      "russian": "Было сделано ясно",
+      "foreign": "ἐδηλώθη",
+      "codeBible": "1213"
+    },
+    {
+      "russian": "ведь",
+      "foreign": "γάρ",
+      "codeBible": "1063"
+    },
+    {
+      "russian": "мне",
+      "foreign": "μοι",
+      "codeBible": "3427"
+    },
+    {
+      "russian": "вас,",
+      "foreign": "ὑμῶν",
+      "codeBible": "5216"
+    },
+    {
+      "russian": "братья",
+      "foreign": "ἀδελφοί",
+      "codeBible": "80"
+    },
+    {
+      "russian": "мои,",
+      "foreign": "μου",
+      "codeBible": "3450"
+    },
+    {
+      "russian": "от",
+      "foreign": "ὑπὸ",
+      "codeBible": "5259"
+    },
+    {
+      "russian": "[которых]",
+      "foreign": "τῶν",
+      "codeBible": "3588"
+    },
+    {
+      "russian": "Хлои",
+      "foreign": "Χλόης",
+      "codeBible": "5514"
+    },
+    {
+      "russian": "что",
+      "foreign": "ὅτι",
+      "codeBible": "3754"
+    },
+    {
+      "russian": "ссоры",
+      "foreign": "ἔριδες",
+      "codeBible": "2054"
+    },
+    {
+      "russian": "есть.",
+      "foreign": "εἰσιν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "Говорю",
+      "foreign": "λέγω",
+      "codeBible": "3004"
+    },
+    {
+      "russian": "это,",
+      "foreign": "τοῦτο",
+      "codeBible": "5124"
+    },
+    {
+      "russian": "каждый",
+      "foreign": "ἕκαστος",
+      "codeBible": "1538"
+    },
+    {
+      "russian": "[из] вас",
+      "foreign": "ὑμῶν",
+      "codeBible": "5216"
+    },
+    {
+      "russian": "говорит,",
+      "foreign": "λέγει",
+      "codeBible": "3004"
+    },
+    {
+      "russian": "Я",
+      "foreign": "Ἐγὼ",
+      "codeBible": "1473"
+    },
+    {
+      "russian": "ведь",
+      "foreign": "μέν",
+      "codeBible": "3303"
+    },
+    {
+      "russian": "есть",
+      "foreign": "εἰμι",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "Павла,",
+      "foreign": "Παύλου",
+      "codeBible": "3972"
+    },
+    {
+      "russian": "Аполла,",
+      "foreign": "Ἀπολλῶ",
+      "codeBible": "625"
+    },
+    {
+      "russian": "Кифы,",
+      "foreign": "Κηφᾶ",
+      "codeBible": "2786"
+    },
+    {
+      "russian": "Разделён",
+      "foreign": "μεμέρισται",
+      "codeBible": "3307"
+    },
+    {
+      "russian": "Христос?",
+      "foreign": "Χριστός",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "Не",
+      "foreign": "μὴ",
+      "codeBible": "3361"
+    },
+    {
+      "russian": "был распят",
+      "foreign": "ἐσταυρώθη",
+      "codeBible": "4717"
+    },
+    {
+      "russian": "за",
+      "foreign": "ὑπὲρ",
+      "codeBible": "5228"
+    },
+    {
+      "russian": "или",
+      "foreign": "ἢ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "Павла",
+      "foreign": "Παύλου",
+      "codeBible": "3972"
+    },
+    {
+      "russian": "вы были погружены?",
+      "foreign": "ἐβαπτίσθητε",
+      "codeBible": "907"
+    },
+    {
+      "russian": "Благодарю",
+      "foreign": "εὐχαριστῶ",
+      "codeBible": "2168"
+    },
+    {
+      "russian": "Бога",
+      "foreign": "θεῷ]",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "никого",
+      "foreign": "οὐδένα",
+      "codeBible": "3762"
+    },
+    {
+      "russian": "я окрестил",
+      "foreign": "ἐβάπτισα",
+      "codeBible": "907"
+    },
+    {
+      "russian": "если",
+      "foreign": "εἰ",
+      "codeBible": "1508"
+    },
+    {
+      "russian": "не",
+      "foreign": "μὴ",
+      "codeBible": "1508"
+    },
+    {
+      "russian": "Криспа",
+      "foreign": "Κρίσπον",
+      "codeBible": "2921"
+    },
+    {
+      "russian": "Гаия,",
+      "foreign": "Γάϊον",
+      "codeBible": "1050"
+    },
+    {
+      "russian": "не",
+      "foreign": "μή",
+      "codeBible": "3361"
+    },
+    {
+      "russian": "кто-либо",
+      "foreign": "τις",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "скажет",
+      "foreign": "εἴπῃ",
+      "codeBible": "2036"
+    },
+    {
+      "russian": "моё",
+      "foreign": "ἐμὸν",
+      "codeBible": "1699"
+    },
+    {
+      "russian": "вы были погружены.",
+      "foreign": "ἐβαπτίσθητε",
+      "codeBible": "907"
+    },
+    {
+      "russian": "Я окрестил",
+      "foreign": "ἐβάπτισα",
+      "codeBible": "907"
+    },
+    {
+      "russian": "Стефана",
+      "foreign": "Στεφανᾶ",
+      "codeBible": "4734"
+    },
+    {
+      "russian": "дом;",
+      "foreign": "οἶκον",
+      "codeBible": "3624"
+    },
+    {
+      "russian": "[в] остальном",
+      "foreign": "λοιπὸν",
+      "codeBible": "3063"
+    },
+    {
+      "russian": "не",
+      "foreign": "οὐκ",
+      "codeBible": "3756"
+    },
+    {
+      "russian": "знаю",
+      "foreign": "οἶδα",
+      "codeBible": "1492"
+    },
+    {
+      "russian": "если",
+      "foreign": "εἴ",
+      "codeBible": "1536"
+    },
+    {
+      "russian": "кого-нибудь",
+      "foreign": "τινα",
+      "codeBible": "1536"
+    },
+    {
+      "russian": "другого",
+      "foreign": "ἄλλον",
+      "codeBible": "243"
+    },
+    {
+      "russian": "я окрестил.",
+      "foreign": "ἐβάπτισα",
+      "codeBible": "907"
+    },
+    {
+      "russian": "Не",
+      "foreign": "οὐ",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "ведь",
+      "foreign": "γὰρ",
+      "codeBible": "1063"
+    },
+    {
+      "russian": "послал",
+      "foreign": "ἀπέστειλέν",
+      "codeBible": "649"
+    },
+    {
+      "russian": "меня",
+      "foreign": "με",
+      "codeBible": "3165"
+    },
+    {
+      "russian": "Христос",
+      "foreign": "Χριστὸς",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "крестить",
+      "foreign": "βαπτίζειν",
+      "codeBible": "907"
+    },
+    {
+      "russian": "но",
+      "foreign": "ἀλλὰ",
+      "codeBible": "235"
+    },
+    {
+      "russian": "благовозвещать,",
+      "foreign": "εὐαγγελίζεσθαι",
+      "codeBible": "2097"
+    },
+    {
+      "russian": "мудрости",
+      "foreign": "σοφίᾳ",
+      "codeBible": "4678"
+    },
+    {
+      "russian": "сло́ва,",
+      "foreign": "λόγου",
+      "codeBible": "3056"
+    },
+    {
+      "russian": "чтобы",
+      "foreign": "ἵνα",
+      "codeBible": "3363"
+    },
+    {
+      "russian": "не",
+      "foreign": "μὴ",
+      "codeBible": "3363"
+    },
+    {
+      "russian": "был опустошён",
+      "foreign": "κενωθῇ",
+      "codeBible": "2758"
+    },
+    {
+      "russian": "крест",
+      "foreign": "σταυρὸς",
+      "codeBible": "4716"
+    },
+    {
+      "russian": "Слово",
+      "foreign": "λόγος",
+      "codeBible": "3056"
+    },
+    {
+      "russian": "креста",
+      "foreign": "σταυροῦ",
+      "codeBible": "4716"
+    },
+    {
+      "russian": "ведь",
+      "foreign": "μὲν",
+      "codeBible": "3303"
+    },
+    {
+      "russian": "гибнущим",
+      "foreign": "ἀπολλυμένοις",
+      "codeBible": "622"
+    },
+    {
+      "russian": "глупость",
+      "foreign": "μωρία",
+      "codeBible": "3472"
+    },
+    {
+      "russian": "есть,",
+      "foreign": "ἐστίν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "спасающимся",
+      "foreign": "σῳζομένοις",
+      "codeBible": "4982"
+    },
+    {
+      "russian": "нам",
+      "foreign": "ἡμῖν",
+      "codeBible": "2254"
+    },
+    {
+      "russian": "сила",
+      "foreign": "δύναμις",
+      "codeBible": "1411"
+    },
+    {
+      "russian": "есть.",
+      "foreign": "ἐστιν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "Написано",
+      "foreign": "γέγραπται",
+      "codeBible": "1125"
+    },
+    {
+      "russian": "ведь,",
+      "foreign": "γάρ",
+      "codeBible": "1063"
+    },
+    {
+      "russian": "Погублю",
+      "foreign": "Ἀπολῶ",
+      "codeBible": "622"
+    },
+    {
+      "russian": "мудрость",
+      "foreign": "σοφίαν",
+      "codeBible": "4678"
+    },
+    {
+      "russian": "мудрых,",
+      "foreign": "σοφῶν",
+      "codeBible": "4680"
+    },
+    {
+      "russian": "понимание",
+      "foreign": "σύνεσιν",
+      "codeBible": "4907"
+    },
+    {
+      "russian": "разумных",
+      "foreign": "συνετῶν",
+      "codeBible": "4908"
+    },
+    {
+      "russian": "отвергну.",
+      "foreign": "ἀθετήσω",
+      "codeBible": "114"
+    },
+    {
+      "russian": "Где",
+      "foreign": "ποῦ",
+      "codeBible": "4226"
+    },
+    {
+      "russian": "мудрый?",
+      "foreign": "σοφός",
+      "codeBible": "4680"
+    },
+    {
+      "russian": "книжник?",
+      "foreign": "γραμματεύς",
+      "codeBible": "1122"
+    },
+    {
+      "russian": "исследователь",
+      "foreign": "συζητητὴς",
+      "codeBible": "4804"
+    },
+    {
+      "russian": "ве́ка",
+      "foreign": "αἰῶνος",
+      "codeBible": "165"
+    },
+    {
+      "russian": "этого?",
+      "foreign": "τούτου",
+      "codeBible": "5127"
+    },
+    {
+      "russian": "[Разве] не",
+      "foreign": "οὐχὶ",
+      "codeBible": "3780"
+    },
+    {
+      "russian": "оглупил",
+      "foreign": "ἐμώρανεν",
+      "codeBible": "3471"
+    },
+    {
+      "russian": "мира?",
+      "foreign": "κόσμου",
+      "codeBible": "2889"
+    },
+    {
+      "russian": "Так как",
+      "foreign": "ἐπειδὴ",
+      "codeBible": "1894"
+    },
+    {
+      "russian": "узнал",
+      "foreign": "ἔγνω",
+      "codeBible": "1097"
+    },
+    {
+      "russian": "мир",
+      "foreign": "κόσμος",
+      "codeBible": "2889"
+    },
+    {
+      "russian": "мудрость",
+      "foreign": "σοφίας",
+      "codeBible": "4678"
+    },
+    {
+      "russian": "Бога,",
+      "foreign": "θεόν",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "счёл за благо",
+      "foreign": "εὐδόκησεν",
+      "codeBible": "2106"
+    },
+    {
+      "russian": "глупость",
+      "foreign": "μωρίας",
+      "codeBible": "3472"
+    },
+    {
+      "russian": "возвещения",
+      "foreign": "κηρύγματος",
+      "codeBible": "2782"
+    },
+    {
+      "russian": "спасти",
+      "foreign": "σῶσαι",
+      "codeBible": "4982"
+    },
+    {
+      "russian": "верящих.",
+      "foreign": "πιστεύοντας",
+      "codeBible": "4100"
+    },
+    {
+      "russian": "Иудеи",
+      "foreign": "Ἰουδαῖοι",
+      "codeBible": "2453"
+    },
+    {
+      "russian": "знамения",
+      "foreign": "σημεῖα",
+      "codeBible": "4592"
+    },
+    {
+      "russian": "просят",
+      "foreign": "αἰτοῦσιν",
+      "codeBible": "154"
+    },
+    {
+      "russian": "Эллины",
+      "foreign": "Ελληνες",
+      "codeBible": "1672"
+    },
+    {
+      "russian": "ищут,",
+      "foreign": "ζητοῦσιν",
+      "codeBible": "2212"
+    },
+    {
+      "russian": "мы",
+      "foreign": "ἡμεῖς",
+      "codeBible": "2249"
+    },
+    {
+      "russian": "возвещаем",
+      "foreign": "κηρύσσομεν",
+      "codeBible": "2784"
+    },
+    {
+      "russian": "Христа",
+      "foreign": "Χριστὸν",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "распятого,",
+      "foreign": "ἐσταυρωμένον",
+      "codeBible": "4717"
+    },
+    {
+      "russian": "Иудеям",
+      "foreign": "Ἰουδαίοις",
+      "codeBible": "2453"
+    },
+    {
+      "russian": "неприличие",
+      "foreign": "σκάνδαλον",
+      "codeBible": "4625"
+    },
+    {
+      "russian": "язычникам",
+      "foreign": "ἔθνεσιν",
+      "codeBible": "1484"
+    },
+    {
+      "russian": "глупость,",
+      "foreign": "μωρίαν",
+      "codeBible": "3472"
+    },
+    {
+      "russian": "самим",
+      "foreign": "αὐτοῖς",
+      "codeBible": "846"
+    },
+    {
+      "russian": "званым,",
+      "foreign": "κλητοῖς",
+      "codeBible": "2822"
+    },
+    {
+      "russian": "Эллинам,",
+      "foreign": "Ελλησιν",
+      "codeBible": "1672"
+    },
+    {
+      "russian": "силу",
+      "foreign": "δύναμιν",
+      "codeBible": "1411"
+    },
+    {
+      "russian": "мудрость;",
+      "foreign": "σοφίαν",
+      "codeBible": "4678"
+    },
+    {
+      "russian": "глупое",
+      "foreign": "μωρὸν",
+      "codeBible": "3474"
+    },
+    {
+      "russian": "мудрее",
+      "foreign": "σοφώτερον",
+      "codeBible": "4680"
+    },
+    {
+      "russian": "людей",
+      "foreign": "ἀνθρώπων",
+      "codeBible": "444"
+    },
+    {
+      "russian": "слабое",
+      "foreign": "ἀσθενὲς",
+      "codeBible": "772"
+    },
+    {
+      "russian": "сильнее",
+      "foreign": "ἰσχυρότερον",
+      "codeBible": "2478"
+    },
+    {
+      "russian": "людей.",
+      "foreign": "ἀνθρώπων",
+      "codeBible": "444"
+    },
+    {
+      "russian": "Смотри́те",
+      "foreign": "Βλέπετε",
+      "codeBible": "991"
+    },
+    {
+      "russian": "[на] призвание",
+      "foreign": "κλῆσιν",
+      "codeBible": "2821"
+    },
+    {
+      "russian": "ваше,",
+      "foreign": "ὑμῶν",
+      "codeBible": "5216"
+    },
+    {
+      "russian": "не",
+      "foreign": "οὐ",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "многие",
+      "foreign": "πολλοὶ",
+      "codeBible": "4183"
+    },
+    {
+      "russian": "мудрые",
+      "foreign": "σοφοὶ",
+      "codeBible": "4680"
+    },
+    {
+      "russian": "по",
+      "foreign": "κατὰ",
+      "codeBible": "2596"
+    },
+    {
+      "russian": "плоти,",
+      "foreign": "σάρκα",
+      "codeBible": "4561"
+    },
+    {
+      "russian": "сильны,",
+      "foreign": "δυνατοί",
+      "codeBible": "1415"
+    },
+    {
+      "russian": "благородны;",
+      "foreign": "εὐγενεῖς",
+      "codeBible": "2104"
+    },
+    {
+      "russian": "глупое",
+      "foreign": "μωρὰ",
+      "codeBible": "3474"
+    },
+    {
+      "russian": "мира",
+      "foreign": "κόσμου",
+      "codeBible": "2889"
+    },
+    {
+      "russian": "выбрал",
+      "foreign": "ἐξελέξατο",
+      "codeBible": "1586"
+    },
+    {
+      "russian": "Он пристыжал",
+      "foreign": "καταισχύνῃ",
+      "codeBible": "2617"
+    },
+    {
+      "russian": "мудрых,",
+      "foreign": "σοφούς",
+      "codeBible": "4680"
+    },
+    {
+      "russian": "слабое",
+      "foreign": "ἀσθενῆ",
+      "codeBible": "772"
+    },
+    {
+      "russian": "сильное,",
+      "foreign": "ἰσχυρά",
+      "codeBible": "2478"
+    },
+    {
+      "russian": "безродное",
+      "foreign": "ἀγενῆ",
+      "codeBible": "36"
+    },
+    {
+      "russian": "уничиженное",
+      "foreign": "ἐξουθενημένα",
+      "codeBible": "1848"
+    },
+    {
+      "russian": "Бог,",
+      "foreign": "θεός",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "сущее,",
+      "foreign": "ὄντα",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "сущее",
+      "foreign": "ὄντα",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "Он упразднил,",
+      "foreign": "καταργήσῃ",
+      "codeBible": "2673"
+    },
+    {
+      "russian": "чтобы",
+      "foreign": "ὅπως",
+      "codeBible": "3704"
+    },
+    {
+      "russian": "похвасталась",
+      "foreign": "καυχήσηται",
+      "codeBible": "2744"
+    },
+    {
+      "russian": "всякая",
+      "foreign": "πᾶσα",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "плоть",
+      "foreign": "σὰρξ",
+      "codeBible": "4561"
+    },
+    {
+      "russian": "перед",
+      "foreign": "ἐνώπιον",
+      "codeBible": "1799"
+    },
+    {
+      "russian": "Богом.",
+      "foreign": "θεοῦ",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "Из",
+      "foreign": "ἐξ",
+      "codeBible": "1537"
+    },
+    {
+      "russian": "Него",
+      "foreign": "αὐτοῦ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "вы",
+      "foreign": "ὑμεῖς",
+      "codeBible": "5210"
+    },
+    {
+      "russian": "есть",
+      "foreign": "ἐστε",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "сделался",
+      "foreign": "ἐγενήθη",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "мудрость",
+      "foreign": "σοφία",
+      "codeBible": "4678"
+    },
+    {
+      "russian": "праведность",
+      "foreign": "δικαιοσύνη",
+      "codeBible": "1343"
+    },
+    {
+      "russian": "освящение",
+      "foreign": "ἁγιασμὸς",
+      "codeBible": "38"
+    },
+    {
+      "russian": "выкуп,",
+      "foreign": "ἀπολύτρωσις",
+      "codeBible": "629"
+    },
+    {
+      "russian": "написано,",
+      "foreign": "γέγραπται",
+      "codeBible": "1125"
+    },
+    {
+      "russian": "Хвастающийся",
+      "foreign": "καυχώμενος",
+      "codeBible": "2744"
+    },
+    {
+      "russian": "Господе",
+      "foreign": "κυρίῳ",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "пусть хвастается.",
+      "foreign": "καυχάσθω",
+      "codeBible": "2744"
+    },
+    {
+      "russian": "И я",
+      "foreign": "Κἀγὼ",
+      "codeBible": "2504"
+    },
+    {
+      "russian": "пришедший",
+      "foreign": "ἐλθὼν",
+      "codeBible": "2064"
+    },
+    {
+      "russian": "к",
+      "foreign": "πρὸς",
+      "codeBible": "4314"
+    },
+    {
+      "russian": "вам,",
+      "foreign": "ὑμᾶς",
+      "codeBible": "5209"
+    },
+    {
+      "russian": "пришёл",
+      "foreign": "ἦλθον",
+      "codeBible": "2064"
+    },
+    {
+      "russian": "по",
+      "foreign": "καθ᾽",
+      "codeBible": "2596"
+    },
+    {
+      "russian": "превосходству",
+      "foreign": "ὑπεροχὴν",
+      "codeBible": "5247"
+    },
+    {
+      "russian": "сло́ва",
+      "foreign": "λόγου",
+      "codeBible": "3056"
+    },
+    {
+      "russian": "мудрости",
+      "foreign": "σοφίας",
+      "codeBible": "4678"
+    },
+    {
+      "russian": "возвещающий",
+      "foreign": "καταγγέλλων",
+      "codeBible": "2605"
+    },
+    {
+      "russian": "тайну",
+      "foreign": "μυστήριον",
+      "codeBible": "3466"
+    },
+    {
+      "russian": "Бога.",
+      "foreign": "θεοῦ",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "рассудил я",
+      "foreign": "ἔκρινά",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "что-нибудь",
+      "foreign": "τι",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "знать",
+      "foreign": "εἰδέναι",
+      "codeBible": "1492"
+    },
+    {
+      "russian": "у",
+      "foreign": "ἐν",
+      "codeBible": "1722"
+    },
+    {
+      "russian": "Иисуса",
+      "foreign": "Ἰησοῦν",
+      "codeBible": "2424"
+    },
+    {
+      "russian": "Этого",
+      "foreign": "τοῦτον",
+      "codeBible": "5126"
+    },
+    {
+      "russian": "распятого.",
+      "foreign": "ἐσταυρωμένον",
+      "codeBible": "4717"
+    },
+    {
+      "russian": "И я",
+      "foreign": "κἀγὼ",
+      "codeBible": "2504"
+    },
+    {
+      "russian": "слабости",
+      "foreign": "ἀσθενείᾳ",
+      "codeBible": "769"
+    },
+    {
+      "russian": "страхе",
+      "foreign": "φόβῳ",
+      "codeBible": "5401"
+    },
+    {
+      "russian": "дрожи",
+      "foreign": "τρόμῳ",
+      "codeBible": "5156"
+    },
+    {
+      "russian": "многой",
+      "foreign": "πολλῷ",
+      "codeBible": "4183"
+    },
+    {
+      "russian": "сделался",
+      "foreign": "ἐγενόμην",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "у",
+      "foreign": "πρὸς",
+      "codeBible": "4314"
+    },
+    {
+      "russian": "слово",
+      "foreign": "λόγος",
+      "codeBible": "3056"
+    },
+    {
+      "russian": "моё",
+      "foreign": "μου",
+      "codeBible": "3450"
+    },
+    {
+      "russian": "проповедь",
+      "foreign": "κήρυγμά",
+      "codeBible": "2782"
+    },
+    {
+      "russian": "моя",
+      "foreign": "μου",
+      "codeBible": "3450"
+    },
+    {
+      "russian": "убедительных",
+      "foreign": "πειθοῖ[ς]",
+      "codeBible": "3981"
+    },
+    {
+      "russian": "словах",
+      "foreign": "[λόγοις]",
+      "codeBible": "3056"
+    },
+    {
+      "russian": "но",
+      "foreign": "ἀλλ᾽",
+      "codeBible": "235"
+    },
+    {
+      "russian": "указании",
+      "foreign": "ἀποδείξει",
+      "codeBible": "585"
+    },
+    {
+      "russian": "Духа",
+      "foreign": "πνεύματος",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "силы,",
+      "foreign": "δυνάμεως",
+      "codeBible": "1411"
+    },
+    {
+      "russian": "вера",
+      "foreign": "πίστις",
+      "codeBible": "4102"
+    },
+    {
+      "russian": "ваша",
+      "foreign": "ὑμῶν",
+      "codeBible": "5216"
+    },
+    {
+      "russian": "была",
+      "foreign": "ᾖ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "силе",
+      "foreign": "δυνάμει",
+      "codeBible": "1411"
+    },
+    {
+      "russian": "Мудрость",
+      "foreign": "Σοφίαν",
+      "codeBible": "4678"
+    },
+    {
+      "russian": "произносим",
+      "foreign": "λαλοῦμεν",
+      "codeBible": "2980"
+    },
+    {
+      "russian": "совершенных,",
+      "foreign": "τελείοις",
+      "codeBible": "5046"
+    },
+    {
+      "russian": "этого",
+      "foreign": "τούτου",
+      "codeBible": "5127"
+    },
+    {
+      "russian": "и не",
+      "foreign": "οὐδὲ",
+      "codeBible": "3761"
+    },
+    {
+      "russian": "начальников",
+      "foreign": "ἀρχόντων",
+      "codeBible": "758"
+    },
+    {
+      "russian": "упраздняющихся;",
+      "foreign": "καταργουμένων",
+      "codeBible": "2673"
+    },
+    {
+      "russian": "тайне,",
+      "foreign": "μυστηρίῳ",
+      "codeBible": "3466"
+    },
+    {
+      "russian": "[о] скрытой,",
+      "foreign": "ἀποκεκρυμμένην",
+      "codeBible": "613"
+    },
+    {
+      "russian": "которую",
+      "foreign": "ἣν",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "предопределил",
+      "foreign": "προώρισεν",
+      "codeBible": "4309"
+    },
+    {
+      "russian": "прежде",
+      "foreign": "πρὸ",
+      "codeBible": "4253"
+    },
+    {
+      "russian": "веков",
+      "foreign": "αἰώνων",
+      "codeBible": "165"
+    },
+    {
+      "russian": "славу",
+      "foreign": "δόξαν",
+      "codeBible": "1391"
+    },
+    {
+      "russian": "нашу;",
+      "foreign": "ἡμῶν",
+      "codeBible": "2257"
+    },
+    {
+      "russian": "никто",
+      "foreign": "οὐδεὶς",
+      "codeBible": "3762"
+    },
+    {
+      "russian": "[из] начальников",
+      "foreign": "ἀρχόντων",
+      "codeBible": "758"
+    },
+    {
+      "russian": "узнал,",
+      "foreign": "ἔγνωκεν",
+      "codeBible": "1097"
+    },
+    {
+      "russian": "если",
+      "foreign": "εἰ",
+      "codeBible": "1487"
+    },
+    {
+      "russian": "узнали [бы],",
+      "foreign": "ἔγνωσαν",
+      "codeBible": "1097"
+    },
+    {
+      "russian": "Го́спода",
+      "foreign": "κύριον",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "славы",
+      "foreign": "δόξης",
+      "codeBible": "1391"
+    },
+    {
+      "russian": "они распяли [бы].",
+      "foreign": "ἐσταύρωσαν",
+      "codeBible": "4717"
+    },
+    {
+      "russian": "Но",
+      "foreign": "ἀλλὰ",
+      "codeBible": "235"
+    },
+    {
+      "russian": "Которое",
+      "foreign": "Ἃ",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "глаз",
+      "foreign": "ὀφθαλμὸς",
+      "codeBible": "3788"
+    },
+    {
+      "russian": "увидел",
+      "foreign": "εἶδεν",
+      "codeBible": "1492"
+    },
+    {
+      "russian": "ухо",
+      "foreign": "οὖς",
+      "codeBible": "3775"
+    },
+    {
+      "russian": "услышало",
+      "foreign": "ἤκουσεν",
+      "codeBible": "191"
+    },
+    {
+      "russian": "на",
+      "foreign": "ἐπὶ",
+      "codeBible": "1909"
+    },
+    {
+      "russian": "сердце",
+      "foreign": "καρδίαν",
+      "codeBible": "2588"
+    },
+    {
+      "russian": "человека",
+      "foreign": "ἀνθρώπου",
+      "codeBible": "444"
+    },
+    {
+      "russian": "взошло,",
+      "foreign": "ἀνέβη",
+      "codeBible": "305"
+    },
+    {
+      "russian": "которое",
+      "foreign": "ἃ",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "приготовил",
+      "foreign": "ἡτοίμασεν",
+      "codeBible": "2090"
+    },
+    {
+      "russian": "любящим",
+      "foreign": "ἀγαπῶσιν",
+      "codeBible": "25"
+    },
+    {
+      "russian": "Его.",
+      "foreign": "αὐτόν",
+      "codeBible": "846"
+    },
+    {
+      "russian": "Нам",
+      "foreign": "ἡμῖν",
+      "codeBible": "2254"
+    },
+    {
+      "russian": "открыл",
+      "foreign": "ἀπεκάλυψεν",
+      "codeBible": "601"
+    },
+    {
+      "russian": "Духа;",
+      "foreign": "πνεύματος",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "Дух",
+      "foreign": "πνεῦμα",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "всё",
+      "foreign": "πάντα",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "исследует,",
+      "foreign": "ἐραυνᾳϋ152",
+      "codeBible": "2045"
+    },
+    {
+      "russian": "глуби́ны",
+      "foreign": "βάθη",
+      "codeBible": "899"
+    },
+    {
+      "russian": "Кто",
+      "foreign": "τίς",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "знает",
+      "foreign": "οἶδεν",
+      "codeBible": "1492"
+    },
+    {
+      "russian": "[из] людей",
+      "foreign": "ἀνθρώπων",
+      "codeBible": "444"
+    },
+    {
+      "russian": "которое",
+      "foreign": "τὰ",
+      "codeBible": "3588"
+    },
+    {
+      "russian": "дух",
+      "foreign": "πνεῦμα",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "который",
+      "foreign": "τὸ",
+      "codeBible": "3588"
+    },
+    {
+      "russian": "нём?",
+      "foreign": "αὐτῷ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "Так",
+      "foreign": "οὕτως",
+      "codeBible": "3779"
+    },
+    {
+      "russian": "узнал",
+      "foreign": "ἔγνωκεν",
+      "codeBible": "1097"
+    },
+    {
+      "russian": "Мы",
+      "foreign": "ἡμεῖς",
+      "codeBible": "2249"
+    },
+    {
+      "russian": "духа",
+      "foreign": "πνεῦμα",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "взяли",
+      "foreign": "ἐλάβομεν",
+      "codeBible": "2983"
+    },
+    {
+      "russian": "Духа",
+      "foreign": "πνεῦμα",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "от",
+      "foreign": "ἐκ",
+      "codeBible": "1537"
+    },
+    {
+      "russian": "мы знали",
+      "foreign": "εἰδῶμεν",
+      "codeBible": "1492"
+    },
+    {
+      "russian": "дарованное",
+      "foreign": "χαρισθέντα",
+      "codeBible": "5483"
+    },
+    {
+      "russian": "нам;",
+      "foreign": "ἡμῖν",
+      "codeBible": "2254"
+    },
+    {
+      "russian": "учёных",
+      "foreign": "διδακτοῖς",
+      "codeBible": "1318"
+    },
+    {
+      "russian": "человеческой",
+      "foreign": "ἀνθρωπίνης",
+      "codeBible": "442"
+    },
+    {
+      "russian": "словах",
+      "foreign": "λόγοις",
+      "codeBible": "3056"
+    },
+    {
+      "russian": "Духа,",
+      "foreign": "πνεύματος",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "[с] духовным",
+      "foreign": "πνευματικοῖς",
+      "codeBible": "4152"
+    },
+    {
+      "russian": "духовное",
+      "foreign": "πνευματικὰ",
+      "codeBible": "4152"
+    },
+    {
+      "russian": "сопоставляющие.",
+      "foreign": "συγκρίνοντες",
+      "codeBible": "4793"
+    },
+    {
+      "russian": "Душевный",
+      "foreign": "ψυχικὸς",
+      "codeBible": "5591"
+    },
+    {
+      "russian": "человек",
+      "foreign": "ἄνθρωπος",
+      "codeBible": "444"
+    },
+    {
+      "russian": "принимает",
+      "foreign": "δέχεται",
+      "codeBible": "1209"
+    },
+    {
+      "russian": "ему",
+      "foreign": "αὐτῷ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "есть,",
+      "foreign": "ἐστιν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "может",
+      "foreign": "δύναται",
+      "codeBible": "1410"
+    },
+    {
+      "russian": "познать,",
+      "foreign": "γνῶναι",
+      "codeBible": "1097"
+    },
+    {
+      "russian": "духовно",
+      "foreign": "πνευματικῶς",
+      "codeBible": "4153"
+    },
+    {
+      "russian": "обсуждается;",
+      "foreign": "ἀνακρίνεται",
+      "codeBible": "350"
+    },
+    {
+      "russian": "духовный",
+      "foreign": "πνευματικὸς",
+      "codeBible": "4152"
+    },
+    {
+      "russian": "обсуждает",
+      "foreign": "ἀνακρίνει",
+      "codeBible": "350"
+    },
+    {
+      "russian": "всё,",
+      "foreign": "πάντα",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "сам",
+      "foreign": "αὐτὸς",
+      "codeBible": "846"
+    },
+    {
+      "russian": "от",
+      "foreign": "ὑπ᾽",
+      "codeBible": "5259"
+    },
+    {
+      "russian": "никого",
+      "foreign": "οὐδενὸς",
+      "codeBible": "3762"
+    },
+    {
+      "russian": "обсуждается.",
+      "foreign": "ἀνακρίνεται",
+      "codeBible": "350"
+    },
+    {
+      "russian": "ум",
+      "foreign": "νοῦν",
+      "codeBible": "3563"
+    },
+    {
+      "russian": "Го́спода,",
+      "foreign": "κυρίου",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "который",
+      "foreign": "ὃς",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "наставит",
+      "foreign": "συμβιβάσει",
+      "codeBible": "4822"
+    },
+    {
+      "russian": "его?",
+      "foreign": "αὐτόν",
+      "codeBible": "846"
+    },
+    {
+      "russian": "имеем.",
+      "foreign": "ἔχομεν",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "И я,",
+      "foreign": "Κἀγώ",
+      "codeBible": "2504"
+    },
+    {
+      "russian": "смог",
+      "foreign": "ἠδυνήθην",
+      "codeBible": "1410"
+    },
+    {
+      "russian": "произнести",
+      "foreign": "λαλῆσαι",
+      "codeBible": "2980"
+    },
+    {
+      "russian": "как",
+      "foreign": "ὡς",
+      "codeBible": "5613"
+    },
+    {
+      "russian": "духовным",
+      "foreign": "πνευματικοῖς",
+      "codeBible": "4152"
+    },
+    {
+      "russian": "плотским,",
+      "foreign": "σαρκίνοις",
+      "codeBible": "4560"
+    },
+    {
+      "russian": "младенцам",
+      "foreign": "νηπίοις",
+      "codeBible": "3516"
+    },
+    {
+      "russian": "Христе.",
+      "foreign": "Χριστῷ",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "Молоком",
+      "foreign": "γάλα",
+      "codeBible": "1051"
+    },
+    {
+      "russian": "я напоил,",
+      "foreign": "ἐπότισα",
+      "codeBible": "4222"
+    },
+    {
+      "russian": "пищей,",
+      "foreign": "βρῶμα",
+      "codeBible": "1033"
+    },
+    {
+      "russian": "ещё не",
+      "foreign": "οὔπω",
+      "codeBible": "3768"
+    },
+    {
+      "russian": "могли вы.",
+      "foreign": "ἐδύνασθε",
+      "codeBible": "1410"
+    },
+    {
+      "russian": "Но",
+      "foreign": "ἀλλ᾽",
+      "codeBible": "235"
+    },
+    {
+      "russian": "ещё",
+      "foreign": "ἔτι",
+      "codeBible": "2089"
+    },
+    {
+      "russian": "теперь",
+      "foreign": "νῦν",
+      "codeBible": "3568"
+    },
+    {
+      "russian": "можете,",
+      "foreign": "δύνασθε",
+      "codeBible": "1410"
+    },
+    {
+      "russian": "плотские",
+      "foreign": "σαρκικοί",
+      "codeBible": "4559"
+    },
+    {
+      "russian": "вы есть.",
+      "foreign": "ἐστε",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "Когда",
+      "foreign": "ὅπου",
+      "codeBible": "3699"
+    },
+    {
+      "russian": "ревность",
+      "foreign": "ζῆλος",
+      "codeBible": "2205"
+    },
+    {
+      "russian": "ссора,",
+      "foreign": "ἔρις",
+      "codeBible": "2054"
+    },
+    {
+      "russian": "[разве] не",
+      "foreign": "οὐχὶ",
+      "codeBible": "3780"
+    },
+    {
+      "russian": "вы есть",
+      "foreign": "ἐστε",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "человеку",
+      "foreign": "ἄνθρωπον",
+      "codeBible": "444"
+    },
+    {
+      "russian": "хо́дите?",
+      "foreign": "περιπατεῖτε",
+      "codeBible": "4043"
+    },
+    {
+      "russian": "Когда",
+      "foreign": "ὅταν",
+      "codeBible": "3752"
+    },
+    {
+      "russian": "будет говорить",
+      "foreign": "λέγῃ",
+      "codeBible": "3004"
+    },
+    {
+      "russian": "кто-либо,",
+      "foreign": "τις",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "другой",
+      "foreign": "ἕτερος",
+      "codeBible": "2087"
+    },
+    {
+      "russian": "же,",
+      "foreign": "δέ",
+      "codeBible": "1161"
+    },
+    {
+      "russian": "люди",
+      "foreign": "ἄνθρωποί",
+      "codeBible": "444"
+    },
+    {
+      "russian": "вы есть?",
+      "foreign": "ἐστε",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "Что́",
+      "foreign": "τί",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "итак",
+      "foreign": "οὖν",
+      "codeBible": "3767"
+    },
+    {
+      "russian": "есть",
+      "foreign": "ἐστιν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "Аполл?",
+      "foreign": "Ἀπολλῶς",
+      "codeBible": "625"
+    },
+    {
+      "russian": "же",
+      "foreign": "δέ",
+      "codeBible": "1161"
+    },
+    {
+      "russian": "Павел?",
+      "foreign": "Παῦλος",
+      "codeBible": "3972"
+    },
+    {
+      "russian": "Служители",
+      "foreign": "διάκονοι",
+      "codeBible": "1249"
+    },
+    {
+      "russian": "которых",
+      "foreign": "ὧν",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "вы поверили,",
+      "foreign": "ἐπιστεύσατε",
+      "codeBible": "4100"
+    },
+    {
+      "russian": "каждому",
+      "foreign": "ἑκάστῳ",
+      "codeBible": "1538"
+    },
+    {
+      "russian": "Господь",
+      "foreign": "κύριος",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "дал.",
+      "foreign": "ἔδωκεν",
+      "codeBible": "1325"
+    },
+    {
+      "russian": "Я",
+      "foreign": "ἐγὼ",
+      "codeBible": "1473"
+    },
+    {
+      "russian": "посадил,",
+      "foreign": "ἐφύτευσα",
+      "codeBible": "5452"
+    },
+    {
+      "russian": "Аполл",
+      "foreign": "Ἀπολλῶς",
+      "codeBible": "625"
+    },
+    {
+      "russian": "напоил,",
+      "foreign": "ἐπότισεν",
+      "codeBible": "4222"
+    },
+    {
+      "russian": "растил;",
+      "foreign": "ηὔξανεν",
+      "codeBible": "837"
+    },
+    {
+      "russian": "и не",
+      "foreign": "οὔτε",
+      "codeBible": "3777"
+    },
+    {
+      "russian": "сажающий",
+      "foreign": "φυτεύων",
+      "codeBible": "5452"
+    },
+    {
+      "russian": "есть",
+      "foreign": "ἐστίν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "поящий,",
+      "foreign": "ποτίζων",
+      "codeBible": "4222"
+    },
+    {
+      "russian": "растящий",
+      "foreign": "αὐξάνων",
+      "codeBible": "837"
+    },
+    {
+      "russian": "Бог.",
+      "foreign": "θεός",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "Сажающий",
+      "foreign": "φυτεύων",
+      "codeBible": "5452"
+    },
+    {
+      "russian": "поящий",
+      "foreign": "ποτίζων",
+      "codeBible": "4222"
+    },
+    {
+      "russian": "одно",
+      "foreign": "ἕν",
+      "codeBible": "1722"
+    },
+    {
+      "russian": "они есть,",
+      "foreign": "εἰσιν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "собственную",
+      "foreign": "ἴδιον",
+      "codeBible": "2398"
+    },
+    {
+      "russian": "плату",
+      "foreign": "μισθὸν",
+      "codeBible": "3408"
+    },
+    {
+      "russian": "получит",
+      "foreign": "λήμψεται",
+      "codeBible": "2983"
+    },
+    {
+      "russian": "собственному",
+      "foreign": "ἴδιον",
+      "codeBible": "2398"
+    },
+    {
+      "russian": "труду.",
+      "foreign": "κόπον",
+      "codeBible": "2873"
+    },
+    {
+      "russian": "мы есть",
+      "foreign": "ἐσμεν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "сотрудники;",
+      "foreign": "συνεργοί",
+      "codeBible": "4904"
+    },
+    {
+      "russian": "пашня,",
+      "foreign": "γεώργιον",
+      "codeBible": "1091"
+    },
+    {
+      "russian": "строение",
+      "foreign": "οἰκοδομή",
+      "codeBible": "3619"
+    },
+    {
+      "russian": "По",
+      "foreign": "Κατὰ",
+      "codeBible": "2596"
+    },
+    {
+      "russian": "благодати",
+      "foreign": "χάριν",
+      "codeBible": "5485"
+    },
+    {
+      "russian": "данной",
+      "foreign": "δοθεῖσάν",
+      "codeBible": "1325"
+    },
+    {
+      "russian": "мудрый",
+      "foreign": "σοφὸς",
+      "codeBible": "4680"
+    },
+    {
+      "russian": "зодчий",
+      "foreign": "ἀρχιτέκτων",
+      "codeBible": "753"
+    },
+    {
+      "russian": "основание",
+      "foreign": "θεμέλιον",
+      "codeBible": "2310"
+    },
+    {
+      "russian": "я положил,",
+      "foreign": "ἔθηκα",
+      "codeBible": "5087"
+    },
+    {
+      "russian": "другой",
+      "foreign": "ἄλλος",
+      "codeBible": "243"
+    },
+    {
+      "russian": "надстраивает.",
+      "foreign": "ἐποικοδομεῖ",
+      "codeBible": "2026"
+    },
+    {
+      "russian": "Каждый",
+      "foreign": "ἕκαστος",
+      "codeBible": "1538"
+    },
+    {
+      "russian": "пусть смотрит",
+      "foreign": "βλεπέτω",
+      "codeBible": "991"
+    },
+    {
+      "russian": "как",
+      "foreign": "πῶς",
+      "codeBible": "4459"
+    },
+    {
+      "russian": "надстраивает;",
+      "foreign": "ἐποικοδομεῖ",
+      "codeBible": "2026"
+    },
+    {
+      "russian": "другое",
+      "foreign": "ἄλλον",
+      "codeBible": "243"
+    },
+    {
+      "russian": "положить",
+      "foreign": "θεῖναι",
+      "codeBible": "5087"
+    },
+    {
+      "russian": "помимо",
+      "foreign": "παρὰ",
+      "codeBible": "3844"
+    },
+    {
+      "russian": "лежащего,",
+      "foreign": "κείμενον",
+      "codeBible": "2749"
+    },
+    {
+      "russian": "который",
+      "foreign": "ὅς",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "Иисус",
+      "foreign": "Ἰησοῦς",
+      "codeBible": "2424"
+    },
+    {
+      "russian": "Христос.",
+      "foreign": "Χριστός",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "Если",
+      "foreign": "εἰ",
+      "codeBible": "1487"
+    },
+    {
+      "russian": "надстраивает",
+      "foreign": "ἐποικοδομεῖ",
+      "codeBible": "2026"
+    },
+    {
+      "russian": "золото,",
+      "foreign": "χρυσόν",
+      "codeBible": "5557"
+    },
+    {
+      "russian": "серебро,",
+      "foreign": "ἄργυρον",
+      "codeBible": "696"
+    },
+    {
+      "russian": "камни",
+      "foreign": "λίθους",
+      "codeBible": "3037"
+    },
+    {
+      "russian": "драгоценные,",
+      "foreign": "τιμίους",
+      "codeBible": "5093"
+    },
+    {
+      "russian": "до́ски,",
+      "foreign": "ξύλα",
+      "codeBible": "3586"
+    },
+    {
+      "russian": "траву,",
+      "foreign": "χόρτον",
+      "codeBible": "5528"
+    },
+    {
+      "russian": "тростник,",
+      "foreign": "καλάμην",
+      "codeBible": "2562"
+    },
+    {
+      "russian": "каждого",
+      "foreign": "ἑκάστου",
+      "codeBible": "1538"
+    },
+    {
+      "russian": "дело",
+      "foreign": "ἔργον",
+      "codeBible": "2041"
+    },
+    {
+      "russian": "явное",
+      "foreign": "φανερὸν",
+      "codeBible": "5318"
+    },
+    {
+      "russian": "сделается,",
+      "foreign": "γενήσεται",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "день",
+      "foreign": "ἡμέρα",
+      "codeBible": "2250"
+    },
+    {
+      "russian": "сделает явным;",
+      "foreign": "δηλώσει",
+      "codeBible": "1213"
+    },
+    {
+      "russian": "огне",
+      "foreign": "πυρὶ",
+      "codeBible": "4442"
+    },
+    {
+      "russian": "открывается,",
+      "foreign": "ἀποκαλύπτεται",
+      "codeBible": "601"
+    },
+    {
+      "russian": "каково оно",
+      "foreign": "ὁποῖόν",
+      "codeBible": "3697"
+    },
+    {
+      "russian": "огонь",
+      "foreign": "πῦρ",
+      "codeBible": "4442"
+    },
+    {
+      "russian": "его",
+      "foreign": "[αὐτὸ]",
+      "codeBible": "846"
+    },
+    {
+      "russian": "испытает.",
+      "foreign": "δοκιμάσει",
+      "codeBible": "1381"
+    },
+    {
+      "russian": "Если",
+      "foreign": "εἴ",
+      "codeBible": "1487"
+    },
+    {
+      "russian": "кого",
+      "foreign": "τινος",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "останется",
+      "foreign": "μενεῖ",
+      "codeBible": "3306"
+    },
+    {
+      "russian": "которое",
+      "foreign": "ὃ",
+      "codeBible": "3588"
+    },
+    {
+      "russian": "он построил,",
+      "foreign": "ἐποικοδόμησεν",
+      "codeBible": "2026"
+    },
+    {
+      "russian": "получит;",
+      "foreign": "λήμψεται",
+      "codeBible": "2983"
+    },
+    {
+      "russian": "если",
+      "foreign": "εἴ",
+      "codeBible": "1487"
+    },
+    {
+      "russian": "будет сожжено,",
+      "foreign": "κατακαήσεται",
+      "codeBible": "2618"
+    },
+    {
+      "russian": "потерпит убыток,",
+      "foreign": "ζημιωθήσεται",
+      "codeBible": "2210"
+    },
+    {
+      "russian": "будет спасён,",
+      "foreign": "σωθήσεται",
+      "codeBible": "4982"
+    },
+    {
+      "russian": "так",
+      "foreign": "οὕτως",
+      "codeBible": "3779"
+    },
+    {
+      "russian": "огонь.",
+      "foreign": "πυρός",
+      "codeBible": "4442"
+    },
+    {
+      "russian": "[Разве] не",
+      "foreign": "οὐκ",
+      "codeBible": "3756"
+    },
+    {
+      "russian": "знаете",
+      "foreign": "οἴδατε",
+      "codeBible": "1492"
+    },
+    {
+      "russian": "храм",
+      "foreign": "ναὸς",
+      "codeBible": "3485"
+    },
+    {
+      "russian": "живёт",
+      "foreign": "οἰκεῖ",
+      "codeBible": "3611"
+    },
+    {
+      "russian": "вас?",
+      "foreign": "ὑμῖν",
+      "codeBible": "5213"
+    },
+    {
+      "russian": "храм",
+      "foreign": "ναὸν",
+      "codeBible": "3485"
+    },
+    {
+      "russian": "повреждает,",
+      "foreign": "φθείρει",
+      "codeBible": "5351"
+    },
+    {
+      "russian": "повредит",
+      "foreign": "φθερεῖ",
+      "codeBible": "5351"
+    },
+    {
+      "russian": "этого",
+      "foreign": "τοῦτον",
+      "codeBible": "5126"
+    },
+    {
+      "russian": "Бог;",
+      "foreign": "θεός",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "святой",
+      "foreign": "ἄγιός",
+      "codeBible": "40"
+    },
+    {
+      "russian": "которые",
+      "foreign": "οἵτινές",
+      "codeBible": "3748"
+    },
+    {
+      "russian": "вы.",
+      "foreign": "ὑμεῖς",
+      "codeBible": "5210"
+    },
+    {
+      "russian": "Никто",
+      "foreign": "Μηδεὶς",
+      "codeBible": "3367"
+    },
+    {
+      "russian": "самого себя",
+      "foreign": "ἑαυτὸν",
+      "codeBible": "1438"
+    },
+    {
+      "russian": "пусть обманывает;",
+      "foreign": "ἐξαπατάτω",
+      "codeBible": "1818"
+    },
+    {
+      "russian": "кто-либо",
+      "foreign": "τις",
+      "codeBible": "1536"
+    },
+    {
+      "russian": "кажется",
+      "foreign": "δοκεῖ",
+      "codeBible": "1380"
+    },
+    {
+      "russian": "мудр",
+      "foreign": "σοφὸς",
+      "codeBible": "4680"
+    },
+    {
+      "russian": "быть",
+      "foreign": "εἶναι",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "веке",
+      "foreign": "αἰῶνι",
+      "codeBible": "165"
+    },
+    {
+      "russian": "этом,",
+      "foreign": "τούτῳ",
+      "codeBible": "5129"
+    },
+    {
+      "russian": "глупый",
+      "foreign": "μωρὸς",
+      "codeBible": "3474"
+    },
+    {
+      "russian": "пусть сделается,",
+      "foreign": "γενέσθω",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "он сделался",
+      "foreign": "γένηται",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "мудр.",
+      "foreign": "σοφός",
+      "codeBible": "4680"
+    },
+    {
+      "russian": "Ведь",
+      "foreign": "γὰρ",
+      "codeBible": "1063"
+    },
+    {
+      "russian": "у",
+      "foreign": "παρὰ",
+      "codeBible": "3844"
+    },
+    {
+      "russian": "есть;",
+      "foreign": "ἐστιν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "написано",
+      "foreign": "γέγραπται",
+      "codeBible": "1125"
+    },
+    {
+      "russian": "Хватающий",
+      "foreign": "δρασσόμενος",
+      "codeBible": "1405"
+    },
+    {
+      "russian": "мудрых",
+      "foreign": "σοφοὺς",
+      "codeBible": "4680"
+    },
+    {
+      "russian": "коварстве",
+      "foreign": "πανουργίᾳ",
+      "codeBible": "3834"
+    },
+    {
+      "russian": "их;",
+      "foreign": "αὐτῶν",
+      "codeBible": "846"
+    },
+    {
+      "russian": "опять,",
+      "foreign": "πάλιν",
+      "codeBible": "3825"
+    },
+    {
+      "russian": "Господь",
+      "foreign": "Κύριος",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "знает",
+      "foreign": "γινώσκει",
+      "codeBible": "1097"
+    },
+    {
+      "russian": "рассуждения",
+      "foreign": "διαλογισμοὺς",
+      "codeBible": "1261"
+    },
+    {
+      "russian": "мудрых",
+      "foreign": "σοφῶν",
+      "codeBible": "4680"
+    },
+    {
+      "russian": "они есть",
+      "foreign": "εἰσὶν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "суетны.",
+      "foreign": "μάταιοι",
+      "codeBible": "3152"
+    },
+    {
+      "russian": "Так что",
+      "foreign": "ὥστε",
+      "codeBible": "5620"
+    },
+    {
+      "russian": "никто",
+      "foreign": "μηδεὶς",
+      "codeBible": "3367"
+    },
+    {
+      "russian": "пусть гордится",
+      "foreign": "καυχάσθω",
+      "codeBible": "2744"
+    },
+    {
+      "russian": "людях;",
+      "foreign": "ἀνθρώποις",
+      "codeBible": "444"
+    },
+    {
+      "russian": "ваше",
+      "foreign": "ὑμῶν",
+      "codeBible": "5216"
+    },
+    {
+      "russian": "и если",
+      "foreign": "εἴτε",
+      "codeBible": "1535"
+    },
+    {
+      "russian": "Кифа",
+      "foreign": "Κηφᾶς",
+      "codeBible": "2786"
+    },
+    {
+      "russian": "жизнь",
+      "foreign": "ζωὴ",
+      "codeBible": "2222"
+    },
+    {
+      "russian": "смерть",
+      "foreign": "θάνατος",
+      "codeBible": "2288"
+    },
+    {
+      "russian": "настоящее",
+      "foreign": "ἐνεστῶτα",
+      "codeBible": "1764"
+    },
+    {
+      "russian": "готовящееся,",
+      "foreign": "μέλλοντα",
+      "codeBible": "3195"
+    },
+    {
+      "russian": "Так",
+      "foreign": "Οὕτως",
+      "codeBible": "3779"
+    },
+    {
+      "russian": "нас",
+      "foreign": "ἡμᾶς",
+      "codeBible": "2248"
+    },
+    {
+      "russian": "пусть считает",
+      "foreign": "λογιζέσθω",
+      "codeBible": "3049"
+    },
+    {
+      "russian": "служителей",
+      "foreign": "ὑπηρέτας",
+      "codeBible": "5257"
+    },
+    {
+      "russian": "домоправителей",
+      "foreign": "οἰκονόμους",
+      "codeBible": "3623"
+    },
+    {
+      "russian": "тайн",
+      "foreign": "μυστηρίων",
+      "codeBible": "3466"
+    },
+    {
+      "russian": "Здесь",
+      "foreign": "ὧδε",
+      "codeBible": "5602"
+    },
+    {
+      "russian": "[в] прочем",
+      "foreign": "λοιπὸν",
+      "codeBible": "3063"
+    },
+    {
+      "russian": "ищется",
+      "foreign": "ζητεῖται",
+      "codeBible": "2212"
+    },
+    {
+      "russian": "домоправителях",
+      "foreign": "οἰκονόμοις",
+      "codeBible": "3623"
+    },
+    {
+      "russian": "верный",
+      "foreign": "πιστός",
+      "codeBible": "4103"
+    },
+    {
+      "russian": "был найден.",
+      "foreign": "εὑρεθῇ",
+      "codeBible": "2147"
+    },
+    {
+      "russian": "Мне",
+      "foreign": "ἐμοὶ",
+      "codeBible": "1698"
+    },
+    {
+      "russian": "наименьшее",
+      "foreign": "ἐλάχιστόν",
+      "codeBible": "1646"
+    },
+    {
+      "russian": "вами",
+      "foreign": "ὑμῶν",
+      "codeBible": "5216"
+    },
+    {
+      "russian": "я сделался судим",
+      "foreign": "ἀνακριθῶ",
+      "codeBible": "350"
+    },
+    {
+      "russian": "человеческим",
+      "foreign": "ἀνθρωπίνης",
+      "codeBible": "442"
+    },
+    {
+      "russian": "днём;",
+      "foreign": "ἡμέρας",
+      "codeBible": "2250"
+    },
+    {
+      "russian": "меня самого",
+      "foreign": "ἐμαυτὸν",
+      "codeBible": "1683"
+    },
+    {
+      "russian": "сужу;",
+      "foreign": "ἀνακρίνω",
+      "codeBible": "350"
+    },
+    {
+      "russian": "ничто",
+      "foreign": "οὐδὲν",
+      "codeBible": "3762"
+    },
+    {
+      "russian": "[во] мне самом",
+      "foreign": "ἐμαυτῷ",
+      "codeBible": "1683"
+    },
+    {
+      "russian": "сознаю,",
+      "foreign": "σύνοιδα",
+      "codeBible": "4894"
+    },
+    {
+      "russian": "этом",
+      "foreign": "τούτῳ",
+      "codeBible": "5129"
+    },
+    {
+      "russian": "я оправдан,",
+      "foreign": "δεδικαίωμαι",
+      "codeBible": "1344"
+    },
+    {
+      "russian": "судящий",
+      "foreign": "ἀνακρίνων",
+      "codeBible": "350"
+    },
+    {
+      "russian": "Господь",
+      "foreign": "κύριός",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "срока",
+      "foreign": "καιροῦ",
+      "codeBible": "2540"
+    },
+    {
+      "russian": "суди&#769те,",
+      "foreign": "κρίνετε",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "пока",
+      "foreign": "ἕως",
+      "codeBible": "2193"
+    },
+    {
+      "russian": "придёт",
+      "foreign": "ἔλθῃ",
+      "codeBible": "2064"
+    },
+    {
+      "russian": "Господь,",
+      "foreign": "κύριος",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "осветит",
+      "foreign": "φωτίσει",
+      "codeBible": "5461"
+    },
+    {
+      "russian": "тайные [дела&#769]",
+      "foreign": "κρυπτὰ",
+      "codeBible": "2927"
+    },
+    {
+      "russian": "тьмы",
+      "foreign": "σκότους",
+      "codeBible": "4655"
+    },
+    {
+      "russian": "явит",
+      "foreign": "φανερώσει",
+      "codeBible": "5319"
+    },
+    {
+      "russian": "желания",
+      "foreign": "βουλὰς",
+      "codeBible": "1012"
+    },
+    {
+      "russian": "сердец;",
+      "foreign": "καρδιῶν",
+      "codeBible": "2588"
+    },
+    {
+      "russian": "тогда",
+      "foreign": "τότε",
+      "codeBible": "5119"
+    },
+    {
+      "russian": "хвала",
+      "foreign": "ἔπαινος",
+      "codeBible": "1868"
+    },
+    {
+      "russian": "сделается",
+      "foreign": "γενήσεται",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "Это",
+      "foreign": "Ταῦτα",
+      "codeBible": "5023"
+    },
+    {
+      "russian": "я преобразовал",
+      "foreign": "μετεσχημάτισα",
+      "codeBible": "3345"
+    },
+    {
+      "russian": "для",
+      "foreign": "εἰς",
+      "codeBible": "1519"
+    },
+    {
+      "russian": "Аполла",
+      "foreign": "Ἀπολλῶν",
+      "codeBible": "625"
+    },
+    {
+      "russian": "из-за",
+      "foreign": "δι᾽",
+      "codeBible": "1223"
+    },
+    {
+      "russian": "нас",
+      "foreign": "ἡμῖν",
+      "codeBible": "2254"
+    },
+    {
+      "russian": "вы выучили",
+      "foreign": "μάθητε",
+      "codeBible": "3129"
+    },
+    {
+      "russian": "которое",
+      "foreign": "τὸ",
+      "codeBible": "3588"
+    },
+    {
+      "russian": "Не",
+      "foreign": "Μὴ",
+      "codeBible": "3361"
+    },
+    {
+      "russian": "сверх",
+      "foreign": "ὑπὲρ",
+      "codeBible": "5228"
+    },
+    {
+      "russian": "которого",
+      "foreign": "ἃ",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "один",
+      "foreign": "εἷς",
+      "codeBible": "1519"
+    },
+    {
+      "russian": "одного",
+      "foreign": "ἑνὸς",
+      "codeBible": "1520"
+    },
+    {
+      "russian": "вы надувались",
+      "foreign": "φυσιοῦσθε",
+      "codeBible": "5448"
+    },
+    {
+      "russian": "против",
+      "foreign": "κατὰ",
+      "codeBible": "2596"
+    },
+    {
+      "russian": "другого.",
+      "foreign": "ἑτέρου",
+      "codeBible": "2087"
+    },
+    {
+      "russian": "тебя",
+      "foreign": "σε",
+      "codeBible": "4571"
+    },
+    {
+      "russian": "выделяет?",
+      "foreign": "διακρίνει",
+      "codeBible": "1252"
+    },
+    {
+      "russian": "Что",
+      "foreign": "τί",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "имеешь",
+      "foreign": "ἔχεις",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "получил ты?",
+      "foreign": "ἔλαβες",
+      "codeBible": "2983"
+    },
+    {
+      "russian": "получил ты,",
+      "foreign": "ἔλαβες",
+      "codeBible": "2983"
+    },
+    {
+      "russian": "что",
+      "foreign": "τί",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "гордишься",
+      "foreign": "καυχᾶσαι",
+      "codeBible": "2744"
+    },
+    {
+      "russian": "принявший?",
+      "foreign": "λαβών",
+      "codeBible": "2983"
+    },
+    {
+      "russian": "Уже&#769",
+      "foreign": "ἤδη",
+      "codeBible": "2235"
+    },
+    {
+      "russian": "насыщены",
+      "foreign": "κεκορεσμένοι",
+      "codeBible": "2880"
+    },
+    {
+      "russian": "вы есть;",
+      "foreign": "ἐστέ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "уже&#769",
+      "foreign": "ἤδη",
+      "codeBible": "2235"
+    },
+    {
+      "russian": "вы разбогатели;",
+      "foreign": "ἐπλουτήσατε",
+      "codeBible": "4147"
+    },
+    {
+      "russian": "без",
+      "foreign": "χωρὶς",
+      "codeBible": "5565"
+    },
+    {
+      "russian": "нас",
+      "foreign": "ἡμῶν",
+      "codeBible": "2257"
+    },
+    {
+      "russian": "вы воцарились;",
+      "foreign": "ἐβασιλεύσατε",
+      "codeBible": "936"
+    },
+    {
+      "russian": "воздолженствовавшее",
+      "foreign": "ὄφελόν",
+      "codeBible": "3785"
+    },
+    {
+      "russian": "конечно",
+      "foreign": "γε",
+      "codeBible": "1065"
+    },
+    {
+      "russian": "вы воцарились,",
+      "foreign": "ἐβασιλεύσατε",
+      "codeBible": "936"
+    },
+    {
+      "russian": "[с] вами",
+      "foreign": "ὑμῖν",
+      "codeBible": "5213"
+    },
+    {
+      "russian": "совоцарились.",
+      "foreign": "συμβασιλεύσωμεν",
+      "codeBible": "4821"
+    },
+    {
+      "russian": "Полагаю",
+      "foreign": "δοκῶ",
+      "codeBible": "1380"
+    },
+    {
+      "russian": "апостолов",
+      "foreign": "ἀποστόλους",
+      "codeBible": "652"
+    },
+    {
+      "russian": "последних",
+      "foreign": "ἐσχάτους",
+      "codeBible": "2078"
+    },
+    {
+      "russian": "указал",
+      "foreign": "ἀπέδειξεν",
+      "codeBible": "584"
+    },
+    {
+      "russian": "приготовленных к смерти,",
+      "foreign": "ἐπιθανατίους",
+      "codeBible": "1935"
+    },
+    {
+      "russian": "зрелище",
+      "foreign": "θέατρον",
+      "codeBible": "2302"
+    },
+    {
+      "russian": "мы были сделаны",
+      "foreign": "ἐγενήθημεν",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "миру",
+      "foreign": "κόσμῳ",
+      "codeBible": "2889"
+    },
+    {
+      "russian": "ангелам",
+      "foreign": "ἀγγέλοις",
+      "codeBible": "32"
+    },
+    {
+      "russian": "людям.",
+      "foreign": "ἀνθρώποις",
+      "codeBible": "444"
+    },
+    {
+      "russian": "глупые",
+      "foreign": "μωροὶ",
+      "codeBible": "3474"
+    },
+    {
+      "russian": "из-за",
+      "foreign": "διὰ",
+      "codeBible": "1223"
+    },
+    {
+      "russian": "Христа,",
+      "foreign": "Χριστόν",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "разумные",
+      "foreign": "φρόνιμοι",
+      "codeBible": "5429"
+    },
+    {
+      "russian": "Христе;",
+      "foreign": "Χριστῷ",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "слабы,",
+      "foreign": "ἀσθενεῖς",
+      "codeBible": "772"
+    },
+    {
+      "russian": "сильные;",
+      "foreign": "ἰσχυροί",
+      "codeBible": "2478"
+    },
+    {
+      "russian": "славны,",
+      "foreign": "ἔνδοξοι",
+      "codeBible": "1741"
+    },
+    {
+      "russian": "презренны.",
+      "foreign": "ἄτιμοι",
+      "codeBible": "820"
+    },
+    {
+      "russian": "До",
+      "foreign": "ἄχρι",
+      "codeBible": "891"
+    },
+    {
+      "russian": "ныне",
+      "foreign": "ἄρτι",
+      "codeBible": "737"
+    },
+    {
+      "russian": "часа",
+      "foreign": "ὥρας",
+      "codeBible": "5610"
+    },
+    {
+      "russian": "испытываем голод",
+      "foreign": "πεινῶμεν",
+      "codeBible": "3983"
+    },
+    {
+      "russian": "испытываем жажду",
+      "foreign": "διψῶμεν",
+      "codeBible": "1372"
+    },
+    {
+      "russian": "голые мы есть",
+      "foreign": "γυμνιτεύομεν",
+      "codeBible": "1130"
+    },
+    {
+      "russian": "избиваемся",
+      "foreign": "κολαφιζόμεθα",
+      "codeBible": "2852"
+    },
+    {
+      "russian": "бездомные мы есть",
+      "foreign": "ἀστατοῦμεν",
+      "codeBible": "790"
+    },
+    {
+      "russian": "трудимся",
+      "foreign": "κοπιῶμεν",
+      "codeBible": "2872"
+    },
+    {
+      "russian": "работающие",
+      "foreign": "ἐργαζόμενοι",
+      "codeBible": "2038"
+    },
+    {
+      "russian": "собственными",
+      "foreign": "ἰδίαις",
+      "codeBible": "2398"
+    },
+    {
+      "russian": "руками;",
+      "foreign": "χερσίν",
+      "codeBible": "5495"
+    },
+    {
+      "russian": "ругаемые",
+      "foreign": "λοιδορούμενοι",
+      "codeBible": "3058"
+    },
+    {
+      "russian": "благословляем,",
+      "foreign": "εὐλογοῦμεν",
+      "codeBible": "2127"
+    },
+    {
+      "russian": "преследуемые",
+      "foreign": "διωκόμενοι",
+      "codeBible": "1377"
+    },
+    {
+      "russian": "держимся,",
+      "foreign": "ἀνεχόμεθα",
+      "codeBible": "430"
+    },
+    {
+      "russian": "злословимые",
+      "foreign": "δυσφημούμενοι",
+      "codeBible": "1426"
+    },
+    {
+      "russian": "увещаем;",
+      "foreign": "παρακαλοῦμεν",
+      "codeBible": "3870"
+    },
+    {
+      "russian": "очистки",
+      "foreign": "περικαθάρματα",
+      "codeBible": "4027"
+    },
+    {
+      "russian": "мы были сделаны,",
+      "foreign": "ἐγενήθημεν",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "всех",
+      "foreign": "πάντων",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "отброс,",
+      "foreign": "περίψημα",
+      "codeBible": "4067"
+    },
+    {
+      "russian": "ныне.",
+      "foreign": "ἄρτι",
+      "codeBible": "737"
+    },
+    {
+      "russian": "Не",
+      "foreign": "Οὐκ",
+      "codeBible": "3756"
+    },
+    {
+      "russian": "стыдящий",
+      "foreign": "ἐντρέπων",
+      "codeBible": "1788"
+    },
+    {
+      "russian": "пишу",
+      "foreign": "γράφω",
+      "codeBible": "1125"
+    },
+    {
+      "russian": "это,",
+      "foreign": "ταῦτα",
+      "codeBible": "5023"
+    },
+    {
+      "russian": "детей",
+      "foreign": "τέκνα",
+      "codeBible": "5043"
+    },
+    {
+      "russian": "моих",
+      "foreign": "μου",
+      "codeBible": "3450"
+    },
+    {
+      "russian": "любимых",
+      "foreign": "ἀγαπητὰ",
+      "codeBible": "27"
+    },
+    {
+      "russian": "вразумляющий;",
+      "foreign": "νουθετῶ[ν]",
+      "codeBible": "3560"
+    },
+    {
+      "russian": "если",
+      "foreign": "ἐὰν",
+      "codeBible": "1437"
+    },
+    {
+      "russian": "десять тысяч",
+      "foreign": "μυρίους",
+      "codeBible": "3463"
+    },
+    {
+      "russian": "воспитателей",
+      "foreign": "παιδαγωγοὺς",
+      "codeBible": "3807"
+    },
+    {
+      "russian": "будете иметь",
+      "foreign": "ἔχητε",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "Христе,",
+      "foreign": "Χριστῷ",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "многих",
+      "foreign": "πολλοὺς",
+      "codeBible": "4183"
+    },
+    {
+      "russian": "отцов,",
+      "foreign": "πατέρας",
+      "codeBible": "3962"
+    },
+    {
+      "russian": "Иисусе",
+      "foreign": "Ἰησοῦ",
+      "codeBible": "2424"
+    },
+    {
+      "russian": "благовестие",
+      "foreign": "εὐαγγελίου",
+      "codeBible": "2098"
+    },
+    {
+      "russian": "я",
+      "foreign": "ἐγὼ",
+      "codeBible": "1473"
+    },
+    {
+      "russian": "породил.",
+      "foreign": "ἐγέννησα",
+      "codeBible": "1080"
+    },
+    {
+      "russian": "Прошу",
+      "foreign": "παρακαλῶ",
+      "codeBible": "3870"
+    },
+    {
+      "russian": "подражатели",
+      "foreign": "μιμηταί",
+      "codeBible": "3402"
+    },
+    {
+      "russian": "меня",
+      "foreign": "μου",
+      "codeBible": "3450"
+    },
+    {
+      "russian": "делайтесь.",
+      "foreign": "γίνεσθε",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "Из-за",
+      "foreign": "διὰ",
+      "codeBible": "1223"
+    },
+    {
+      "russian": "этого",
+      "foreign": "τοῦτο",
+      "codeBible": "5124"
+    },
+    {
+      "russian": "я послал",
+      "foreign": "ἔπεμψα",
+      "codeBible": "3992"
+    },
+    {
+      "russian": "Тимофея,",
+      "foreign": "Τιμόθεον",
+      "codeBible": "5095"
+    },
+    {
+      "russian": "мой",
+      "foreign": "μου",
+      "codeBible": "3450"
+    },
+    {
+      "russian": "дитя",
+      "foreign": "τέκνον",
+      "codeBible": "5043"
+    },
+    {
+      "russian": "любимый",
+      "foreign": "ἀγαπητὸν",
+      "codeBible": "27"
+    },
+    {
+      "russian": "верный",
+      "foreign": "πιστὸν",
+      "codeBible": "4103"
+    },
+    {
+      "russian": "Господе,",
+      "foreign": "κυρίῳ",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "напомнит",
+      "foreign": "ἀναμνήσει",
+      "codeBible": "363"
+    },
+    {
+      "russian": "пути",
+      "foreign": "ὁδούς",
+      "codeBible": "3598"
+    },
+    {
+      "russian": "мои",
+      "foreign": "μου",
+      "codeBible": "3450"
+    },
+    {
+      "russian": "Иисусе,",
+      "foreign": "[Ἰησοῦ]",
+      "codeBible": "2424"
+    },
+    {
+      "russian": "повсюду",
+      "foreign": "πανταχοῦ",
+      "codeBible": "3837"
+    },
+    {
+      "russian": "всякой",
+      "foreign": "πάσῃ",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "учу.",
+      "foreign": "διδάσκω",
+      "codeBible": "1321"
+    },
+    {
+      "russian": "Как",
+      "foreign": "ὡς",
+      "codeBible": "5613"
+    },
+    {
+      "russian": "приходящего",
+      "foreign": "ἐρχομένου",
+      "codeBible": "2064"
+    },
+    {
+      "russian": "были надуты",
+      "foreign": "ἐφυσιώθησάν",
+      "codeBible": "5448"
+    },
+    {
+      "russian": "некоторые;",
+      "foreign": "τινες",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "приду",
+      "foreign": "ἐλεύσομαι",
+      "codeBible": "2064"
+    },
+    {
+      "russian": "скоро",
+      "foreign": "ταχέως",
+      "codeBible": "5030"
+    },
+    {
+      "russian": "пожелает,",
+      "foreign": "θελήσῃ",
+      "codeBible": "2309"
+    },
+    {
+      "russian": "узна&#769ю",
+      "foreign": "γνώσομαι",
+      "codeBible": "1097"
+    },
+    {
+      "russian": "слово",
+      "foreign": "λόγον",
+      "codeBible": "3056"
+    },
+    {
+      "russian": "надувшихся",
+      "foreign": "πεφυσιωμένων",
+      "codeBible": "5448"
+    },
+    {
+      "russian": "силу,",
+      "foreign": "δύναμιν",
+      "codeBible": "1411"
+    },
+    {
+      "russian": "Царство",
+      "foreign": "βασιλεία",
+      "codeBible": "932"
+    },
+    {
+      "russian": "силе.",
+      "foreign": "δυνάμει",
+      "codeBible": "1411"
+    },
+    {
+      "russian": "желаете?",
+      "foreign": "θέλετε",
+      "codeBible": "2309"
+    },
+    {
+      "russian": "В",
+      "foreign": "ἐν",
+      "codeBible": "1722"
+    },
+    {
+      "russian": "посохе",
+      "foreign": "ῥάβδῳ",
+      "codeBible": "4464"
+    },
+    {
+      "russian": "приду",
+      "foreign": "ἔλθω",
+      "codeBible": "2064"
+    },
+    {
+      "russian": "любви",
+      "foreign": "ἀγάπῃ",
+      "codeBible": "26"
+    },
+    {
+      "russian": "[с] духом",
+      "foreign": "πνεύματί",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "кротости?",
+      "foreign": "πραΰτητος",
+      "codeBible": "4240"
+    },
+    {
+      "russian": "Вообще",
+      "foreign": "Ολως",
+      "codeBible": "3654"
+    },
+    {
+      "russian": "слышится",
+      "foreign": "ἀκούεται",
+      "codeBible": "191"
+    },
+    {
+      "russian": "блуд,",
+      "foreign": "πορνεία",
+      "codeBible": "4202"
+    },
+    {
+      "russian": "таковой",
+      "foreign": "τοιαύτη",
+      "codeBible": "5108"
+    },
+    {
+      "russian": "блуд",
+      "foreign": "πορνεία",
+      "codeBible": "4202"
+    },
+    {
+      "russian": "тот, который",
+      "foreign": "ἥτις",
+      "codeBible": "3748"
+    },
+    {
+      "russian": "язычниках,",
+      "foreign": "ἔθνεσιν",
+      "codeBible": "1484"
+    },
+    {
+      "russian": "жену",
+      "foreign": "γυναῖκά",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "какую",
+      "foreign": "τινα",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "отца",
+      "foreign": "πατρὸς",
+      "codeBible": "3962"
+    },
+    {
+      "russian": "иметь.",
+      "foreign": "ἔχειν",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "И",
+      "foreign": "καὶ",
+      "codeBible": "2532"
+    },
+    {
+      "russian": "надувшиеся",
+      "foreign": "πεφυσιωμένοι",
+      "codeBible": "5448"
+    },
+    {
+      "russian": "есть,",
+      "foreign": "ἐστέ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "не",
+      "foreign": "οὐχὶ",
+      "codeBible": "3780"
+    },
+    {
+      "russian": "более",
+      "foreign": "μᾶλλον",
+      "codeBible": "3123"
+    },
+    {
+      "russian": "вы предались ско&#769рби,",
+      "foreign": "ἐπενθήσατε",
+      "codeBible": "3996"
+    },
+    {
+      "russian": "был взят",
+      "foreign": "ἀρθῇ",
+      "codeBible": "142"
+    },
+    {
+      "russian": "из",
+      "foreign": "ἐκ",
+      "codeBible": "1537"
+    },
+    {
+      "russian": "середины",
+      "foreign": "μέσου",
+      "codeBible": "3319"
+    },
+    {
+      "russian": "это",
+      "foreign": "τοῦτο",
+      "codeBible": "5124"
+    },
+    {
+      "russian": "сделавший?",
+      "foreign": "πράξας",
+      "codeBible": "4238"
+    },
+    {
+      "russian": "то",
+      "foreign": "μὲν",
+      "codeBible": "3303"
+    },
+    {
+      "russian": "отсутствующий",
+      "foreign": "ἀπὼν",
+      "codeBible": "548"
+    },
+    {
+      "russian": "телом",
+      "foreign": "σώματι",
+      "codeBible": "4983"
+    },
+    {
+      "russian": "присутствующий",
+      "foreign": "παρὼν",
+      "codeBible": "3918"
+    },
+    {
+      "russian": "духом,",
+      "foreign": "πνεύματι",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "решил",
+      "foreign": "κέκρικα",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "[о] котором",
+      "foreign": "οὕτως",
+      "codeBible": "3779"
+    },
+    {
+      "russian": "совершившем",
+      "foreign": "κατεργασάμενον",
+      "codeBible": "2716"
+    },
+    {
+      "russian": "имени",
+      "foreign": "ὀνόματι",
+      "codeBible": "3686"
+    },
+    {
+      "russian": "Го&#769спода",
+      "foreign": "κυρίου",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "нашего",
+      "foreign": "[ἡμῶν]",
+      "codeBible": "2257"
+    },
+    {
+      "russian": "Иисуса,",
+      "foreign": "Ἰησοῦ",
+      "codeBible": "2424"
+    },
+    {
+      "russian": "собранных",
+      "foreign": "συναχθέντων",
+      "codeBible": "4863"
+    },
+    {
+      "russian": "моего",
+      "foreign": "ἐμοῦ",
+      "codeBible": "1700"
+    },
+    {
+      "russian": "духа",
+      "foreign": "πνεύματος",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "с",
+      "foreign": "σὺν",
+      "codeBible": "4862"
+    },
+    {
+      "russian": "силой",
+      "foreign": "δυνάμει",
+      "codeBible": "1411"
+    },
+    {
+      "russian": "передать",
+      "foreign": "παραδοῦναι",
+      "codeBible": "3860"
+    },
+    {
+      "russian": "такового",
+      "foreign": "τοιοῦτον",
+      "codeBible": "5108"
+    },
+    {
+      "russian": "Сатане",
+      "foreign": "Σατανᾳϋ152",
+      "codeBible": "4567"
+    },
+    {
+      "russian": "гибель",
+      "foreign": "ὄλεθρον",
+      "codeBible": "3639"
+    },
+    {
+      "russian": "плоти,",
+      "foreign": "σαρκός",
+      "codeBible": "4561"
+    },
+    {
+      "russian": "был спасён",
+      "foreign": "σωθῇ",
+      "codeBible": "4982"
+    },
+    {
+      "russian": "Го&#769спода.",
+      "foreign": "κυρίου",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "Не",
+      "foreign": "Οὐ",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "хороша",
+      "foreign": "καλὸν",
+      "codeBible": "2570"
+    },
+    {
+      "russian": "гордость",
+      "foreign": "καύχημα",
+      "codeBible": "2745"
+    },
+    {
+      "russian": "ваша.",
+      "foreign": "ὑμῶν",
+      "codeBible": "5216"
+    },
+    {
+      "russian": "малая",
+      "foreign": "μικρὰ",
+      "codeBible": "3398"
+    },
+    {
+      "russian": "закваска",
+      "foreign": "ζύμη",
+      "codeBible": "2219"
+    },
+    {
+      "russian": "всё",
+      "foreign": "ὅλον",
+      "codeBible": "3650"
+    },
+    {
+      "russian": "тесто",
+      "foreign": "φύραμα",
+      "codeBible": "5445"
+    },
+    {
+      "russian": "заквашивает?",
+      "foreign": "ζυμοῖ",
+      "codeBible": "2220"
+    },
+    {
+      "russian": "Вычистите",
+      "foreign": "ἐκκαθάρατε",
+      "codeBible": "1571"
+    },
+    {
+      "russian": "старую",
+      "foreign": "παλαιὰν",
+      "codeBible": "3820"
+    },
+    {
+      "russian": "закваску,",
+      "foreign": "ζύμην",
+      "codeBible": "2219"
+    },
+    {
+      "russian": "новое",
+      "foreign": "νέον",
+      "codeBible": "3501"
+    },
+    {
+      "russian": "тесто,",
+      "foreign": "φύραμα",
+      "codeBible": "5445"
+    },
+    {
+      "russian": "как",
+      "foreign": "καθώς",
+      "codeBible": "2531"
+    },
+    {
+      "russian": "опресноки.",
+      "foreign": "ἄζυμοι",
+      "codeBible": "106"
+    },
+    {
+      "russian": "Пасха",
+      "foreign": "πάσχα",
+      "codeBible": "3957"
+    },
+    {
+      "russian": "наша",
+      "foreign": "ἡμῶν",
+      "codeBible": "2257"
+    },
+    {
+      "russian": "был заклан",
+      "foreign": "ἐτύθη",
+      "codeBible": "2380"
+    },
+    {
+      "russian": "Христос;",
+      "foreign": "Χριστός",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "давайте будем праздновать,",
+      "foreign": "ἑορτάζωμεν",
+      "codeBible": "1858"
+    },
+    {
+      "russian": "закваске",
+      "foreign": "ζύμῃ",
+      "codeBible": "2219"
+    },
+    {
+      "russian": "старой",
+      "foreign": "παλαιᾳϋ152",
+      "codeBible": "3820"
+    },
+    {
+      "russian": "и не",
+      "foreign": "μηδὲ",
+      "codeBible": "3366"
+    },
+    {
+      "russian": "злобы",
+      "foreign": "κακίας",
+      "codeBible": "2549"
+    },
+    {
+      "russian": "зла,",
+      "foreign": "πονηρίας",
+      "codeBible": "4189"
+    },
+    {
+      "russian": "опресноках",
+      "foreign": "ἀζύμοις",
+      "codeBible": "106"
+    },
+    {
+      "russian": "чистоты",
+      "foreign": "εἰλικρινείας",
+      "codeBible": "1505"
+    },
+    {
+      "russian": "истины.",
+      "foreign": "ἀληθείας",
+      "codeBible": "225"
+    },
+    {
+      "russian": "Я написал",
+      "foreign": "Ἔγραψα",
+      "codeBible": "1125"
+    },
+    {
+      "russian": "послании",
+      "foreign": "ἐπιστολῇ",
+      "codeBible": "1992"
+    },
+    {
+      "russian": "[чтобы] смешиваться",
+      "foreign": "συναναμίγνυσθαι",
+      "codeBible": "4874"
+    },
+    {
+      "russian": "[с] развратниками,",
+      "foreign": "πόρνοις",
+      "codeBible": "4205"
+    },
+    {
+      "russian": "всяко",
+      "foreign": "πάντως",
+      "codeBible": "3843"
+    },
+    {
+      "russian": "развратниками",
+      "foreign": "πόρνοις",
+      "codeBible": "4205"
+    },
+    {
+      "russian": "стяжателями",
+      "foreign": "πλεονέκταις",
+      "codeBible": "4123"
+    },
+    {
+      "russian": "грабителями",
+      "foreign": "ἄρπαξιν",
+      "codeBible": "727"
+    },
+    {
+      "russian": "идолопоклонникам,",
+      "foreign": "εἰδωλολάτραις",
+      "codeBible": "1496"
+    },
+    {
+      "russian": "поскольку",
+      "foreign": "ἐπεὶ",
+      "codeBible": "1893"
+    },
+    {
+      "russian": "вы имели долг",
+      "foreign": "ὠφείλετε",
+      "codeBible": "3784"
+    },
+    {
+      "russian": "тогда",
+      "foreign": "ἄρα",
+      "codeBible": "686"
+    },
+    {
+      "russian": "выйти.",
+      "foreign": "ἐξελθεῖν",
+      "codeBible": "1831"
+    },
+    {
+      "russian": "Теперь",
+      "foreign": "νῦν",
+      "codeBible": "3568"
+    },
+    {
+      "russian": "написал",
+      "foreign": "ἔγραψα",
+      "codeBible": "1125"
+    },
+    {
+      "russian": "смешиваться",
+      "foreign": "συναναμίγνυσθαι",
+      "codeBible": "4874"
+    },
+    {
+      "russian": "если",
+      "foreign": "ἐάν",
+      "codeBible": "1437"
+    },
+    {
+      "russian": "брат",
+      "foreign": "ἀδελφὸς",
+      "codeBible": "80"
+    },
+    {
+      "russian": "называющийся",
+      "foreign": "ὀνομαζόμενος",
+      "codeBible": "3687"
+    },
+    {
+      "russian": "будет",
+      "foreign": "ᾖ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "развратник",
+      "foreign": "πόρνος",
+      "codeBible": "4205"
+    },
+    {
+      "russian": "стяжатель",
+      "foreign": "πλεονέκτης",
+      "codeBible": "4123"
+    },
+    {
+      "russian": "идолопоклонник",
+      "foreign": "εἰδωλολάτρης",
+      "codeBible": "1496"
+    },
+    {
+      "russian": "ругатель",
+      "foreign": "λοίδορος",
+      "codeBible": "3060"
+    },
+    {
+      "russian": "пьяница",
+      "foreign": "μέθυσος",
+      "codeBible": "3183"
+    },
+    {
+      "russian": "грабитель,",
+      "foreign": "ἄρπαξ",
+      "codeBible": "727"
+    },
+    {
+      "russian": "[с] таковым",
+      "foreign": "τοιούτῳ",
+      "codeBible": "5108"
+    },
+    {
+      "russian": "вместе есть.",
+      "foreign": "συνεσθίειν",
+      "codeBible": "4906"
+    },
+    {
+      "russian": "которых",
+      "foreign": "τοὺς",
+      "codeBible": "3588"
+    },
+    {
+      "russian": "вне",
+      "foreign": "ἔξω",
+      "codeBible": "1854"
+    },
+    {
+      "russian": "судить?",
+      "foreign": "κρίνειν",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "внутри",
+      "foreign": "ἔσω",
+      "codeBible": "2080"
+    },
+    {
+      "russian": "су&#769дите?",
+      "foreign": "κρίνετε",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "Которых",
+      "foreign": "τοὺς",
+      "codeBible": "3588"
+    },
+    {
+      "russian": "судит.",
+      "foreign": "κρινεῖ",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "Уберите",
+      "foreign": "ἐξάρατε",
+      "codeBible": "1808"
+    },
+    {
+      "russian": "злого",
+      "foreign": "πονηρὸν",
+      "codeBible": "4190"
+    },
+    {
+      "russian": "из",
+      "foreign": "ἐξ",
+      "codeBible": "1537"
+    },
+    {
+      "russian": "самих.",
+      "foreign": "αὐτῶν",
+      "codeBible": "846"
+    },
+    {
+      "russian": "Осмеливается",
+      "foreign": "Τολμᾳϋ152",
+      "codeBible": "5111"
+    },
+    {
+      "russian": "дело",
+      "foreign": "πρᾶγμα",
+      "codeBible": "4229"
+    },
+    {
+      "russian": "имеющий",
+      "foreign": "ἔχων",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "другому",
+      "foreign": "ἕτερον",
+      "codeBible": "2087"
+    },
+    {
+      "russian": "быть судимым",
+      "foreign": "κρίνεσθαι",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "у",
+      "foreign": "ἐπὶ",
+      "codeBible": "1909"
+    },
+    {
+      "russian": "неправедных,",
+      "foreign": "ἀδίκων",
+      "codeBible": "94"
+    },
+    {
+      "russian": "а",
+      "foreign": "καὶ",
+      "codeBible": "2532"
+    },
+    {
+      "russian": "святых?",
+      "foreign": "ἁγίων",
+      "codeBible": "40"
+    },
+    {
+      "russian": "Или",
+      "foreign": "ἢ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "святые",
+      "foreign": "ἄγιοι",
+      "codeBible": "40"
+    },
+    {
+      "russian": "мир",
+      "foreign": "κόσμον",
+      "codeBible": "2889"
+    },
+    {
+      "russian": "будут судить?",
+      "foreign": "κρινοῦσιν",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "судится",
+      "foreign": "κρίνεται",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "мир,",
+      "foreign": "κόσμος",
+      "codeBible": "2889"
+    },
+    {
+      "russian": "[разве] недостойны",
+      "foreign": "ἀνάξιοί",
+      "codeBible": "370"
+    },
+    {
+      "russian": "судов",
+      "foreign": "κριτηρίων",
+      "codeBible": "2922"
+    },
+    {
+      "russian": "наименьших?",
+      "foreign": "ἐλαχίστων",
+      "codeBible": "1646"
+    },
+    {
+      "russian": "ангелов",
+      "foreign": "ἀγγέλους",
+      "codeBible": "32"
+    },
+    {
+      "russian": "будем судить,",
+      "foreign": "κρινοῦμεν",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "не то что",
+      "foreign": "μήτιγε",
+      "codeBible": "3386"
+    },
+    {
+      "russian": "житейское?",
+      "foreign": "βιωτικά",
+      "codeBible": "982"
+    },
+    {
+      "russian": "Житейские",
+      "foreign": "βιωτικὰ",
+      "codeBible": "982"
+    },
+    {
+      "russian": "суды",
+      "foreign": "κριτήρια",
+      "codeBible": "2922"
+    },
+    {
+      "russian": "будете иметь,",
+      "foreign": "ἔχητε",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "уничиженных",
+      "foreign": "ἐξουθενημένους",
+      "codeBible": "1848"
+    },
+    {
+      "russian": "этих",
+      "foreign": "τούτους",
+      "codeBible": "5128"
+    },
+    {
+      "russian": "сажаете?",
+      "foreign": "καθίζετε",
+      "codeBible": "2523"
+    },
+    {
+      "russian": "К",
+      "foreign": "πρὸς",
+      "codeBible": "4314"
+    },
+    {
+      "russian": "стыду",
+      "foreign": "ἐντροπὴν",
+      "codeBible": "1791"
+    },
+    {
+      "russian": "говорю.",
+      "foreign": "λέγω",
+      "codeBible": "3004"
+    },
+    {
+      "russian": "есть",
+      "foreign": "ἔνι",
+      "codeBible": "1762"
+    },
+    {
+      "russian": "сможет",
+      "foreign": "δυνήσεται",
+      "codeBible": "1410"
+    },
+    {
+      "russian": "рассудить",
+      "foreign": "διακρῖναι",
+      "codeBible": "1252"
+    },
+    {
+      "russian": "по",
+      "foreign": "ἀνὰ",
+      "codeBible": "303"
+    },
+    {
+      "russian": "середине",
+      "foreign": "μέσον",
+      "codeBible": "3319"
+    },
+    {
+      "russian": "брата",
+      "foreign": "ἀδελφοῦ",
+      "codeBible": "80"
+    },
+    {
+      "russian": "его?",
+      "foreign": "αὐτοῦ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "с",
+      "foreign": "μετὰ",
+      "codeBible": "3326"
+    },
+    {
+      "russian": "братом",
+      "foreign": "ἀδελφοῦ",
+      "codeBible": "80"
+    },
+    {
+      "russian": "судится,",
+      "foreign": "κρίνεται",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "неверных?",
+      "foreign": "ἀπίστων",
+      "codeBible": "571"
+    },
+    {
+      "russian": "итак",
+      "foreign": "[οὖν]",
+      "codeBible": "3767"
+    },
+    {
+      "russian": "вовсе",
+      "foreign": "ὅλως",
+      "codeBible": "3654"
+    },
+    {
+      "russian": "поражение",
+      "foreign": "ἥττημα",
+      "codeBible": "2275"
+    },
+    {
+      "russian": "суды",
+      "foreign": "κρίματα",
+      "codeBible": "2917"
+    },
+    {
+      "russian": "имеете",
+      "foreign": "ἔχετε",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "с",
+      "foreign": "μεθ᾽",
+      "codeBible": "3326"
+    },
+    {
+      "russian": "собой;",
+      "foreign": "ἑαυτῶν",
+      "codeBible": "1438"
+    },
+    {
+      "russian": "чего",
+      "foreign": "τί",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "бываете обижаемы?",
+      "foreign": "ἀδικεῖσθε",
+      "codeBible": "91"
+    },
+    {
+      "russian": "бываете лишаемы?",
+      "foreign": "ἀποστερεῖσθε",
+      "codeBible": "650"
+    },
+    {
+      "russian": "обижаете",
+      "foreign": "ἀδικεῖτε",
+      "codeBible": "91"
+    },
+    {
+      "russian": "лишаете,",
+      "foreign": "ἀποστερεῖτε",
+      "codeBible": "650"
+    },
+    {
+      "russian": "братьев.",
+      "foreign": "ἀδελφούς",
+      "codeBible": "80"
+    },
+    {
+      "russian": "неправедные",
+      "foreign": "ἄδικοι",
+      "codeBible": "94"
+    },
+    {
+      "russian": "Царство",
+      "foreign": "βασιλείαν",
+      "codeBible": "932"
+    },
+    {
+      "russian": "унаследуют?",
+      "foreign": "κληρονομήσουσιν",
+      "codeBible": "2816"
+    },
+    {
+      "russian": "заблуждайтесь;",
+      "foreign": "πλανᾶσθε",
+      "codeBible": "4105"
+    },
+    {
+      "russian": "развратники",
+      "foreign": "πόρνοι",
+      "codeBible": "4205"
+    },
+    {
+      "russian": "идолопоклонники",
+      "foreign": "εἰδωλολάτραι",
+      "codeBible": "1496"
+    },
+    {
+      "russian": "прелюбодеи",
+      "foreign": "μοιχοὶ",
+      "codeBible": "3432"
+    },
+    {
+      "russian": "сластолюбцы",
+      "foreign": "μαλακοὶ",
+      "codeBible": "3120"
+    },
+    {
+      "russian": "мужеложцы",
+      "foreign": "ἀρσενοκοῖται",
+      "codeBible": "733"
+    },
+    {
+      "russian": "воры",
+      "foreign": "κλέπται",
+      "codeBible": "2812"
+    },
+    {
+      "russian": "стяжатели,",
+      "foreign": "πλεονέκται",
+      "codeBible": "4123"
+    },
+    {
+      "russian": "пьяницы,",
+      "foreign": "μέθυσοι",
+      "codeBible": "3183"
+    },
+    {
+      "russian": "ругатели,",
+      "foreign": "λοίδοροι",
+      "codeBible": "3060"
+    },
+    {
+      "russian": "не",
+      "foreign": "οὐχ",
+      "codeBible": "3756"
+    },
+    {
+      "russian": "хищные",
+      "foreign": "ἄρπαγες",
+      "codeBible": "727"
+    },
+    {
+      "russian": "царство",
+      "foreign": "βασιλείαν",
+      "codeBible": "932"
+    },
+    {
+      "russian": "унаследуют.",
+      "foreign": "κληρονομήσουσιν",
+      "codeBible": "2816"
+    },
+    {
+      "russian": "это",
+      "foreign": "ταῦτά",
+      "codeBible": "5023"
+    },
+    {
+      "russian": "некоторые",
+      "foreign": "τινες",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "вы были;",
+      "foreign": "ἦτε",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "вы отмылись,",
+      "foreign": "ἀπελούσασθε",
+      "codeBible": "628"
+    },
+    {
+      "russian": "вы были освящены,",
+      "foreign": "ἡγιάσθητε",
+      "codeBible": "37"
+    },
+    {
+      "russian": "вы были оправданы",
+      "foreign": "ἐδικαιώθητε",
+      "codeBible": "1344"
+    },
+    {
+      "russian": "Духе",
+      "foreign": "πνεύματι",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "Всё",
+      "foreign": "Πάντα",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "позволяется,",
+      "foreign": "ἔξεστιν",
+      "codeBible": "1832"
+    },
+    {
+      "russian": "приносит пользу.",
+      "foreign": "συμφέρει",
+      "codeBible": "4851"
+    },
+    {
+      "russian": "Всё",
+      "foreign": "πάντα",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "буду сделан подвластен",
+      "foreign": "ἐξουσιασθήσομαι",
+      "codeBible": "1850"
+    },
+    {
+      "russian": "чем-либо.",
+      "foreign": "τινος",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "Пища",
+      "foreign": "βρώματα",
+      "codeBible": "1033"
+    },
+    {
+      "russian": "утробе,",
+      "foreign": "κοιλίᾳ",
+      "codeBible": "2836"
+    },
+    {
+      "russian": "утроба",
+      "foreign": "κοιλία",
+      "codeBible": "2836"
+    },
+    {
+      "russian": "еде;",
+      "foreign": "βρώμασιν",
+      "codeBible": "1033"
+    },
+    {
+      "russian": "эту",
+      "foreign": "ταύτην",
+      "codeBible": "3778"
+    },
+    {
+      "russian": "это",
+      "foreign": "ταῦτα",
+      "codeBible": "5023"
+    },
+    {
+      "russian": "упразднит.",
+      "foreign": "καταργήσει",
+      "codeBible": "2673"
+    },
+    {
+      "russian": "Же",
+      "foreign": "δὲ",
+      "codeBible": "1161"
+    },
+    {
+      "russian": "тело",
+      "foreign": "σῶμα",
+      "codeBible": "4983"
+    },
+    {
+      "russian": "блуду",
+      "foreign": "πορνείᾳ",
+      "codeBible": "4202"
+    },
+    {
+      "russian": "Господу,",
+      "foreign": "κυρίῳ",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "телу;",
+      "foreign": "σώματι",
+      "codeBible": "4983"
+    },
+    {
+      "russian": "Го&#769спода",
+      "foreign": "κύριον",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "воскресил",
+      "foreign": "ἤγειρεν",
+      "codeBible": "1453"
+    },
+    {
+      "russian": "воскресит",
+      "foreign": "ἐξεγερεῖ",
+      "codeBible": "1825"
+    },
+    {
+      "russian": "силу",
+      "foreign": "δυνάμεως",
+      "codeBible": "1411"
+    },
+    {
+      "russian": "Его.",
+      "foreign": "αὐτοῦ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "тела&#769",
+      "foreign": "σώματα",
+      "codeBible": "4983"
+    },
+    {
+      "russian": "ваши",
+      "foreign": "ὑμῶν",
+      "codeBible": "5216"
+    },
+    {
+      "russian": "члены",
+      "foreign": "μέλη",
+      "codeBible": "3196"
+    },
+    {
+      "russian": "есть?",
+      "foreign": "ἐστιν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "Взявший",
+      "foreign": "ἄρας",
+      "codeBible": "142"
+    },
+    {
+      "russian": "сделаю",
+      "foreign": "ποιήσω",
+      "codeBible": "4160"
+    },
+    {
+      "russian": "развратницы",
+      "foreign": "πόρνης",
+      "codeBible": "4204"
+    },
+    {
+      "russian": "члены?",
+      "foreign": "μέλη",
+      "codeBible": "3196"
+    },
+    {
+      "russian": "пусть осуществится.",
+      "foreign": "γένοιτο",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "Или",
+      "foreign": "[ἢ]",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "склеивающийся",
+      "foreign": "κολλώμενος",
+      "codeBible": "2853"
+    },
+    {
+      "russian": "[с] блудницею",
+      "foreign": "πόρνῃ",
+      "codeBible": "4204"
+    },
+    {
+      "russian": "одно",
+      "foreign": "ἓν",
+      "codeBible": "1722"
+    },
+    {
+      "russian": "тело",
+      "foreign": "σῶμά",
+      "codeBible": "4983"
+    },
+    {
+      "russian": "Будут",
+      "foreign": "Ἔσονται",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "говорит,",
+      "foreign": "φησίν",
+      "codeBible": "5346"
+    },
+    {
+      "russian": "два",
+      "foreign": "δύο",
+      "codeBible": "1417"
+    },
+    {
+      "russian": "плоть",
+      "foreign": "σάρκα",
+      "codeBible": "4561"
+    },
+    {
+      "russian": "одну.",
+      "foreign": "μίαν",
+      "codeBible": "1520"
+    },
+    {
+      "russian": "[с] Господом",
+      "foreign": "κυρίῳ",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "один",
+      "foreign": "ἓν",
+      "codeBible": "1722"
+    },
+    {
+      "russian": "дух",
+      "foreign": "πνεῦμά",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "Избегайте",
+      "foreign": "φεύγετε",
+      "codeBible": "5343"
+    },
+    {
+      "russian": "разврата;",
+      "foreign": "πορνείαν",
+      "codeBible": "4202"
+    },
+    {
+      "russian": "всякий",
+      "foreign": "πᾶν",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "грех",
+      "foreign": "ἁμάρτημα",
+      "codeBible": "265"
+    },
+    {
+      "russian": "который",
+      "foreign": "ὃ",
+      "codeBible": "3588"
+    },
+    {
+      "russian": "сделает",
+      "foreign": "ποιήσῃ",
+      "codeBible": "4160"
+    },
+    {
+      "russian": "снаружи",
+      "foreign": "ἐκτὸς",
+      "codeBible": "1622"
+    },
+    {
+      "russian": "те&#769ла",
+      "foreign": "σώματός",
+      "codeBible": "4983"
+    },
+    {
+      "russian": "развратничающий",
+      "foreign": "πορνεύων",
+      "codeBible": "4203"
+    },
+    {
+      "russian": "на",
+      "foreign": "εἰς",
+      "codeBible": "1519"
+    },
+    {
+      "russian": "собственное",
+      "foreign": "ἴδιον",
+      "codeBible": "2398"
+    },
+    {
+      "russian": "грешит.",
+      "foreign": "ἁμαρτάνει",
+      "codeBible": "264"
+    },
+    {
+      "russian": "Которого",
+      "foreign": "τοῦ",
+      "codeBible": "3588"
+    },
+    {
+      "russian": "Святого",
+      "foreign": "ἁγίου",
+      "codeBible": "40"
+    },
+    {
+      "russian": "Духа",
+      "foreign": "πνεύματός",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "есть вы",
+      "foreign": "ἐστὲ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "свои?",
+      "foreign": "ἑαυτῶν",
+      "codeBible": "1438"
+    },
+    {
+      "russian": "Вы были куплены",
+      "foreign": "ἠγοράσθητε",
+      "codeBible": "59"
+    },
+    {
+      "russian": "[по] цене;",
+      "foreign": "τιμῆς",
+      "codeBible": "5092"
+    },
+    {
+      "russian": "прославьте",
+      "foreign": "δοξάσατε",
+      "codeBible": "1392"
+    },
+    {
+      "russian": "поэтому",
+      "foreign": "δὴ",
+      "codeBible": "1211"
+    },
+    {
+      "russian": "Бога",
+      "foreign": "θεὸν",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "теле",
+      "foreign": "σώματι",
+      "codeBible": "4983"
+    },
+    {
+      "russian": "вашем.",
+      "foreign": "ὑμῶν",
+      "codeBible": "5216"
+    },
+    {
+      "russian": "О",
+      "foreign": "Περὶ",
+      "codeBible": "4012"
+    },
+    {
+      "russian": "котором",
+      "foreign": "ὧν",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "вы написали,",
+      "foreign": "ἐγράψατε",
+      "codeBible": "1125"
+    },
+    {
+      "russian": "хорошо",
+      "foreign": "καλὸν",
+      "codeBible": "2570"
+    },
+    {
+      "russian": "человеку",
+      "foreign": "ἀνθρώπῳ",
+      "codeBible": "444"
+    },
+    {
+      "russian": "женщины",
+      "foreign": "γυναικὸς",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "касаться;",
+      "foreign": "ἄπτεσθαι",
+      "codeBible": "680"
+    },
+    {
+      "russian": "блуда",
+      "foreign": "πορνείας",
+      "codeBible": "4202"
+    },
+    {
+      "russian": "свою",
+      "foreign": "ἑαυτοῦ",
+      "codeBible": "1438"
+    },
+    {
+      "russian": "жену",
+      "foreign": "γυναῖκα",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "пусть имеет,",
+      "foreign": "ἐχέτω",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "каждая",
+      "foreign": "ἑκάστη",
+      "codeBible": "1538"
+    },
+    {
+      "russian": "собственного",
+      "foreign": "ἴδιον",
+      "codeBible": "2398"
+    },
+    {
+      "russian": "мужа",
+      "foreign": "ἄνδρα",
+      "codeBible": "435"
+    },
+    {
+      "russian": "пусть имеет.",
+      "foreign": "ἐχέτω",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "Жене",
+      "foreign": "γυναικὶ",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "муж",
+      "foreign": "ἀνὴρ",
+      "codeBible": "435"
+    },
+    {
+      "russian": "должное",
+      "foreign": "ὀφειλὴν",
+      "codeBible": "3782"
+    },
+    {
+      "russian": "пусть отдаёт,",
+      "foreign": "ἀποδιδότω",
+      "codeBible": "591"
+    },
+    {
+      "russian": "подобно",
+      "foreign": "ὁμοίως",
+      "codeBible": "3668"
+    },
+    {
+      "russian": "жена",
+      "foreign": "γυνὴ",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "мужу.",
+      "foreign": "ἀνδρί",
+      "codeBible": "435"
+    },
+    {
+      "russian": "Жена",
+      "foreign": "γυνὴ",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "[над] собственным",
+      "foreign": "ἰδίου",
+      "codeBible": "2398"
+    },
+    {
+      "russian": "телом",
+      "foreign": "σώματος",
+      "codeBible": "4983"
+    },
+    {
+      "russian": "имеет власть",
+      "foreign": "ἐξουσιάζει",
+      "codeBible": "1850"
+    },
+    {
+      "russian": "муж;",
+      "foreign": "ἀνήρ",
+      "codeBible": "435"
+    },
+    {
+      "russian": "жена.",
+      "foreign": "γυνή",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "лишайте",
+      "foreign": "ἀποστερεῖτε",
+      "codeBible": "650"
+    },
+    {
+      "russian": "друг друга,",
+      "foreign": "ἀλλήλους",
+      "codeBible": "240"
+    },
+    {
+      "russian": "ведь не",
+      "foreign": "μήτι",
+      "codeBible": "3385"
+    },
+    {
+      "russian": "согласия",
+      "foreign": "συμφώνου",
+      "codeBible": "4859"
+    },
+    {
+      "russian": "на",
+      "foreign": "πρὸς",
+      "codeBible": "4314"
+    },
+    {
+      "russian": "время",
+      "foreign": "καιρὸν",
+      "codeBible": "2540"
+    },
+    {
+      "russian": "вы занялись",
+      "foreign": "σχολάσητε",
+      "codeBible": "4980"
+    },
+    {
+      "russian": "молитвой",
+      "foreign": "προσευχῇ",
+      "codeBible": "4335"
+    },
+    {
+      "russian": "опять",
+      "foreign": "πάλιν",
+      "codeBible": "3825"
+    },
+    {
+      "russian": "в",
+      "foreign": "ἐπὶ",
+      "codeBible": "1909"
+    },
+    {
+      "russian": "месте",
+      "foreign": "αὐτὸ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "вы были,",
+      "foreign": "ἦτε",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "искушал",
+      "foreign": "πειράζῃ",
+      "codeBible": "3985"
+    },
+    {
+      "russian": "Сатана",
+      "foreign": "Σατανᾶς",
+      "codeBible": "4567"
+    },
+    {
+      "russian": "невоздержанности",
+      "foreign": "ἀκρασίαν",
+      "codeBible": "192"
+    },
+    {
+      "russian": "вашей.",
+      "foreign": "ὑμῶν",
+      "codeBible": "5216"
+    },
+    {
+      "russian": "Это",
+      "foreign": "τοῦτο",
+      "codeBible": "5124"
+    },
+    {
+      "russian": "говорю",
+      "foreign": "λέγω",
+      "codeBible": "3004"
+    },
+    {
+      "russian": "сочувствию,",
+      "foreign": "συγγνώμην",
+      "codeBible": "4774"
+    },
+    {
+      "russian": "по",
+      "foreign": "κατ᾽",
+      "codeBible": "2596"
+    },
+    {
+      "russian": "повелению.",
+      "foreign": "ἐπιταγήν",
+      "codeBible": "2003"
+    },
+    {
+      "russian": "Хочу",
+      "foreign": "θέλω",
+      "codeBible": "2309"
+    },
+    {
+      "russian": "всех",
+      "foreign": "πάντας",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "людей",
+      "foreign": "ἀνθρώπους",
+      "codeBible": "444"
+    },
+    {
+      "russian": "меня самого;",
+      "foreign": "ἐμαυτόν",
+      "codeBible": "1683"
+    },
+    {
+      "russian": "имеет",
+      "foreign": "ἔχει",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "дарование",
+      "foreign": "χάρισμα",
+      "codeBible": "5486"
+    },
+    {
+      "russian": "один",
+      "foreign": "μὲν",
+      "codeBible": "3303"
+    },
+    {
+      "russian": "так,",
+      "foreign": "οὕτως",
+      "codeBible": "3779"
+    },
+    {
+      "russian": "другой",
+      "foreign": "ὁ",
+      "codeBible": "3588"
+    },
+    {
+      "russian": "так.",
+      "foreign": "οὕτως",
+      "codeBible": "3779"
+    },
+    {
+      "russian": "Говорю",
+      "foreign": "Λέγω",
+      "codeBible": "3004"
+    },
+    {
+      "russian": "неженатым",
+      "foreign": "ἀγάμοις",
+      "codeBible": "22"
+    },
+    {
+      "russian": "вдовам,",
+      "foreign": "χήραις",
+      "codeBible": "5503"
+    },
+    {
+      "russian": "им",
+      "foreign": "αὐτοῖς",
+      "codeBible": "846"
+    },
+    {
+      "russian": "останутся",
+      "foreign": "μείνωσιν",
+      "codeBible": "3306"
+    },
+    {
+      "russian": "и я;",
+      "foreign": "κἀγώ",
+      "codeBible": "2504"
+    },
+    {
+      "russian": "удерживаются",
+      "foreign": "ἐγκρατεύονται",
+      "codeBible": "1467"
+    },
+    {
+      "russian": "пусть поженятся,",
+      "foreign": "γαμησάτωσαν",
+      "codeBible": "1060"
+    },
+    {
+      "russian": "лучшее",
+      "foreign": "κρεῖττον",
+      "codeBible": "2909"
+    },
+    {
+      "russian": "жениться",
+      "foreign": "γαμῆσαι",
+      "codeBible": "1060"
+    },
+    {
+      "russian": "нежели",
+      "foreign": "ἢ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "воспламеняться.",
+      "foreign": "πυροῦσθαι",
+      "codeBible": "4448"
+    },
+    {
+      "russian": "женатым",
+      "foreign": "γεγαμηκόσιν",
+      "codeBible": "1060"
+    },
+    {
+      "russian": "приказываю,",
+      "foreign": "παραγγέλλω",
+      "codeBible": "3853"
+    },
+    {
+      "russian": "жене",
+      "foreign": "γυναῖκα",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "мужа",
+      "foreign": "ἀνδρὸς",
+      "codeBible": "435"
+    },
+    {
+      "russian": "быть отделённой--",
+      "foreign": "χωρισθῆναι--",
+      "codeBible": "5563"
+    },
+    {
+      "russian": "будет отделена,",
+      "foreign": "χωρισθῇ",
+      "codeBible": "5563"
+    },
+    {
+      "russian": "пусть остаётся",
+      "foreign": "μενέτω",
+      "codeBible": "3306"
+    },
+    {
+      "russian": "незамужняя",
+      "foreign": "ἄγαμος",
+      "codeBible": "22"
+    },
+    {
+      "russian": "[с] мужем",
+      "foreign": "ἀνδρὶ",
+      "codeBible": "435"
+    },
+    {
+      "russian": "пусть примирится--",
+      "foreign": "καταλλαγήτω--",
+      "codeBible": "2644"
+    },
+    {
+      "russian": "мужу",
+      "foreign": "ἄνδρα",
+      "codeBible": "435"
+    },
+    {
+      "russian": "оставлять.",
+      "foreign": "ἀφιέναι",
+      "codeBible": "863"
+    },
+    {
+      "russian": "остальным",
+      "foreign": "λοιποῖς",
+      "codeBible": "3062"
+    },
+    {
+      "russian": "я,",
+      "foreign": "ἐγώ",
+      "codeBible": "1473"
+    },
+    {
+      "russian": "Господь;",
+      "foreign": "κύριος",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "какой-либо",
+      "foreign": "τις",
+      "codeBible": "1536"
+    },
+    {
+      "russian": "неверующую,",
+      "foreign": "ἄπιστον",
+      "codeBible": "571"
+    },
+    {
+      "russian": "эта",
+      "foreign": "αὕτη",
+      "codeBible": "846"
+    },
+    {
+      "russian": "соглашается",
+      "foreign": "συνευδοκεῖ",
+      "codeBible": "4909"
+    },
+    {
+      "russian": "жить",
+      "foreign": "οἰκεῖν",
+      "codeBible": "3611"
+    },
+    {
+      "russian": "с",
+      "foreign": "μετ᾽",
+      "codeBible": "3326"
+    },
+    {
+      "russian": "ним,",
+      "foreign": "αὐτοῦ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "пусть оставляет",
+      "foreign": "ἀφιέτω",
+      "codeBible": "863"
+    },
+    {
+      "russian": "её;",
+      "foreign": "αὐτήν",
+      "codeBible": "846"
+    },
+    {
+      "russian": "какая-либо",
+      "foreign": "τις",
+      "codeBible": "1536"
+    },
+    {
+      "russian": "неверующего,",
+      "foreign": "ἄπιστον",
+      "codeBible": "571"
+    },
+    {
+      "russian": "этот",
+      "foreign": "οὗτος",
+      "codeBible": "3778"
+    },
+    {
+      "russian": "ней,",
+      "foreign": "αὐτῆς",
+      "codeBible": "846"
+    },
+    {
+      "russian": "мужа.",
+      "foreign": "ἄνδρα",
+      "codeBible": "435"
+    },
+    {
+      "russian": "Освящён",
+      "foreign": "ἡγίασται",
+      "codeBible": "37"
+    },
+    {
+      "russian": "неверующий",
+      "foreign": "ἄπιστος",
+      "codeBible": "571"
+    },
+    {
+      "russian": "жене,",
+      "foreign": "γυναικί",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "освящена",
+      "foreign": "ἡγίασται",
+      "codeBible": "37"
+    },
+    {
+      "russian": "неверующая",
+      "foreign": "ἄπιστος",
+      "codeBible": "571"
+    },
+    {
+      "russian": "брате;",
+      "foreign": "ἀδελφῷ",
+      "codeBible": "80"
+    },
+    {
+      "russian": "дети",
+      "foreign": "τέκνα",
+      "codeBible": "5043"
+    },
+    {
+      "russian": "нечистые",
+      "foreign": "ἀκάθαρτά",
+      "codeBible": "169"
+    },
+    {
+      "russian": "святые",
+      "foreign": "ἄγιά",
+      "codeBible": "40"
+    },
+    {
+      "russian": "отделяется,",
+      "foreign": "χωρίζεται",
+      "codeBible": "5563"
+    },
+    {
+      "russian": "пусть отделяется;",
+      "foreign": "χωριζέσθω",
+      "codeBible": "5563"
+    },
+    {
+      "russian": "порабощён",
+      "foreign": "δεδούλωται",
+      "codeBible": "1402"
+    },
+    {
+      "russian": "сестра",
+      "foreign": "ἀδελφὴ",
+      "codeBible": "79"
+    },
+    {
+      "russian": "таковых;",
+      "foreign": "τοιούτοις",
+      "codeBible": "5108"
+    },
+    {
+      "russian": "мире",
+      "foreign": "εἰρήνῃ",
+      "codeBible": "1515"
+    },
+    {
+      "russian": "призвал",
+      "foreign": "κέκληκεν",
+      "codeBible": "2564"
+    },
+    {
+      "russian": "Что&#769",
+      "foreign": "τί",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "знаешь,",
+      "foreign": "οἶδας",
+      "codeBible": "1492"
+    },
+    {
+      "russian": "жена,",
+      "foreign": "γύναι",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "спасёшь?",
+      "foreign": "σώσεις",
+      "codeBible": "4982"
+    },
+    {
+      "russian": "что&#769",
+      "foreign": "τί",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "муж,",
+      "foreign": "ἄνερ",
+      "codeBible": "435"
+    },
+    {
+      "russian": "Если",
+      "foreign": "Εἰ",
+      "codeBible": "1487"
+    },
+    {
+      "russian": "разделил",
+      "foreign": "ἐμέρισεν",
+      "codeBible": "3307"
+    },
+    {
+      "russian": "каждого",
+      "foreign": "ἕκαστον",
+      "codeBible": "1538"
+    },
+    {
+      "russian": "пусть ходит;",
+      "foreign": "περιπατείτω",
+      "codeBible": "4043"
+    },
+    {
+      "russian": "церквах",
+      "foreign": "ἐκκλησίαις",
+      "codeBible": "1577"
+    },
+    {
+      "russian": "всех",
+      "foreign": "πάσαις",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "даю распоряжения.",
+      "foreign": "διατάσσομαι",
+      "codeBible": "1299"
+    },
+    {
+      "russian": "Обрезанный",
+      "foreign": "περιτετμημένος",
+      "codeBible": "4059"
+    },
+    {
+      "russian": "призван?",
+      "foreign": "ἐκλήθη",
+      "codeBible": "2564"
+    },
+    {
+      "russian": "пусть натаскивает.",
+      "foreign": "ἐπισπάσθω",
+      "codeBible": "1986"
+    },
+    {
+      "russian": "необрезанности",
+      "foreign": "ἀκροβυστίᾳ",
+      "codeBible": "203"
+    },
+    {
+      "russian": "призван",
+      "foreign": "κέκληταί",
+      "codeBible": "2564"
+    },
+    {
+      "russian": "кто-либо?",
+      "foreign": "τις",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "пусть обрезается.",
+      "foreign": "περιτεμνέσθω",
+      "codeBible": "4059"
+    },
+    {
+      "russian": "Обрезание",
+      "foreign": "περιτομὴ",
+      "codeBible": "4061"
+    },
+    {
+      "russian": "ничто",
+      "foreign": "οὐδέν",
+      "codeBible": "3762"
+    },
+    {
+      "russian": "необрезание",
+      "foreign": "ἀκροβυστία",
+      "codeBible": "203"
+    },
+    {
+      "russian": "соблюдение",
+      "foreign": "τήρησις",
+      "codeBible": "5084"
+    },
+    {
+      "russian": "заповедей",
+      "foreign": "ἐντολῶν",
+      "codeBible": "1785"
+    },
+    {
+      "russian": "призвании",
+      "foreign": "κλήσει",
+      "codeBible": "2821"
+    },
+    {
+      "russian": "в котором",
+      "foreign": "ᾗ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "призван",
+      "foreign": "ἐκλήθη",
+      "codeBible": "2564"
+    },
+    {
+      "russian": "этом",
+      "foreign": "ταύτῃ",
+      "codeBible": "3778"
+    },
+    {
+      "russian": "пусть остаётся.",
+      "foreign": "μενέτω",
+      "codeBible": "3306"
+    },
+    {
+      "russian": "Раб",
+      "foreign": "δοῦλος",
+      "codeBible": "1401"
+    },
+    {
+      "russian": "ты был призван?",
+      "foreign": "ἐκλήθης",
+      "codeBible": "2564"
+    },
+    {
+      "russian": "Не",
+      "foreign": "μή",
+      "codeBible": "3361"
+    },
+    {
+      "russian": "тебя",
+      "foreign": "σοι",
+      "codeBible": "4671"
+    },
+    {
+      "russian": "пусть заботит;",
+      "foreign": "μελέτω",
+      "codeBible": "3199"
+    },
+    {
+      "russian": "если",
+      "foreign": "εἰ",
+      "codeBible": "1499"
+    },
+    {
+      "russian": "и",
+      "foreign": "καὶ",
+      "codeBible": "1499"
+    },
+    {
+      "russian": "можешь",
+      "foreign": "δύνασαι",
+      "codeBible": "1410"
+    },
+    {
+      "russian": "свободный",
+      "foreign": "ἐλεύθερος",
+      "codeBible": "1658"
+    },
+    {
+      "russian": "сделаться,",
+      "foreign": "γενέσθαι",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "воспользуйся.",
+      "foreign": "χρῆσαι",
+      "codeBible": "5530"
+    },
+    {
+      "russian": "призванный",
+      "foreign": "κληθεὶς",
+      "codeBible": "2564"
+    },
+    {
+      "russian": "раб",
+      "foreign": "δοῦλος",
+      "codeBible": "1401"
+    },
+    {
+      "russian": "вольноотпущенник",
+      "foreign": "ἀπελεύθερος",
+      "codeBible": "558"
+    },
+    {
+      "russian": "есть;",
+      "foreign": "ἐστίν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "раб",
+      "foreign": "δοῦλός",
+      "codeBible": "1401"
+    },
+    {
+      "russian": "[По] цене",
+      "foreign": "τιμῆς",
+      "codeBible": "5092"
+    },
+    {
+      "russian": "вы были куплены;",
+      "foreign": "ἠγοράσθητε",
+      "codeBible": "59"
+    },
+    {
+      "russian": "делайтесь",
+      "foreign": "γίνεσθε",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "рабы",
+      "foreign": "δοῦλοι",
+      "codeBible": "1401"
+    },
+    {
+      "russian": "котором",
+      "foreign": "ᾧ",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "призван,",
+      "foreign": "ἐκλήθη",
+      "codeBible": "2564"
+    },
+    {
+      "russian": "Бога.",
+      "foreign": "θεῷ",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "Относительно",
+      "foreign": "Περὶ",
+      "codeBible": "4012"
+    },
+    {
+      "russian": "девушек",
+      "foreign": "παρθένων",
+      "codeBible": "3933"
+    },
+    {
+      "russian": "повеления",
+      "foreign": "ἐπιταγὴν",
+      "codeBible": "2003"
+    },
+    {
+      "russian": "имею,",
+      "foreign": "ἔχω",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "мнение",
+      "foreign": "γνώμην",
+      "codeBible": "1106"
+    },
+    {
+      "russian": "даю",
+      "foreign": "δίδωμι",
+      "codeBible": "1325"
+    },
+    {
+      "russian": "помилованный",
+      "foreign": "ἠλεημένος",
+      "codeBible": "1653"
+    },
+    {
+      "russian": "верным",
+      "foreign": "πιστὸς",
+      "codeBible": "4103"
+    },
+    {
+      "russian": "быть.",
+      "foreign": "εἶναι",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "Считаю",
+      "foreign": "Νομίζω",
+      "codeBible": "3543"
+    },
+    {
+      "russian": "пребывать",
+      "foreign": "ὑπάρχειν",
+      "codeBible": "5225"
+    },
+    {
+      "russian": "настоящей",
+      "foreign": "ἐνεστῶσαν",
+      "codeBible": "1764"
+    },
+    {
+      "russian": "необходимости,",
+      "foreign": "ἀνάγκην",
+      "codeBible": "318"
+    },
+    {
+      "russian": "Ты привязан",
+      "foreign": "δέδεσαι",
+      "codeBible": "1210"
+    },
+    {
+      "russian": "[к] жене?",
+      "foreign": "γυναικί",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "ищи",
+      "foreign": "ζήτει",
+      "codeBible": "2212"
+    },
+    {
+      "russian": "отвязывания;",
+      "foreign": "λύσιν",
+      "codeBible": "3080"
+    },
+    {
+      "russian": "ты отвязан",
+      "foreign": "λέλυσαι",
+      "codeBible": "3089"
+    },
+    {
+      "russian": "жены?",
+      "foreign": "γυναικός",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "жену.",
+      "foreign": "γυναῖκα",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "Если",
+      "foreign": "ἐὰν",
+      "codeBible": "1437"
+    },
+    {
+      "russian": "женишься,",
+      "foreign": "γαμήσῃς",
+      "codeBible": "1060"
+    },
+    {
+      "russian": "согрешил ты;",
+      "foreign": "ἥμαρτες",
+      "codeBible": "264"
+    },
+    {
+      "russian": "выйдет замуж",
+      "foreign": "γήμῃ",
+      "codeBible": "1060"
+    },
+    {
+      "russian": "дева,",
+      "foreign": "παρθένος",
+      "codeBible": "3933"
+    },
+    {
+      "russian": "согрешила.",
+      "foreign": "ἥμαρτεν",
+      "codeBible": "264"
+    },
+    {
+      "russian": "Угнетение",
+      "foreign": "θλῖψιν",
+      "codeBible": "2347"
+    },
+    {
+      "russian": "плоти",
+      "foreign": "σαρκὶ",
+      "codeBible": "4561"
+    },
+    {
+      "russian": "будут иметь",
+      "foreign": "ἕξουσιν",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "таковые,",
+      "foreign": "τοιοῦτοι",
+      "codeBible": "5108"
+    },
+    {
+      "russian": "жалею.",
+      "foreign": "φείδομαι",
+      "codeBible": "5339"
+    },
+    {
+      "russian": "говорю,",
+      "foreign": "φημι",
+      "codeBible": "5346"
+    },
+    {
+      "russian": "время",
+      "foreign": "καιρὸς",
+      "codeBible": "2540"
+    },
+    {
+      "russian": "стянуто",
+      "foreign": "συνεσταλμένος",
+      "codeBible": "4958"
+    },
+    {
+      "russian": "имеющие",
+      "foreign": "ἔχοντες",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "жён",
+      "foreign": "γυναῖκας",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "были,",
+      "foreign": "ὦσιν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "плачущие",
+      "foreign": "κλαίοντες",
+      "codeBible": "2799"
+    },
+    {
+      "russian": "плачущие,",
+      "foreign": "κλαίοντες",
+      "codeBible": "2799"
+    },
+    {
+      "russian": "радующиеся",
+      "foreign": "χαίροντες",
+      "codeBible": "5463"
+    },
+    {
+      "russian": "радующиеся,",
+      "foreign": "χαίροντες",
+      "codeBible": "5463"
+    },
+    {
+      "russian": "покупающие",
+      "foreign": "ἀγοράζοντες",
+      "codeBible": "59"
+    },
+    {
+      "russian": "держащие,",
+      "foreign": "κατέχοντες",
+      "codeBible": "2722"
+    },
+    {
+      "russian": "пользующиеся",
+      "foreign": "χρώμενοι",
+      "codeBible": "5530"
+    },
+    {
+      "russian": "миром",
+      "foreign": "κόσμον",
+      "codeBible": "2889"
+    },
+    {
+      "russian": "использующие;",
+      "foreign": "καταχρώμενοι",
+      "codeBible": "2710"
+    },
+    {
+      "russian": "проходит",
+      "foreign": "παράγει",
+      "codeBible": "3855"
+    },
+    {
+      "russian": "внешность",
+      "foreign": "σχῆμα",
+      "codeBible": "4976"
+    },
+    {
+      "russian": "этого.",
+      "foreign": "τούτου",
+      "codeBible": "5127"
+    },
+    {
+      "russian": "беззаботных",
+      "foreign": "ἀμερίμνους",
+      "codeBible": "275"
+    },
+    {
+      "russian": "Неженатый",
+      "foreign": "ἄγαμος",
+      "codeBible": "22"
+    },
+    {
+      "russian": "заботится",
+      "foreign": "μεριμνᾳϋ152",
+      "codeBible": "3309"
+    },
+    {
+      "russian": "[о] котором",
+      "foreign": "τὰ",
+      "codeBible": "3588"
+    },
+    {
+      "russian": "Го&#769спода,",
+      "foreign": "κυρίου",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "он угодил [бы]",
+      "foreign": "ἀρέσῃ",
+      "codeBible": "700"
+    },
+    {
+      "russian": "Господу;",
+      "foreign": "κυρίῳ",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "женившийся",
+      "foreign": "γαμήσας",
+      "codeBible": "1060"
+    },
+    {
+      "russian": "мира,",
+      "foreign": "κόσμου",
+      "codeBible": "2889"
+    },
+    {
+      "russian": "он разделён.",
+      "foreign": "μεμέρισται",
+      "codeBible": "3307"
+    },
+    {
+      "russian": "женщина",
+      "foreign": "γυνὴ",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "дева",
+      "foreign": "παρθένος",
+      "codeBible": "3933"
+    },
+    {
+      "russian": "она была",
+      "foreign": "ᾖ",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "свята",
+      "foreign": "ἁγία",
+      "codeBible": "40"
+    },
+    {
+      "russian": "духом;",
+      "foreign": "πνεύματι",
+      "codeBible": "4151"
+    },
+    {
+      "russian": "вышедшая замуж",
+      "foreign": "γαμήσασα",
+      "codeBible": "1060"
+    },
+    {
+      "russian": "она угодила [бы]",
+      "foreign": "ἀρέσῃ",
+      "codeBible": "700"
+    },
+    {
+      "russian": "самих",
+      "foreign": "αὐτῶν",
+      "codeBible": "846"
+    },
+    {
+      "russian": "пользе",
+      "foreign": "σύμφορον",
+      "codeBible": "4851"
+    },
+    {
+      "russian": "говорю,",
+      "foreign": "λέγω",
+      "codeBible": "3004"
+    },
+    {
+      "russian": "петлю",
+      "foreign": "βρόχον",
+      "codeBible": "1029"
+    },
+    {
+      "russian": "я набросил,",
+      "foreign": "ἐπιβάλω",
+      "codeBible": "1911"
+    },
+    {
+      "russian": "благопристойности",
+      "foreign": "εὔσχημον",
+      "codeBible": "2158"
+    },
+    {
+      "russian": "благопребыванию",
+      "foreign": "εὐπάρεδρον",
+      "codeBible": "2145"
+    },
+    {
+      "russian": "[у] Го&#769спода",
+      "foreign": "κυρίῳ",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "безотвлечённо.",
+      "foreign": "ἀπερισπάστως",
+      "codeBible": "563"
+    },
+    {
+      "russian": "поступать нехорошо",
+      "foreign": "ἀσχημονεῖν",
+      "codeBible": "807"
+    },
+    {
+      "russian": "относительно",
+      "foreign": "ἐπὶ",
+      "codeBible": "1909"
+    },
+    {
+      "russian": "девушки",
+      "foreign": "παρθένον",
+      "codeBible": "3933"
+    },
+    {
+      "russian": "его",
+      "foreign": "αὐτοῦ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "считает",
+      "foreign": "νομίζει",
+      "codeBible": "3543"
+    },
+    {
+      "russian": "перезрелая,",
+      "foreign": "ὑπέρακμος",
+      "codeBible": "5230"
+    },
+    {
+      "russian": "долженствует",
+      "foreign": "ὀφείλει",
+      "codeBible": "3784"
+    },
+    {
+      "russian": "делаться,",
+      "foreign": "γίνεσθαι",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "желает",
+      "foreign": "θέλει",
+      "codeBible": "2309"
+    },
+    {
+      "russian": "пусть делает;",
+      "foreign": "ποιείτω",
+      "codeBible": "4160"
+    },
+    {
+      "russian": "грешит;",
+      "foreign": "ἁμαρτάνει",
+      "codeBible": "264"
+    },
+    {
+      "russian": "пусть женятся.",
+      "foreign": "γαμείτωσαν",
+      "codeBible": "1060"
+    },
+    {
+      "russian": "стои&#769т",
+      "foreign": "ἕστηκεν",
+      "codeBible": "2476"
+    },
+    {
+      "russian": "сердце",
+      "foreign": "καρδίᾳ",
+      "codeBible": "2588"
+    },
+    {
+      "russian": "твёрдый,",
+      "foreign": "ἑδραῖος",
+      "codeBible": "1476"
+    },
+    {
+      "russian": "необходимость,",
+      "foreign": "ἀνάγκην",
+      "codeBible": "318"
+    },
+    {
+      "russian": "власть",
+      "foreign": "ἐξουσίαν",
+      "codeBible": "1849"
+    },
+    {
+      "russian": "собственном",
+      "foreign": "ἰδίου",
+      "codeBible": "2398"
+    },
+    {
+      "russian": "желании,",
+      "foreign": "θελήματος",
+      "codeBible": "2307"
+    },
+    {
+      "russian": "он решил",
+      "foreign": "κέκρικεν",
+      "codeBible": "2919"
+    },
+    {
+      "russian": "собственном",
+      "foreign": "ἰδίᾳ",
+      "codeBible": "2398"
+    },
+    {
+      "russian": "сердце,",
+      "foreign": "καρδίᾳ",
+      "codeBible": "2588"
+    },
+    {
+      "russian": "соблюдать",
+      "foreign": "τηρεῖν",
+      "codeBible": "5083"
+    },
+    {
+      "russian": "девушку,",
+      "foreign": "παρθένον",
+      "codeBible": "3933"
+    },
+    {
+      "russian": "хорошо",
+      "foreign": "καλῶς",
+      "codeBible": "2573"
+    },
+    {
+      "russian": "сделает;",
+      "foreign": "ποιήσει",
+      "codeBible": "4160"
+    },
+    {
+      "russian": "выдающий замуж",
+      "foreign": "γαμίζων",
+      "codeBible": "1061"
+    },
+    {
+      "russian": "девушку",
+      "foreign": "παρθένον",
+      "codeBible": "3933"
+    },
+    {
+      "russian": "делает,",
+      "foreign": "ποιεῖ",
+      "codeBible": "4160"
+    },
+    {
+      "russian": "лучше",
+      "foreign": "κρεῖσσον",
+      "codeBible": "2908"
+    },
+    {
+      "russian": "сделает.",
+      "foreign": "ποιήσει",
+      "codeBible": "4160"
+    },
+    {
+      "russian": "Жена",
+      "foreign": "Γυνὴ",
+      "codeBible": "1135"
+    },
+    {
+      "russian": "связана",
+      "foreign": "δέδεται",
+      "codeBible": "1210"
+    },
+    {
+      "russian": "на",
+      "foreign": "ἐφ᾽",
+      "codeBible": "1909"
+    },
+    {
+      "russian": "сколькое",
+      "foreign": "ὅσον",
+      "codeBible": "3745"
+    },
+    {
+      "russian": "время",
+      "foreign": "χρόνον",
+      "codeBible": "5550"
+    },
+    {
+      "russian": "живёт",
+      "foreign": "ζῇ",
+      "codeBible": "2198"
+    },
+    {
+      "russian": "её;",
+      "foreign": "αὐτῆς",
+      "codeBible": "846"
+    },
+    {
+      "russian": "упокоится",
+      "foreign": "κοιμηθῇ",
+      "codeBible": "2837"
+    },
+    {
+      "russian": "муж,",
+      "foreign": "ἀνήρ",
+      "codeBible": "435"
+    },
+    {
+      "russian": "свободная",
+      "foreign": "ἐλευθέρα",
+      "codeBible": "1658"
+    },
+    {
+      "russian": "есть",
+      "foreign": "ἐστὶν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "[за] которого",
+      "foreign": "ᾧ",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "выйти замуж,",
+      "foreign": "γαμηθῆναι",
+      "codeBible": "1060"
+    },
+    {
+      "russian": "только",
+      "foreign": "μόνον",
+      "codeBible": "3440"
+    },
+    {
+      "russian": "Господе.",
+      "foreign": "κυρίῳ",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "Более блаженна",
+      "foreign": "μακαριωτέρα",
+      "codeBible": "3107"
+    },
+    {
+      "russian": "она есть",
+      "foreign": "ἐστιν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "останется,",
+      "foreign": "μείνῃ",
+      "codeBible": "3306"
+    },
+    {
+      "russian": "моему",
+      "foreign": "ἐμὴν",
+      "codeBible": "1699"
+    },
+    {
+      "russian": "мнению,",
+      "foreign": "γνώμην",
+      "codeBible": "1106"
+    },
+    {
+      "russian": "полагаю",
+      "foreign": "δοκῶ",
+      "codeBible": "1380"
+    },
+    {
+      "russian": "и я",
+      "foreign": "κἀγὼ",
+      "codeBible": "2504"
+    },
+    {
+      "russian": "имею.",
+      "foreign": "ἔχειν",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "жертв идолам,",
+      "foreign": "εἰδωλοθύτων",
+      "codeBible": "1494"
+    },
+    {
+      "russian": "знаем",
+      "foreign": "οἴδαμεν",
+      "codeBible": "1492"
+    },
+    {
+      "russian": "все",
+      "foreign": "πάντες",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "знание",
+      "foreign": "γνῶσιν",
+      "codeBible": "1108"
+    },
+    {
+      "russian": "Знание",
+      "foreign": "γνῶσις",
+      "codeBible": "1108"
+    },
+    {
+      "russian": "надувает,",
+      "foreign": "φυσιοῖ",
+      "codeBible": "5448"
+    },
+    {
+      "russian": "любовь",
+      "foreign": "ἀγάπη",
+      "codeBible": "26"
+    },
+    {
+      "russian": "строит.",
+      "foreign": "οἰκοδομεῖ",
+      "codeBible": "3618"
+    },
+    {
+      "russian": "познать",
+      "foreign": "ἐγνωκέναι",
+      "codeBible": "1097"
+    },
+    {
+      "russian": "что-нибудь,",
+      "foreign": "τι",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "надлежит",
+      "foreign": "δεῖ",
+      "codeBible": "1163"
+    },
+    {
+      "russian": "познать;",
+      "foreign": "γνῶναι",
+      "codeBible": "1097"
+    },
+    {
+      "russian": "любит",
+      "foreign": "ἀγαπᾳϋ152",
+      "codeBible": "25"
+    },
+    {
+      "russian": "познан",
+      "foreign": "ἔγνωσται",
+      "codeBible": "1097"
+    },
+    {
+      "russian": "Него.",
+      "foreign": "αὐτοῦ",
+      "codeBible": "846"
+    },
+    {
+      "russian": "едении",
+      "foreign": "βρώσεως",
+      "codeBible": "1035"
+    },
+    {
+      "russian": "жертв идолам",
+      "foreign": "εἰδωλοθύτων",
+      "codeBible": "1494"
+    },
+    {
+      "russian": "никакой",
+      "foreign": "οὐδὲν",
+      "codeBible": "3762"
+    },
+    {
+      "russian": "идол",
+      "foreign": "εἴδωλον",
+      "codeBible": "1497"
+    },
+    {
+      "russian": "мире,",
+      "foreign": "κόσμῳ",
+      "codeBible": "2889"
+    },
+    {
+      "russian": "никакой",
+      "foreign": "οὐδεὶς",
+      "codeBible": "3762"
+    },
+    {
+      "russian": "бог",
+      "foreign": "θεὸς",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "Один.",
+      "foreign": "εἷς",
+      "codeBible": "1519"
+    },
+    {
+      "russian": "если только",
+      "foreign": "εἴπερ",
+      "codeBible": "1512"
+    },
+    {
+      "russian": "есть",
+      "foreign": "εἰσὶν",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "называемые",
+      "foreign": "λεγόμενοι",
+      "codeBible": "3004"
+    },
+    {
+      "russian": "боги",
+      "foreign": "θεοὶ",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "небе",
+      "foreign": "οὐρανῷ",
+      "codeBible": "3772"
+    },
+    {
+      "russian": "земле,",
+      "foreign": "γῆς",
+      "codeBible": "1093"
+    },
+    {
+      "russian": "как",
+      "foreign": "ὥσπερ",
+      "codeBible": "5618"
+    },
+    {
+      "russian": "господа&#769",
+      "foreign": "κύριοι",
+      "codeBible": "2962"
+    },
+    {
+      "russian": "многие,",
+      "foreign": "πολλοί",
+      "codeBible": "4183"
+    },
+    {
+      "russian": "Отец,",
+      "foreign": "πατήρ",
+      "codeBible": "3962"
+    },
+    {
+      "russian": "Него,",
+      "foreign": "αὐτόν",
+      "codeBible": "846"
+    },
+    {
+      "russian": "Один",
+      "foreign": "εἷς",
+      "codeBible": "1519"
+    },
+    {
+      "russian": "Христос,",
+      "foreign": "Χριστός",
+      "codeBible": "5547"
+    },
+    {
+      "russian": "Но",
+      "foreign": "Ἀλλ᾽",
+      "codeBible": "235"
+    },
+    {
+      "russian": "всех",
+      "foreign": "πᾶσιν",
+      "codeBible": "3956"
+    },
+    {
+      "russian": "знание;",
+      "foreign": "γνῶσις",
+      "codeBible": "1108"
+    },
+    {
+      "russian": "некоторые",
+      "foreign": "τινὲς",
+      "codeBible": "5100"
+    },
+    {
+      "russian": "[по] привычке",
+      "foreign": "συνηθείᾳ",
+      "codeBible": "4914"
+    },
+    {
+      "russian": "[к] идолу",
+      "foreign": "εἰδώλου",
+      "codeBible": "1497"
+    },
+    {
+      "russian": "жертву идолу",
+      "foreign": "εἰδωλόθυτον",
+      "codeBible": "1494"
+    },
+    {
+      "russian": "едят,",
+      "foreign": "ἐσθίουσιν",
+      "codeBible": "2068"
+    },
+    {
+      "russian": "совесть",
+      "foreign": "συνείδησις",
+      "codeBible": "4893"
+    },
+    {
+      "russian": "слабая",
+      "foreign": "ἀσθενὴς",
+      "codeBible": "772"
+    },
+    {
+      "russian": "сущая",
+      "foreign": "οὖσα",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "пачкается.",
+      "foreign": "μολύνεται",
+      "codeBible": "3435"
+    },
+    {
+      "russian": "Пища",
+      "foreign": "βρῶμα",
+      "codeBible": "1033"
+    },
+    {
+      "russian": "предоставит",
+      "foreign": "παραστήσει",
+      "codeBible": "3936"
+    },
+    {
+      "russian": "Богу;",
+      "foreign": "θεῷ",
+      "codeBible": "2316"
+    },
+    {
+      "russian": "если",
+      "foreign": "ἐὰν",
+      "codeBible": "3362"
+    },
+    {
+      "russian": "не",
+      "foreign": "μὴ",
+      "codeBible": "3362"
+    },
+    {
+      "russian": "мы съели бы",
+      "foreign": "φάγωμεν",
+      "codeBible": "5315"
+    },
+    {
+      "russian": "нуждаемся,",
+      "foreign": "ὑστερούμεθα",
+      "codeBible": "5302"
+    },
+    {
+      "russian": "изобилуем.",
+      "foreign": "περισσεύομεν",
+      "codeBible": "4052"
+    },
+    {
+      "russian": "Смотри&#769те",
+      "foreign": "βλέπετε",
+      "codeBible": "991"
+    },
+    {
+      "russian": "как-либо",
+      "foreign": "πως",
+      "codeBible": "4459"
+    },
+    {
+      "russian": "власть",
+      "foreign": "ἐξουσία",
+      "codeBible": "1849"
+    },
+    {
+      "russian": "спотыкание",
+      "foreign": "πρόσκομμα",
+      "codeBible": "4348"
+    },
+    {
+      "russian": "случилась",
+      "foreign": "γένηται",
+      "codeBible": "1096"
+    },
+    {
+      "russian": "[для] слабых.",
+      "foreign": "ἀσθενέσιν",
+      "codeBible": "772"
+    },
+    {
+      "russian": "увидит",
+      "foreign": "ἴδῃ",
+      "codeBible": "1492"
+    },
+    {
+      "russian": "тебя",
+      "foreign": "σὲ",
+      "codeBible": "4571"
+    },
+    {
+      "russian": "имеющего",
+      "foreign": "ἔχοντα",
+      "codeBible": "2192"
+    },
+    {
+      "russian": "капище",
+      "foreign": "εἰδωλείῳ",
+      "codeBible": "1493"
+    },
+    {
+      "russian": "лежащего,",
+      "foreign": "κατακείμενον",
+      "codeBible": "2621"
+    },
+    {
+      "russian": "слабого",
+      "foreign": "ἀσθενοῦς",
+      "codeBible": "772"
+    },
+    {
+      "russian": "сущего",
+      "foreign": "ὄντος",
+      "codeBible": "1510"
+    },
+    {
+      "russian": "будет настроена",
+      "foreign": "οἰκοδομηθήσεται",
+      "codeBible": "3618"
+    },
+    {
+      "russian": "чтобы",
+      "foreign": "εἰς",
+      "codeBible": "1519"
+    },
+    {
+      "russian": "жертвы идолам",
+      "foreign": "εἰδωλόθυτα",
+      "codeBible": "1494"
+    },
+    {
+      "russian": "есть?",
+      "foreign": "ἐσθίειν",
+      "codeBible": "2068"
+    },
+    {
+      "russian": "Гибнет",
+      "foreign": "ἀπόλλυται",
+      "codeBible": "622"
+    },
+    {
+      "russian": "слабый",
+      "foreign": "ἀσθενῶν",
+      "codeBible": "770"
+    },
+    {
+      "russian": "твоём",
+      "foreign": "σῇ",
+      "codeBible": "4674"
+    },
+    {
+      "russian": "которого",
+      "foreign": "ὃν",
+      "codeBible": "3739"
+    },
+    {
+      "russian": "умер.",
+      "foreign": "ἀπέθανεν",
+      "codeBible": "599"
+    },
+    {
+      "russian": "грешащие",
+      "foreign": "ἁμαρτάνοντες",
+      "codeBible": "264"
+    },
+    {
+      "russian": "братьев",
+      "foreign": "ἀδελφοὺς",
+      "codeBible": "80"
+    },
+    {
+      "russian": "бьющие",
+      "foreign": "τύπτοντες",
+      "codeBible": "5180"
+    },
+    {
+      "russian": "совесть",
+      "foreign": "συνείδησιν",
+      "codeBible": "4893"
+    },
+    {
+      "russian": "имеющую слабость",
+      "foreign": "ἀσθενοῦσαν",
+      "codeBible": "770"
+    },
+    {
+      "russian": "грешите.",
+      "foreign": "ἁμαρτάνετε",
+      "codeBible": "264"
+    },
+    {
+      "russian": "Потому-то",
+      "foreign": "διόπερ",
+      "codeBible": "1355"
+    },
+    {
+      "russian": "пища",
+      "foreign": "βρῶμα",
+      "codeBible": "1033"
+    },
+    {
+      "russian": "совращает",
+      "foreign": "σκανδαλίζει",
+      "codeBible": "4624"
+    },
+    {
+      "russian": "брата",
+      "foreign": "ἀδελφόν",
+      "codeBible": "80"
+    },
+    {
+      "russian": "моего,",
+      "foreign": "μου",
+      "codeBible": "3450"
+    },
+    {
+      "russian": "нет",
+      "foreign": "οὐ",
+      "codeBible": "3364"
+    },
+    {
+      "russian": "не",
+      "foreign": "μὴ",
+      "codeBible": "3364"
+    },
+    {
+      "russian": "съем",
+      "foreign": "φάγω",
+      "codeBible": "5315"
+    },
+    {
+      "russian": "мясо",
+      "foreign": "κρέα",
+      "codeBible": "2907"
+    },
+    {
+      "russian": "во",
+      "foreign": "εἰς",
+      "codeBible": "1519"
+    },
+    {
+      "russian": "век,",
+      "foreign": "αἰῶνα",
+      "codeBible": "165"
+    },
+    {
+      "russian": "смутил я.",
+      "foreign": "σκανδαλίσω",
+      "codeBible": "4624"
+    }
+  ],
+  "japanese": [
+    {
+      "russian": "и",
+      "foreign": "と"
+    },
+    {
+      "russian": "О,",
+      "foreign": "おお"
+    },
+    {
+      "russian": "Аминь",
+      "foreign": "アーメン"
+    },
+    {
+      "russian": "Богородицу",
+      "foreign": "生神女"
+    },
+    {
+      "russian": "Богородице",
+      "foreign": "生神女"
+    },
+    {
+      "russian": "Бога моего",
+      "foreign": "私の神"
+    },
+    {
+      "russian": "боже мой",
+      "foreign": "私の神"
+    },
+    {
+      "russian": "бог мой",
+      "foreign": "私の神"
+    },
+    {
+      "russian": "всевидяц",
+      "foreign": "全能の"
+    },
+    {
+      "russian": "сына божия",
+      "foreign": "神の子"
+    },
+    {
+      "russian": "сердце моем",
+      "foreign": "私の心"
+    },
+    {
+      "russian": "телу моему",
+      "foreign": "私の体"
+    },
+    {
+      "russian": "полунощ",
+      "foreign": "真夜中"
+    },
+    {
+      "russian": "Пресвятому духу",
+      "foreign": "至聖霊"
+    },
+    {
+      "russian": "Пресвятому",
+      "foreign": "至聖"
+    },
+    {
+      "russian": "пресвят",
+      "foreign": "至聖"
+    },
+    {
+      "russian": "Святому Духу",
+      "foreign": "聖霊"
+    },
+    {
+      "russian": "Святаго Духа",
+      "foreign": "聖霊"
+    },
+    {
+      "russian": "Духа Святаго",
+      "foreign": "聖霊"
+    },
+    {
+      "russian": "слуху моему",
+      "foreign": "私の耳"
+    },
+    {
+      "russian": "грех моих",
+      "foreign": "私の罪"
+    },
+    {
+      "russian": "греха моего",
+      "foreign": "私の罪"
+    },
+    {
+      "russian": "мои очи",
+      "foreign": "私の目"
+    },
+    {
+      "russian": "очи мои",
+      "foreign": "私の目"
+    },
+    {
+      "russian": "Матери",
+      "foreign": "の母"
+    },
+    {
+      "russian": "мою душу",
+      "foreign": "私の魂"
+    },
+    {
+      "russian": "души моея",
+      "foreign": "私の魂"
+    },
+    {
+      "russian": "моя уста",
+      "foreign": "私の口"
+    },
+    {
+      "russian": "уста мои",
+      "foreign": "私の口"
+    },
+    {
+      "russian": "уста моя",
+      "foreign": "私の口"
+    },
+    {
+      "russian": "устне мои",
+      "foreign": "私の口"
+    },
+    {
+      "russian": "мати моя",
+      "foreign": "私の母"
+    },
+    {
+      "russian": "вера моя",
+      "foreign": "私の信"
+    },
+    {
+      "russian": "язык мой",
+      "foreign": "私の舌"
+    },
+    {
+      "russian": "имя твое",
+      "foreign": "あなたの名"
+    },
+    {
+      "russian": "твой сын",
+      "foreign": "あなたの子"
+    },
+    {
+      "russian": "Сына твоего",
+      "foreign": "あなたの子"
+    },
+    {
+      "russian": "твоея руки",
+      "foreign": "あなたの両手"
+    },
+    {
+      "russian": "Царствии Твоем",
+      "foreign": "あなたの国"
+    },
+    {
+      "russian": "Царствие Твое",
+      "foreign": "あなたの国"
+    },
+    {
+      "russian": "Царство Твое",
+      "foreign": "あなたの国"
+    },
+    {
+      "russian": "твоим свет",
+      "foreign": "あなたの光"
+    },
+    {
+      "russian": "Царю небесный",
+      "foreign": "天の王"
+    },
+    {
+      "russian": "Царю́ Небесный",
+      "foreign": "天の王"
+    },
+    {
+      "russian": "человеколю",
+      "foreign": "愛人者"
+    },
+    {
+      "russian": "Человеколюбец",
+      "foreign": "愛人者"
+    },
+    {
+      "russian": "бел",
+      "foreign": "白"
+    },
+    {
+      "russian": "беззакон",
+      "foreign": "非法"
+    },
+    {
+      "russian": "Бог",
+      "foreign": "神"
+    },
+    {
+      "russian": "Бо́же",
+      "foreign": "神"
+    },
+    {
+      "russian": "Бож",
+      "foreign": "神"
+    },
+    {
+      "russian": "благ",
+      "foreign": "善"
+    },
+    {
+      "russian": "Вера",
+      "foreign": "信"
+    },
+    {
+      "russian": "Веры",
+      "foreign": "信"
+    },
+    {
+      "russian": "Верую",
+      "foreign": "信"
+    },
+    {
+      "russian": "Верую,",
+      "foreign": "信"
+    },
+    {
+      "russian": "влады",
+      "foreign": "上帝"
+    },
+    {
+      "russian": "воля",
+      "foreign": "意愿"
+    },
+    {
+      "russian": "Враг",
+      "foreign": "敵"
+    },
+    {
+      "russian": "все",
+      "foreign": "全"
+    },
+    {
+      "russian": "Велико",
+      "foreign": "大"
+    },
+    {
+      "russian": "велиц",
+      "foreign": "大"
+    },
+    {
+      "russian": "велик",
+      "foreign": "大"
+    },
+    {
+      "russian": "воста",
+      "foreign": "立"
+    },
+    {
+      "russian": "Господь",
+      "foreign": "主"
+    },
+    {
+      "russian": "Го́споди",
+      "foreign": "主"
+    },
+    {
+      "russian": "Господ",
+      "foreign": "主"
+    },
+    {
+      "russian": "греш",
+      "foreign": "罪"
+    },
+    {
+      "russian": "грех",
+      "foreign": "罪"
+    },
+    {
+      "russian": "грес",
+      "foreign": "罪"
+    },
+    {
+      "russian": "День",
+      "foreign": "日"
+    },
+    {
+      "russian": "дня",
+      "foreign": "日"
+    },
+    {
+      "russian": "дни",
+      "foreign": "日"
+    },
+    {
+      "russian": "дом",
+      "foreign": "宅"
+    },
+    {
+      "russian": "душ",
+      "foreign": "魂"
+    },
+    {
+      "russian": "Дух",
+      "foreign": "霊"
+    },
+    {
+      "russian": "зло",
+      "foreign": "悪"
+    },
+    {
+      "russian": "жизн",
+      "foreign": "生"
+    },
+    {
+      "russian": "жегаем",
+      "foreign": "火"
+    },
+    {
+      "russian": "огня́",
+      "foreign": "火"
+    },
+    {
+      "russian": "пламе",
+      "foreign": "火"
+    },
+    {
+      "russian": "пла́мень",
+      "foreign": "火"
+    },
+    {
+      "russian": "земли",
+      "foreign": "地"
+    },
+    {
+      "russian": "земно",
+      "foreign": "地"
+    },
+    {
+      "russian": "имя",
+      "foreign": "名"
+    },
+    {
+      "russian": "имен",
+      "foreign": "名"
+    },
+    {
+      "russian": "кров",
+      "foreign": "血"
+    },
+    {
+      "russian": "кост",
+      "foreign": "骨"
+    },
+    {
+      "russian": "конц",
+      "foreign": "末"
+    },
+    {
+      "russian": "книзе",
+      "foreign": "本"
+    },
+    {
+      "russian": "лукав",
+      "foreign": "虚伪"
+    },
+    {
+      "russian": "лице",
+      "foreign": "面"
+    },
+    {
+      "russian": "лица",
+      "foreign": "面"
+    },
+    {
+      "russian": "любе",
+      "foreign": "好"
+    },
+    {
+      "russian": "люби",
+      "foreign": "好"
+    },
+    {
+      "russian": "лю́бст",
+      "foreign": "好"
+    },
+    {
+      "russian": "молитв",
+      "foreign": "祈"
+    },
+    {
+      "russian": "мольб",
+      "foreign": "祈"
+    },
+    {
+      "russian": "молящ",
+      "foreign": "祈"
+    },
+    {
+      "russian": "Мати",
+      "foreign": "母"
+    },
+    {
+      "russian": "моя",
+      "foreign": "私の"
+    },
+    {
+      "russian": "мое",
+      "foreign": "私の"
+    },
+    {
+      "russian": "милос",
+      "foreign": "慈悲"
+    },
+    {
+      "russian": "науч",
+      "foreign": "教"
+    },
+    {
+      "russian": "не",
+      "foreign": "非"
+    },
+    {
+      "russian": "Небе",
+      "foreign": "天"
+    },
+    {
+      "russian": "Небу",
+      "foreign": "天"
+    },
+    {
+      "russian": "Небес",
+      "foreign": "天"
+    },
+    {
+      "russian": "Нощн",
+      "foreign": "夜"
+    },
+    {
+      "russian": "Нощи",
+      "foreign": "夜"
+    },
+    {
+      "russian": "Нощь",
+      "foreign": "夜"
+    },
+    {
+      "russian": "но",
+      "foreign": "が"
+    },
+    {
+      "russian": "ныне",
+      "foreign": "今"
+    },
+    {
+      "russian": "Сейчас",
+      "foreign": "今"
+    },
+    {
+      "russian": "оконч",
+      "foreign": "完"
+    },
+    {
+      "russian": "омый",
+      "foreign": "洗"
+    },
+    {
+      "russian": "отец",
+      "foreign": "父"
+    },
+    {
+      "russian": "Отче",
+      "foreign": "父"
+    },
+    {
+      "russian": "О́тче",
+      "foreign": "父"
+    },
+    {
+      "russian": "Отце́м",
+      "foreign": "父"
+    },
+    {
+      "russian": "Отц",
+      "foreign": "父"
+    },
+    {
+      "russian": "Отца",
+      "foreign": "父"
+    },
+    {
+      "russian": "Отцу́",
+      "foreign": "父"
+    },
+    {
+      "russian": "отверз",
+      "foreign": "開"
+    },
+    {
+      "russian": "очи сердечныя",
+      "foreign": "心の両目"
+    },
+    {
+      "russian": "очи",
+      "foreign": "両目"
+    },
+    {
+      "russian": "очеса",
+      "foreign": "両目"
+    },
+    {
+      "russian": "плот",
+      "foreign": "肉"
+    },
+    {
+      "russian": "пети",
+      "foreign": "歌"
+    },
+    {
+      "russian": "поет",
+      "foreign": "歌"
+    },
+    {
+      "russian": "Песнь",
+      "foreign": "歌"
+    },
+    {
+      "russian": "присно",
+      "foreign": "常"
+    },
+    {
+      "russian": "прав",
+      "foreign": "对"
+    },
+    {
+      "russian": "прежд",
+      "foreign": "前"
+    },
+    {
+      "russian": "приид",
+      "foreign": "来"
+    },
+    {
+      "russian": "пут",
+      "foreign": "道"
+    },
+    {
+      "russian": "раб",
+      "foreign": "工"
+    },
+    {
+      "russian": "радует",
+      "foreign": "喜"
+    },
+    {
+      "russian": "радуют",
+      "foreign": "喜"
+    },
+    {
+      "russian": "радуй",
+      "foreign": "喜"
+    },
+    {
+      "russian": "радость",
+      "foreign": "喜"
+    },
+    {
+      "russian": "разжжен",
+      "foreign": "点火"
+    },
+    {
+      "russian": "рай",
+      "foreign": "天国"
+    },
+    {
+      "russian": "руку",
+      "foreign": "手"
+    },
+    {
+      "russian": "Руце",
+      "foreign": "両手"
+    },
+    {
+      "russian": "сатан",
+      "foreign": "悪魔"
+    },
+    {
+      "russian": "Свята́го",
+      "foreign": "聖"
+    },
+    {
+      "russian": "Свята́",
+      "foreign": "聖"
+    },
+    {
+      "russian": "Свято́му",
+      "foreign": "聖"
+    },
+    {
+      "russian": "Святы́й",
+      "foreign": "聖"
+    },
+    {
+      "russian": "Свят",
+      "foreign": "聖"
+    },
+    {
+      "russian": "сердц",
+      "foreign": "心"
+    },
+    {
+      "russian": "се́рдц",
+      "foreign": "心"
+    },
+    {
+      "russian": "сердеч",
+      "foreign": "心"
+    },
+    {
+      "russian": "свет",
+      "foreign": "光"
+    },
+    {
+      "russian": "светл",
+      "foreign": "光"
+    },
+    {
+      "russian": "Сила",
+      "foreign": "力"
+    },
+    {
+      "russian": "Сильн",
+      "foreign": "力"
+    },
+    {
+      "russian": "сильств",
+      "foreign": "力"
+    },
+    {
+      "russian": "силу",
+      "foreign": "力"
+    },
+    {
+      "russian": "Слав",
+      "foreign": "栄"
+    },
+    {
+      "russian": "Сла́в",
+      "foreign": "栄"
+    },
+    {
+      "russian": "Славе",
+      "foreign": "栄"
+    },
+    {
+      "russian": "Слов",
+      "foreign": "語"
+    },
+    {
+      "russian": "Слеза",
+      "foreign": "泪"
+    },
+    {
+      "russian": "Смерт",
+      "foreign": "死"
+    },
+    {
+      "russian": "снег",
+      "foreign": "雪"
+    },
+    {
+      "russian": "сна,",
+      "foreign": "眠"
+    },
+    {
+      "russian": "сна",
+      "foreign": "眠"
+    },
+    {
+      "russian": "сне",
+      "foreign": "眠"
+    },
+    {
+      "russian": "сон",
+      "foreign": "眠"
+    },
+    {
+      "russian": "Сы́на",
+      "foreign": "子"
+    },
+    {
+      "russian": "Сы́ну",
+      "foreign": "子"
+    },
+    {
+      "russian": "Сын",
+      "foreign": "子"
+    },
+    {
+      "russian": "твоего",
+      "foreign": "あなたの"
+    },
+    {
+      "russian": "твое",
+      "foreign": "あなたの"
+    },
+    {
+      "russian": "твои",
+      "foreign": "あなたの"
+    },
+    {
+      "russian": "твою",
+      "foreign": "あなたの"
+    },
+    {
+      "russian": "телесн",
+      "foreign": "体"
+    },
+    {
+      "russian": "тело",
+      "foreign": "体"
+    },
+    {
+      "russian": "тела",
+      "foreign": "体"
+    },
+    {
+      "russian": "телу",
+      "foreign": "体"
+    },
+    {
+      "russian": "телес",
+      "foreign": "体"
+    },
+    {
+      "russian": "устне",
+      "foreign": "口"
+    },
+    {
+      "russian": "устен",
+      "foreign": "口"
+    },
+    {
+      "russian": "уста́",
+      "foreign": "口"
+    },
+    {
+      "russian": "уста",
+      "foreign": "口"
+    },
+    {
+      "russian": "усты",
+      "foreign": "口"
+    },
+    {
+      "russian": "утр",
+      "foreign": "早"
+    },
+    {
+      "russian": "врач",
+      "foreign": "療"
+    },
+    {
+      "russian": "учат",
+      "foreign": "学"
+    },
+    {
+      "russian": "Царствие",
+      "foreign": "国"
+    },
+    {
+      "russian": "Царствию",
+      "foreign": "国"
+    },
+    {
+      "russian": "царство",
+      "foreign": "国"
+    },
+    {
+      "russian": "Ца́рствие",
+      "foreign": "国"
+    },
+    {
+      "russian": "царю",
+      "foreign": "王"
+    },
+    {
+      "russian": "царя",
+      "foreign": "王"
+    },
+    {
+      "russian": "Цареви",
+      "foreign": "王"
+    },
+    {
+      "russian": "царица",
+      "foreign": "女王"
+    },
+    {
+      "russian": "царице",
+      "foreign": "女王"
+    },
+    {
+      "russian": "Хлеб",
+      "foreign": "パン"
+    },
+    {
+      "russian": "Человек",
+      "foreign": "人"
+    },
+    {
+      "russian": "чист",
+      "foreign": "浄"
+    },
+    {
+      "russian": "Язык",
+      "foreign": "舌"
+    }
+  ],
+  "chinese": [
+    {
+      "russian": "отец",
+      "foreign": "父"
+    },
+    {
+      "russian": "отче",
+      "foreign": "父"
+    },
+    {
+      "russian": "отца",
+      "foreign": "父"
+    },
+    {
+      "russian": "отцу",
+      "foreign": "父"
+    },
+    {
+      "russian": "отцем",
+      "foreign": "父"
+    },
+    {
+      "russian": "отцы",
+      "foreign": "父"
+    },
+    {
+      "russian": "отцов",
+      "foreign": "父"
+    },
+    {
+      "russian": "я",
+      "foreign": "我"
+    },
+    {
+      "russian": "мне",
+      "foreign": "我"
+    },
+    {
+      "russian": "меня",
+      "foreign": "我"
+    },
+    {
+      "russian": "мной",
+      "foreign": "我"
+    },
+    {
+      "russian": "мною",
+      "foreign": "我"
+    },
+    {
+      "russian": "мя",
+      "foreign": "我"
+    },
+    {
+      "russian": "ми",
+      "foreign": "我"
+    },
+    {
+      "russian": "аз",
+      "foreign": "我"
+    },
+    {
+      "russian": "мы",
+      "foreign": "我们"
+    },
+    {
+      "russian": "нам",
+      "foreign": "我们"
+    },
+    {
+      "russian": "нас",
+      "foreign": "我们"
+    },
+    {
+      "russian": "нами",
+      "foreign": "我们"
+    },
+    {
+      "russian": "ны",
+      "foreign": "我们"
+    },
+    {
+      "russian": "ты",
+      "foreign": "你"
+    },
+    {
+      "russian": "тебе",
+      "foreign": "你"
+    },
+    {
+      "russian": "тебя",
+      "foreign": "你"
+    },
+    {
+      "russian": "тобой",
+      "foreign": "你"
+    },
+    {
+      "russian": "тобою",
+      "foreign": "你"
+    },
+    {
+      "russian": "тя",
+      "foreign": "你"
+    },
+    {
+      "russian": "ти",
+      "foreign": "你"
+    },
+    {
+      "russian": "он",
+      "foreign": "他"
+    },
+    {
+      "russian": "ему",
+      "foreign": "他"
+    },
+    {
+      "russian": "нем",
+      "foreign": "他"
+    },
+    {
+      "russian": "него",
+      "foreign": "他"
+    },
+    {
+      "russian": "она",
+      "foreign": "她"
+    },
+    {
+      "russian": "ей",
+      "foreign": "她"
+    },
+    {
+      "russian": "нее",
+      "foreign": "她"
+    },
+    {
+      "russian": "мой",
+      "foreign": "我的"
+    },
+    {
+      "russian": "моя",
+      "foreign": "我的"
+    },
+    {
+      "russian": "мое",
+      "foreign": "我的"
+    },
+    {
+      "russian": "мои",
+      "foreign": "我的"
+    },
+    {
+      "russian": "моего",
+      "foreign": "我的"
+    },
+    {
+      "russian": "моей",
+      "foreign": "我的"
+    },
+    {
+      "russian": "моему",
+      "foreign": "我的"
+    },
+    {
+      "russian": "моим",
+      "foreign": "我的"
+    },
+    {
+      "russian": "моими",
+      "foreign": "我的"
+    },
+    {
+      "russian": "моих",
+      "foreign": "我的"
+    },
+    {
+      "russian": "мою",
+      "foreign": "我的"
+    },
+    {
+      "russian": "моея",
+      "foreign": "我的"
+    },
+    {
+      "russian": "твой",
+      "foreign": "你的"
+    },
+    {
+      "russian": "твоя",
+      "foreign": "你的"
+    },
+    {
+      "russian": "твое",
+      "foreign": "你的"
+    },
+    {
+      "russian": "твои",
+      "foreign": "你的"
+    },
+    {
+      "russian": "твоего",
+      "foreign": "你的"
+    },
+    {
+      "russian": "твоей",
+      "foreign": "你的"
+    },
+    {
+      "russian": "твоему",
+      "foreign": "你的"
+    },
+    {
+      "russian": "твоим",
+      "foreign": "你的"
+    },
+    {
+      "russian": "твоими",
+      "foreign": "你的"
+    },
+    {
+      "russian": "твоих",
+      "foreign": "你的"
+    },
+    {
+      "russian": "твою",
+      "foreign": "你的"
+    },
+    {
+      "russian": "твоея",
+      "foreign": "你的"
+    },
+    {
+      "russian": "сам",
+      "foreign": "自己"
+    },
+    {
+      "russian": "сама",
+      "foreign": "自己"
+    },
+    {
+      "russian": "само",
+      "foreign": "自己"
+    },
+    {
+      "russian": "сами",
+      "foreign": "自己"
+    },
+    {
+      "russian": "самого",
+      "foreign": "自己"
+    },
+    {
+      "russian": "самому",
+      "foreign": "自己"
+    },
+    {
+      "russian": "самим",
+      "foreign": "自己"
+    },
+    {
+      "russian": "самих",
+      "foreign": "自己"
+    },
+    {
+      "russian": "свою",
+      "foreign": "自己"
+    },
+    {
+      "russian": "свое",
+      "foreign": "自己"
+    },
+    {
+      "russian": "своей",
+      "foreign": "自己"
+    },
+    {
+      "russian": "своею",
+      "foreign": "自己"
+    },
+    {
+      "russian": "своих",
+      "foreign": "自己"
+    },
+    {
+      "russian": "не",
+      "foreign": "不"
+    },
+    {
+      "russian": "и",
+      "foreign": "和"
+    },
+    {
+      "russian": "также",
+      "foreign": "也"
+    },
+    {
+      "russian": "тоже",
+      "foreign": "也"
+    },
+    {
+      "russian": "но",
+      "foreign": "但是"
+    },
+    {
+      "russian": "однако",
+      "foreign": "但是"
+    },
+    {
+      "russian": "если",
+      "foreign": "如果"
+    },
+    {
+      "russian": "аще",
+      "foreign": "如果"
+    },
+    {
+      "russian": "почему",
+      "foreign": "为什么"
+    },
+    {
+      "russian": "что",
+      "foreign": "什么"
+    },
+    {
+      "russian": "кто",
+      "foreign": "谁"
+    },
+    {
+      "russian": "кого",
+      "foreign": "谁"
+    },
+    {
+      "russian": "кому",
+      "foreign": "谁"
+    },
+    {
+      "russian": "это",
+      "foreign": "这"
+    },
+    {
+      "russian": "этот",
+      "foreign": "这"
+    },
+    {
+      "russian": "эта",
+      "foreign": "这"
+    },
+    {
+      "russian": "сие",
+      "foreign": "这"
+    },
+    {
+      "russian": "сей",
+      "foreign": "这"
+    },
+    {
+      "russian": "сия",
+      "foreign": "这"
+    },
+    {
+      "russian": "то",
+      "foreign": "那"
+    },
+    {
+      "russian": "тот",
+      "foreign": "那"
+    },
+    {
+      "russian": "та",
+      "foreign": "那"
+    },
+    {
+      "russian": "очень",
+      "foreign": "很"
+    },
+    {
+      "russian": "иметь",
+      "foreign": "有"
+    },
+    {
+      "russian": "имею",
+      "foreign": "有"
+    },
+    {
+      "russian": "имеешь",
+      "foreign": "有"
+    },
+    {
+      "russian": "имеет",
+      "foreign": "有"
+    },
+    {
+      "russian": "имеем",
+      "foreign": "有"
+    },
+    {
+      "russian": "имеют",
+      "foreign": "有"
+    },
+    {
+      "russian": "имети",
+      "foreign": "有"
+    },
+    {
+      "russian": "нет",
+      "foreign": "没有"
+    },
+    {
+      "russian": "есть",
+      "foreign": "是"
+    },
+    {
+      "russian": "есмь",
+      "foreign": "是"
+    },
+    {
+      "russian": "еси",
+      "foreign": "是"
+    },
+    {
+      "russian": "суть",
+      "foreign": "是"
+    },
+    {
+      "russian": "делать",
+      "foreign": "做"
+    },
+    {
+      "russian": "делаю",
+      "foreign": "做"
+    },
+    {
+      "russian": "делаешь",
+      "foreign": "做"
+    },
+    {
+      "russian": "делает",
+      "foreign": "做"
+    },
+    {
+      "russian": "делаем",
+      "foreign": "做"
+    },
+    {
+      "russian": "делают",
+      "foreign": "做"
+    },
+    {
+      "russian": "делати",
+      "foreign": "做"
+    },
+    {
+      "russian": "идти",
+      "foreign": "去"
+    },
+    {
+      "russian": "иду",
+      "foreign": "去"
+    },
+    {
+      "russian": "идешь",
+      "foreign": "去"
+    },
+    {
+      "russian": "идет",
+      "foreign": "去"
+    },
+    {
+      "russian": "идем",
+      "foreign": "去"
+    },
+    {
+      "russian": "идут",
+      "foreign": "去"
+    },
+    {
+      "russian": "приходить",
+      "foreign": "来"
+    },
+    {
+      "russian": "приходи",
+      "foreign": "来"
+    },
+    {
+      "russian": "прииди",
+      "foreign": "来"
+    },
+    {
+      "russian": "слушать",
+      "foreign": "听"
+    },
+    {
+      "russian": "слушай",
+      "foreign": "听"
+    },
+    {
+      "russian": "слушает",
+      "foreign": "听"
+    },
+    {
+      "russian": "слушаю",
+      "foreign": "听"
+    },
+    {
+      "russian": "смотреть",
+      "foreign": "看"
+    },
+    {
+      "russian": "смотрю",
+      "foreign": "看"
+    },
+    {
+      "russian": "смотри",
+      "foreign": "看"
+    },
+    {
+      "russian": "говорить",
+      "foreign": "说"
+    },
+    {
+      "russian": "говорю",
+      "foreign": "说"
+    },
+    {
+      "russian": "говоришь",
+      "foreign": "说"
+    },
+    {
+      "russian": "говорит",
+      "foreign": "说"
+    },
+    {
+      "russian": "говорим",
+      "foreign": "说"
+    },
+    {
+      "russian": "говорят",
+      "foreign": "说"
+    },
+    {
+      "russian": "писать",
+      "foreign": "写"
+    },
+    {
+      "russian": "пишу",
+      "foreign": "写"
+    },
+    {
+      "russian": "пишет",
+      "foreign": "写"
+    },
+    {
+      "russian": "любовь",
+      "foreign": "爱"
+    },
+    {
+      "russian": "любви",
+      "foreign": "爱"
+    },
+    {
+      "russian": "любовью",
+      "foreign": "爱"
+    },
+    {
+      "russian": "любовию",
+      "foreign": "爱"
+    },
+    {
+      "russian": "сон",
+      "foreign": "睡觉"
+    },
+    {
+      "russian": "сна",
+      "foreign": "睡觉"
+    },
+    {
+      "russian": "сне",
+      "foreign": "睡觉"
+    },
+    {
+      "russian": "сном",
+      "foreign": "睡觉"
+    },
+    {
+      "russian": "усталый",
+      "foreign": "累"
+    },
+    {
+      "russian": "устал",
+      "foreign": "累"
+    },
+    {
+      "russian": "устала",
+      "foreign": "累"
+    },
+    {
+      "russian": "кушать",
+      "foreign": "吃"
+    },
+    {
+      "russian": "вкушать",
+      "foreign": "吃"
+    },
+    {
+      "russian": "пить",
+      "foreign": "喝"
+    },
+    {
+      "russian": "пью",
+      "foreign": "喝"
+    },
+    {
+      "russian": "пиет",
+      "foreign": "喝"
+    },
+    {
+      "russian": "мыть",
+      "foreign": "洗"
+    },
+    {
+      "russian": "омый",
+      "foreign": "洗"
+    },
+    {
+      "russian": "думать",
+      "foreign": "想"
+    },
+    {
+      "russian": "думаю",
+      "foreign": "想"
+    },
+    {
+      "russian": "думаешь",
+      "foreign": "想"
+    },
+    {
+      "russian": "думает",
+      "foreign": "想"
+    },
+    {
+      "russian": "думаем",
+      "foreign": "想"
+    },
+    {
+      "russian": "знать",
+      "foreign": "知道"
+    },
+    {
+      "russian": "знаю",
+      "foreign": "知道"
+    },
+    {
+      "russian": "знаешь",
+      "foreign": "知道"
+    },
+    {
+      "russian": "знает",
+      "foreign": "知道"
+    },
+    {
+      "russian": "знаем",
+      "foreign": "知道"
+    },
+    {
+      "russian": "знают",
+      "foreign": "知道"
+    },
+    {
+      "russian": "понимать",
+      "foreign": "懂"
+    },
+    {
+      "russian": "понимаю",
+      "foreign": "懂"
+    },
+    {
+      "russian": "понимаешь",
+      "foreign": "懂"
+    },
+    {
+      "russian": "понимает",
+      "foreign": "懂"
+    },
+    {
+      "russian": "надеяться",
+      "foreign": "希望"
+    },
+    {
+      "russian": "надеюсь",
+      "foreign": "希望"
+    },
+    {
+      "russian": "надеемся",
+      "foreign": "希望"
+    },
+    {
+      "russian": "могу",
+      "foreign": "能"
+    },
+    {
+      "russian": "можешь",
+      "foreign": "能"
+    },
+    {
+      "russian": "может",
+      "foreign": "能"
+    },
+    {
+      "russian": "можем",
+      "foreign": "能"
+    },
+    {
+      "russian": "могут",
+      "foreign": "能"
+    },
+    {
+      "russian": "вместе",
+      "foreign": "一起"
+    },
+    {
+      "russian": "возвращаться",
+      "foreign": "回"
+    },
+    {
+      "russian": "возвращаюсь",
+      "foreign": "回"
+    },
+    {
+      "russian": "возвратись",
+      "foreign": "回"
+    },
+    {
+      "russian": "отдыхать",
+      "foreign": "休息"
+    },
+    {
+      "russian": "отдыхаю",
+      "foreign": "休息"
+    },
+    {
+      "russian": "отдохнуть",
+      "foreign": "休息"
+    },
+    {
+      "russian": "тело",
+      "foreign": "身体"
+    },
+    {
+      "russian": "тела",
+      "foreign": "身体"
+    },
+    {
+      "russian": "телу",
+      "foreign": "身体"
+    },
+    {
+      "russian": "телом",
+      "foreign": "身体"
+    },
+    {
+      "russian": "телес",
+      "foreign": "身体"
+    },
+    {
+      "russian": "телесем",
+      "foreign": "身体"
+    },
+    {
+      "russian": "глаза",
+      "foreign": "眼睛"
+    },
+    {
+      "russian": "глаз",
+      "foreign": "眼睛"
+    },
+    {
+      "russian": "глазам",
+      "foreign": "眼睛"
+    },
+    {
+      "russian": "глазами",
+      "foreign": "眼睛"
+    },
+    {
+      "russian": "очи",
+      "foreign": "眼睛"
+    },
+    {
+      "russian": "очей",
+      "foreign": "眼睛"
+    },
+    {
+      "russian": "очам",
+      "foreign": "眼睛"
+    },
+    {
+      "russian": "очес",
+      "foreign": "眼睛"
+    },
+    {
+      "russian": "очеса",
+      "foreign": "眼睛"
+    },
+    {
+      "russian": "рот",
+      "foreign": "口"
+    },
+    {
+      "russian": "рта",
+      "foreign": "口"
+    },
+    {
+      "russian": "рту",
+      "foreign": "口"
+    },
+    {
+      "russian": "ртом",
+      "foreign": "口"
+    },
+    {
+      "russian": "уста",
+      "foreign": "口"
+    },
+    {
+      "russian": "уст",
+      "foreign": "口"
+    },
+    {
+      "russian": "устами",
+      "foreign": "口"
+    },
+    {
+      "russian": "устне",
+      "foreign": "口"
+    },
+    {
+      "russian": "язык",
+      "foreign": "舌"
+    },
+    {
+      "russian": "языка",
+      "foreign": "舌"
+    },
+    {
+      "russian": "языком",
+      "foreign": "舌"
+    },
+    {
+      "russian": "языку",
+      "foreign": "舌"
+    },
+    {
+      "russian": "рука",
+      "foreign": "手"
+    },
+    {
+      "russian": "руки",
+      "foreign": "手"
+    },
+    {
+      "russian": "руку",
+      "foreign": "手"
+    },
+    {
+      "russian": "руке",
+      "foreign": "手"
+    },
+    {
+      "russian": "рукою",
+      "foreign": "手"
+    },
+    {
+      "russian": "руками",
+      "foreign": "手"
+    },
+    {
+      "russian": "руце",
+      "foreign": "手"
+    },
+    {
+      "russian": "рукама",
+      "foreign": "手"
+    },
+    {
+      "russian": "ухо",
+      "foreign": "耳"
+    },
+    {
+      "russian": "уха",
+      "foreign": "耳"
+    },
+    {
+      "russian": "уху",
+      "foreign": "耳"
+    },
+    {
+      "russian": "ухом",
+      "foreign": "耳"
+    },
+    {
+      "russian": "уши",
+      "foreign": "耳"
+    },
+    {
+      "russian": "слуху",
+      "foreign": "耳"
+    },
+    {
+      "russian": "сила",
+      "foreign": "力"
+    },
+    {
+      "russian": "силы",
+      "foreign": "力"
+    },
+    {
+      "russian": "силе",
+      "foreign": "力"
+    },
+    {
+      "russian": "силу",
+      "foreign": "力"
+    },
+    {
+      "russian": "силою",
+      "foreign": "力"
+    },
+    {
+      "russian": "силами",
+      "foreign": "力"
+    },
+    {
+      "russian": "жизнь",
+      "foreign": "生"
+    },
+    {
+      "russian": "жизни",
+      "foreign": "生"
+    },
+    {
+      "russian": "жизнью",
+      "foreign": "生"
+    },
+    {
+      "russian": "живота",
+      "foreign": "生"
+    },
+    {
+      "russian": "живот",
+      "foreign": "生"
+    },
+    {
+      "russian": "радость",
+      "foreign": "喜"
+    },
+    {
+      "russian": "радости",
+      "foreign": "喜"
+    },
+    {
+      "russian": "радостью",
+      "foreign": "喜"
+    },
+    {
+      "russian": "радостию",
+      "foreign": "喜"
+    },
+    {
+      "russian": "покой",
+      "foreign": "安"
+    },
+    {
+      "russian": "покоя",
+      "foreign": "安"
+    },
+    {
+      "russian": "покое",
+      "foreign": "安"
+    },
+    {
+      "russian": "покоем",
+      "foreign": "安"
+    },
+    {
+      "russian": "светлый",
+      "foreign": "明"
+    },
+    {
+      "russian": "светлого",
+      "foreign": "明"
+    },
+    {
+      "russian": "светлым",
+      "foreign": "明"
+    },
+    {
+      "russian": "светлыя",
+      "foreign": "明"
+    },
+    {
+      "russian": "земля",
+      "foreign": "土"
+    },
+    {
+      "russian": "земли",
+      "foreign": "土"
+    },
+    {
+      "russian": "земле",
+      "foreign": "土"
+    },
+    {
+      "russian": "землю",
+      "foreign": "土"
+    },
+    {
+      "russian": "землей",
+      "foreign": "土"
+    },
+    {
+      "russian": "земною",
+      "foreign": "土"
+    },
+    {
+      "russian": "небо",
+      "foreign": "天"
+    },
+    {
+      "russian": "неба",
+      "foreign": "天"
+    },
+    {
+      "russian": "небе",
+      "foreign": "天"
+    },
+    {
+      "russian": "небеса",
+      "foreign": "天"
+    },
+    {
+      "russian": "небесах",
+      "foreign": "天"
+    },
+    {
+      "russian": "небес",
+      "foreign": "天"
+    },
+    {
+      "russian": "небеси",
+      "foreign": "天"
+    },
+    {
+      "russian": "небесех",
+      "foreign": "天"
+    },
+    {
+      "russian": "дом",
+      "foreign": "家"
+    },
+    {
+      "russian": "дома",
+      "foreign": "家"
+    },
+    {
+      "russian": "дому",
+      "foreign": "家"
+    },
+    {
+      "russian": "домом",
+      "foreign": "家"
+    },
+    {
+      "russian": "имя",
+      "foreign": "名字"
+    },
+    {
+      "russian": "имени",
+      "foreign": "名字"
+    },
+    {
+      "russian": "именем",
+      "foreign": "名字"
+    },
+    {
+      "russian": "имене",
+      "foreign": "名字"
+    },
+    {
+      "russian": "книга",
+      "foreign": "书"
+    },
+    {
+      "russian": "книги",
+      "foreign": "书"
+    },
+    {
+      "russian": "книгу",
+      "foreign": "书"
+    },
+    {
+      "russian": "книге",
+      "foreign": "书"
+    },
+    {
+      "russian": "книзе",
+      "foreign": "书"
+    },
+    {
+      "russian": "вода",
+      "foreign": "水"
+    },
+    {
+      "russian": "воды",
+      "foreign": "水"
+    },
+    {
+      "russian": "воду",
+      "foreign": "水"
+    },
+    {
+      "russian": "водою",
+      "foreign": "水"
+    },
+    {
+      "russian": "хлеб",
+      "foreign": "面包"
+    },
+    {
+      "russian": "хлеба",
+      "foreign": "面包"
+    },
+    {
+      "russian": "хлебу",
+      "foreign": "面包"
+    },
+    {
+      "russian": "хлебом",
+      "foreign": "面包"
+    },
+    {
+      "russian": "солнце",
+      "foreign": "日"
+    },
+    {
+      "russian": "солнца",
+      "foreign": "日"
+    },
+    {
+      "russian": "солнцу",
+      "foreign": "日"
+    },
+    {
+      "russian": "солнцем",
+      "foreign": "日"
+    },
+    {
+      "russian": "луна",
+      "foreign": "月"
+    },
+    {
+      "russian": "луны",
+      "foreign": "月"
+    },
+    {
+      "russian": "луну",
+      "foreign": "月"
+    },
+    {
+      "russian": "дождь",
+      "foreign": "雨"
+    },
+    {
+      "russian": "дождя",
+      "foreign": "雨"
+    },
+    {
+      "russian": "дождем",
+      "foreign": "雨"
+    },
+    {
+      "russian": "облако",
+      "foreign": "雲"
+    },
+    {
+      "russian": "облака",
+      "foreign": "雲"
+    },
+    {
+      "russian": "облаком",
+      "foreign": "雲"
+    },
+    {
+      "russian": "утро",
+      "foreign": "旦"
+    },
+    {
+      "russian": "утра",
+      "foreign": "旦"
+    },
+    {
+      "russian": "утру",
+      "foreign": "旦"
+    },
+    {
+      "russian": "утром",
+      "foreign": "旦"
+    },
+    {
+      "russian": "вечер",
+      "foreign": "晚上"
+    },
+    {
+      "russian": "вечера",
+      "foreign": "晚上"
+    },
+    {
+      "russian": "вечеру",
+      "foreign": "晚上"
+    },
+    {
+      "russian": "вечером",
+      "foreign": "晚上"
+    },
+    {
+      "russian": "сейчас",
+      "foreign": "现在"
+    },
+    {
+      "russian": "ныне",
+      "foreign": "现在"
+    },
+    {
+      "russian": "время",
+      "foreign": "时候"
+    },
+    {
+      "russian": "времени",
+      "foreign": "时候"
+    },
+    {
+      "russian": "временем",
+      "foreign": "时候"
+    },
+    {
+      "russian": "час",
+      "foreign": "小时"
+    },
+    {
+      "russian": "часа",
+      "foreign": "小时"
+    },
+    {
+      "russian": "часы",
+      "foreign": "小时"
+    },
+    {
+      "russian": "часов",
+      "foreign": "小时"
+    },
+    {
+      "russian": "ребенок",
+      "foreign": "孩子"
+    },
+    {
+      "russian": "ребенка",
+      "foreign": "孩子"
+    },
+    {
+      "russian": "дети",
+      "foreign": "孩子"
+    },
+    {
+      "russian": "детей",
+      "foreign": "孩子"
+    },
+    {
+      "russian": "человек",
+      "foreign": "人"
+    },
+    {
+      "russian": "человека",
+      "foreign": "人"
+    },
+    {
+      "russian": "человеку",
+      "foreign": "人"
+    },
+    {
+      "russian": "человеком",
+      "foreign": "人"
+    },
+    {
+      "russian": "человеки",
+      "foreign": "人"
+    },
+    {
+      "russian": "друг",
+      "foreign": "朋友"
+    },
+    {
+      "russian": "друга",
+      "foreign": "朋友"
+    },
+    {
+      "russian": "другу",
+      "foreign": "朋友"
+    },
+    {
+      "russian": "другом",
+      "foreign": "朋友"
+    },
+    {
+      "russian": "друзья",
+      "foreign": "朋友"
+    },
+    {
+      "russian": "муж",
+      "foreign": "丈夫"
+    },
+    {
+      "russian": "мужа",
+      "foreign": "丈夫"
+    },
+    {
+      "russian": "мужу",
+      "foreign": "丈夫"
+    },
+    {
+      "russian": "мужем",
+      "foreign": "丈夫"
+    },
+    {
+      "russian": "жена",
+      "foreign": "妻子"
+    },
+    {
+      "russian": "жены",
+      "foreign": "妻子"
+    },
+    {
+      "russian": "жену",
+      "foreign": "妻子"
+    },
+    {
+      "russian": "жене",
+      "foreign": "妻子"
+    },
+    {
+      "russian": "хороший",
+      "foreign": "好"
+    },
+    {
+      "russian": "хорошо",
+      "foreign": "好"
+    },
+    {
+      "russian": "большой",
+      "foreign": "大"
+    },
+    {
+      "russian": "большая",
+      "foreign": "大"
+    },
+    {
+      "russian": "большое",
+      "foreign": "大"
+    },
+    {
+      "russian": "маленький",
+      "foreign": "小"
+    },
+    {
+      "russian": "маленькая",
+      "foreign": "小"
+    },
+    {
+      "russian": "малое",
+      "foreign": "小"
+    },
+    {
+      "russian": "много",
+      "foreign": "多"
+    },
+    {
+      "russian": "многаго",
+      "foreign": "多"
+    },
+    {
+      "russian": "мало",
+      "foreign": "少"
+    },
+    {
+      "russian": "новый",
+      "foreign": "新"
+    },
+    {
+      "russian": "новая",
+      "foreign": "新"
+    },
+    {
+      "russian": "новое",
+      "foreign": "新"
+    },
+    {
+      "russian": "высокий",
+      "foreign": "高"
+    },
+    {
+      "russian": "высоко",
+      "foreign": "高"
+    },
+    {
+      "russian": "быстро",
+      "foreign": "快"
+    },
+    {
+      "russian": "далеко",
+      "foreign": "远"
+    },
+    {
+      "russian": "близко",
+      "foreign": "近"
+    },
+    {
+      "russian": "четыре",
+      "foreign": "四"
+    },
+    {
+      "russian": "шесть",
+      "foreign": "六"
+    },
+    {
+      "russian": "сто",
+      "foreign": "百"
+    },
+    {
+      "russian": "только",
+      "foreign": "只"
+    },
+    {
+      "russian": "снова",
+      "foreign": "又"
+    },
+    {
+      "russian": "опять",
+      "foreign": "又"
+    },
+    {
+      "russian": "отпускать",
+      "foreign": "放"
+    },
+    {
+      "russian": "отпусти",
+      "foreign": "放"
+    },
+    {
+      "russian": "без",
+      "foreign": "无"
+    },
+    {
+      "russian": "дело",
+      "foreign": "事儿"
+    },
+    {
+      "russian": "дела",
+      "foreign": "事儿"
+    },
+    {
+      "russian": "делу",
+      "foreign": "事儿"
+    },
+    {
+      "russian": "делом",
+      "foreign": "事儿"
+    },
+    {
+      "russian": "делы",
+      "foreign": "事儿"
+    },
+    {
+      "russian": "место",
+      "foreign": "地方"
+    },
+    {
+      "russian": "места",
+      "foreign": "地方"
+    },
+    {
+      "russian": "месте",
+      "foreign": "地方"
+    },
+    {
+      "russian": "работа",
+      "foreign": "工"
+    },
+    {
+      "russian": "работы",
+      "foreign": "工"
+    },
+    {
+      "russian": "работу",
+      "foreign": "工"
+    }
+  ]
+}

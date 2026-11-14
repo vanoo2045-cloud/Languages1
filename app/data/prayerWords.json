@@ -1,0 +1,672 @@
+[
+  {
+    "russian": "пришёл",
+    "greek": "ἦλθον",
+    "strong": "2064"
+  },
+  {
+    "russian": "возвещающий",
+    "greek": "καταγγέλλων",
+    "strong": "2605"
+  },
+  {
+    "russian": "превосходству",
+    "greek": "ὑπεροχὴν",
+    "strong": "5247"
+  },
+  {
+    "russian": "знать",
+    "greek": "εἰδέναι",
+    "strong": "1492"
+  },
+  {
+    "russian": "слабости",
+    "greek": "ἀσθενείᾳ",
+    "strong": "769"
+  },
+  {
+    "russian": "страхе",
+    "greek": "φόβῳ",
+    "strong": "5401"
+  },
+  {
+    "russian": "дрожи",
+    "greek": "τρόμῳ",
+    "strong": "5156"
+  },
+  {
+    "russian": "Иисуса",
+    "greek": "Ἰησοῦν",
+    "strong": "2424"
+  },
+  {
+    "russian": "моя",
+    "greek": "μου",
+    "strong": "3450"
+  },
+  {
+    "russian": "мудрости",
+    "greek": "σοφίας",
+    "strong": "4678"
+  },
+  {
+    "russian": "Павел",
+    "greek": "Παῦλος",
+    "strong": "3972"
+  },
+  {
+    "russian": "Христа",
+    "greek": "Χριστοῦ",
+    "strong": "5547"
+  },
+  {
+    "russian": "через",
+    "greek": "διὰ",
+    "strong": "1223"
+  },
+  {
+    "russian": "Бога",
+    "greek": "θεοῦ",
+    "strong": "2316"
+  },
+  {
+    "russian": "и",
+    "greek": "καὶ",
+    "strong": "2532"
+  },
+  {
+    "russian": "брат",
+    "greek": "ἀδελφός",
+    "strong": "80"
+  },
+  {
+    "russian": "церкви",
+    "greek": "ἐκκλησίᾳ",
+    "strong": "1577"
+  },
+  {
+    "russian": "сущей",
+    "greek": "οὔσῃ",
+    "strong": "1510"
+  },
+  {
+    "russian": "в",
+    "greek": "ἐν",
+    "strong": "1722"
+  },
+  {
+    "russian": "Христе",
+    "greek": "Χριστῷ",
+    "strong": "5547"
+  },
+  {
+    "russian": "Иисусе",
+    "greek": "Ἰησοῦ",
+    "strong": "2424"
+  },
+  {
+    "russian": "святым",
+    "greek": "ἁγίοις",
+    "strong": "40"
+  },
+  {
+    "russian": "всеми",
+    "greek": "πᾶσιν",
+    "strong": "3956"
+  },
+  {
+    "russian": "Го́спода",
+    "greek": "κυρίου",
+    "strong": "2962"
+  },
+  {
+    "russian": "во",
+    "greek": "ἐν",
+    "strong": "1722"
+  },
+  {
+    "russian": "всяком",
+    "greek": "παντὶ",
+    "strong": "3956"
+  },
+  {
+    "russian": "их",
+    "greek": "αὐτῶν",
+    "strong": "846"
+  },
+  {
+    "russian": "от",
+    "greek": "ἀπὸ",
+    "strong": "575"
+  },
+  {
+    "russian": "Отца",
+    "greek": "πατρὸς",
+    "strong": "3962"
+  },
+  {
+    "russian": "моего",
+    "greek": "μου",
+    "strong": "3450"
+  },
+  {
+    "russian": "за",
+    "greek": "ἐπὶ",
+    "strong": "1909"
+  },
+  {
+    "russian": "всём",
+    "greek": "παντὶ",
+    "strong": "3956"
+  },
+  {
+    "russian": "Нём",
+    "greek": "αὐτῷ",
+    "strong": "846"
+  },
+  {
+    "russian": "как",
+    "greek": "καθὼς",
+    "strong": "2531"
+  },
+  {
+    "russian": "вам",
+    "greek": "ὑμᾶς",
+    "strong": "5209"
+  },
+  {
+    "russian": "не",
+    "greek": "μὴ",
+    "strong": "3361"
+  },
+  {
+    "russian": "даровании",
+    "greek": "χαρίσματι",
+    "strong": "5486"
+  },
+  {
+    "russian": "Который",
+    "greek": "ὃς",
+    "strong": "3739"
+  },
+  {
+    "russian": "вас",
+    "greek": "ὑμᾶς",
+    "strong": "5209"
+  },
+  {
+    "russian": "Бог",
+    "greek": "θεὸς",
+    "strong": "2316"
+  },
+  {
+    "russian": "Которого",
+    "greek": "οὗ",
+    "strong": "3739"
+  },
+  {
+    "russian": "Его",
+    "greek": "αὐτοῦ",
+    "strong": "846"
+  },
+  {
+    "russian": "же",
+    "greek": "δὲ",
+    "strong": "1161"
+  },
+  {
+    "russian": "братья",
+    "greek": "ἀδελφοί",
+    "strong": "80"
+  },
+  {
+    "russian": "чтобы",
+    "greek": "ἵνα",
+    "strong": "2443"
+  },
+  {
+    "russian": "все",
+    "greek": "πάντες",
+    "strong": "3956"
+  },
+  {
+    "russian": "были",
+    "greek": "ᾖ",
+    "strong": "1510"
+  },
+  {
+    "russian": "ведь",
+    "greek": "γάρ",
+    "strong": "1063"
+  },
+  {
+    "russian": "мои",
+    "greek": "μου",
+    "strong": "3450"
+  },
+  {
+    "russian": "что",
+    "greek": "ὅτι",
+    "strong": "3754"
+  },
+  {
+    "russian": "есть",
+    "greek": "εἰσιν",
+    "strong": "1510"
+  },
+  {
+    "russian": "Говорю",
+    "greek": "λέγω",
+    "strong": "3004"
+  },
+  {
+    "russian": "говорит",
+    "greek": "λέγει",
+    "strong": "3004"
+  },
+  {
+    "russian": "Я",
+    "greek": "Ἐγὼ",
+    "strong": "1473"
+  },
+  {
+    "russian": "Павла",
+    "greek": "Παύλου",
+    "strong": "3972"
+  },
+  {
+    "russian": "Христос",
+    "greek": "Χριστός",
+    "strong": "5547"
+  },
+  {
+    "russian": "или",
+    "greek": "ἢ",
+    "strong": "1510"
+  },
+  {
+    "russian": "знаю",
+    "greek": "οἶδα",
+    "strong": "1492"
+  },
+  {
+    "russian": "но",
+    "greek": "ἀλλὰ",
+    "strong": "235"
+  },
+  {
+    "russian": "мудрость",
+    "greek": "σοφίαν",
+    "strong": "4678"
+  },
+  {
+    "russian": "мудрых",
+    "greek": "σοφῶν",
+    "strong": "4680"
+  },
+  {
+    "russian": "мудрый",
+    "greek": "σοφός",
+    "strong": "4680"
+  },
+  {
+    "russian": "мира",
+    "greek": "κόσμου",
+    "strong": "2889"
+  },
+  {
+    "russian": "мир",
+    "greek": "κόσμος",
+    "strong": "2889"
+  },
+  {
+    "russian": "самим",
+    "greek": "αὐτοῖς",
+    "strong": "846"
+  },
+  {
+    "russian": "мудрее",
+    "greek": "σοφώτερον",
+    "strong": "4680"
+  },
+  {
+    "russian": "людей",
+    "greek": "ἀνθρώπων",
+    "strong": "444"
+  },
+  {
+    "russian": "мудрые",
+    "greek": "σοφοὶ",
+    "strong": "4680"
+  },
+  {
+    "russian": "плоти",
+    "greek": "σάρκα",
+    "strong": "4561"
+  },
+  {
+    "russian": "сущее",
+    "greek": "ὄντα",
+    "strong": "1510"
+  },
+  {
+    "russian": "всякая",
+    "greek": "πᾶσα",
+    "strong": "3956"
+  },
+  {
+    "russian": "плоть",
+    "greek": "σὰρξ",
+    "strong": "4561"
+  },
+  {
+    "russian": "Богом",
+    "greek": "θεοῦ",
+    "strong": "2316"
+  },
+  {
+    "russian": "Из",
+    "greek": "ἐξ",
+    "strong": "1537"
+  },
+  {
+    "russian": "Него",
+    "greek": "αὐτοῦ",
+    "strong": "846"
+  },
+  {
+    "russian": "Господе",
+    "greek": "κυρίῳ",
+    "strong": "2962"
+  },
+  {
+    "russian": "пришедший",
+    "greek": "ἐλθὼν",
+    "strong": "2064"
+  },
+  {
+    "russian": "к",
+    "greek": "πρὸς",
+    "strong": "4314"
+  },
+  {
+    "russian": "у",
+    "greek": "ἐν",
+    "strong": "1722"
+  },
+  {
+    "russian": "моё",
+    "greek": "μου",
+    "strong": "3450"
+  },
+  {
+    "russian": "Духа",
+    "greek": "πνεύματος",
+    "strong": "4151"
+  },
+  {
+    "russian": "была",
+    "greek": "ᾖ",
+    "strong": "1510"
+  },
+  {
+    "russian": "которую",
+    "greek": "ἣν",
+    "strong": "3739"
+  },
+  {
+    "russian": "Которое",
+    "greek": "Ἃ",
+    "strong": "3739"
+  },
+  {
+    "russian": "увидел",
+    "greek": "εἶδεν",
+    "strong": "1492"
+  },
+  {
+    "russian": "на",
+    "greek": "ἐπὶ",
+    "strong": "1909"
+  },
+  {
+    "russian": "сердце",
+    "greek": "καρδίαν",
+    "strong": "2588"
+  },
+  {
+    "russian": "человека",
+    "greek": "ἀνθρώπου",
+    "strong": "444"
+  },
+  {
+    "russian": "Дух",
+    "greek": "πνεῦμα",
+    "strong": "4151"
+  },
+  {
+    "russian": "знает",
+    "greek": "οἶδεν",
+    "strong": "1492"
+  },
+  {
+    "russian": "Так",
+    "greek": "οὕτως",
+    "strong": "3779"
+  },
+  {
+    "russian": "человек",
+    "greek": "ἄνθρωπος",
+    "strong": "444"
+  },
+  {
+    "russian": "ему",
+    "greek": "αὐτῷ",
+    "strong": "846"
+  },
+  {
+    "russian": "сам",
+    "greek": "αὐτὸς",
+    "strong": "846"
+  },
+  {
+    "russian": "имеем",
+    "greek": "ἔχομεν",
+    "strong": "2192"
+  },
+  {
+    "russian": "человеку",
+    "greek": "ἄνθρωπον",
+    "strong": "444"
+  },
+  {
+    "russian": "люди",
+    "greek": "ἄνθρωποί",
+    "strong": "444"
+  },
+  {
+    "russian": "которых",
+    "greek": "ὧν",
+    "strong": "3739"
+  },
+  {
+    "russian": "Господь",
+    "greek": "κύριος",
+    "strong": "2962"
+  },
+  {
+    "russian": "одно",
+    "greek": "ἕν",
+    "strong": "1722"
+  },
+  {
+    "russian": "Иисус",
+    "greek": "Ἰησοῦς",
+    "strong": "2424"
+  },
+  {
+    "russian": "знаете",
+    "greek": "οἴδατε",
+    "strong": "1492"
+  },
+  {
+    "russian": "храм",
+    "greek": "ναὸς",
+    "strong": "3485"
+  },
+  {
+    "russian": "святой",
+    "greek": "ἄγιός",
+    "strong": "40"
+  },
+  {
+    "russian": "мудр",
+    "greek": "σοφὸς",
+    "strong": "4680"
+  },
+  {
+    "russian": "быть",
+    "greek": "εἶναι",
+    "strong": "1510"
+  },
+  {
+    "russian": "людях",
+    "greek": "ἀνθρώποις",
+    "strong": "444"
+  },
+  {
+    "russian": "иметь",
+    "greek": "ἔχω",
+    "strong": "2192"
+  },
+  {
+    "russian": "любви",
+    "greek": "ἀγάπῃ",
+    "strong": "26"
+  },
+  {
+    "russian": "с",
+    "greek": "μεθ᾽",
+    "strong": "3326"
+  },
+  {
+    "russian": "унаследуют",
+    "greek": "κληρονομήσουσιν",
+    "strong": "2816"
+  },
+  {
+    "russian": "тело",
+    "greek": "σῶμα",
+    "strong": "4983"
+  },
+  {
+    "russian": "два",
+    "greek": "δύο",
+    "strong": "1417"
+  },
+  {
+    "russian": "грех",
+    "greek": "ἁμάρτημα",
+    "strong": "265"
+  },
+  {
+    "russian": "развратники",
+    "greek": "πόρνοι",
+    "strong": "4205"
+  },
+  {
+    "russian": "дело",
+    "greek": "πρᾶγμα",
+    "strong": "4229"
+  },
+  {
+    "russian": "святые",
+    "greek": "ἄγιοι",
+    "strong": "40"
+  },
+  {
+    "russian": "ангелов",
+    "greek": "ἀγγέλους",
+    "strong": "32"
+  },
+  {
+    "russian": "житейское",
+    "greek": "βιωτικά",
+    "strong": "982"
+  },
+  {
+    "russian": "сажаете",
+    "greek": "καθίζετε",
+    "strong": "2523"
+  },
+  {
+    "russian": "суды",
+    "greek": "κρίματα",
+    "strong": "2917"
+  },
+  {
+    "russian": "Царство",
+    "greek": "βασιλείαν",
+    "strong": "932"
+  },
+  {
+    "russian": "сластолюбцы",
+    "greek": "μαλακοὶ",
+    "strong": "3120"
+  },
+  {
+    "russian": "жену",
+    "greek": "γυναῖκά",
+    "strong": "1135"
+  },
+  {
+    "russian": "малая",
+    "greek": "μικρὰ",
+    "strong": "3398"
+  },
+  {
+    "russian": "новое",
+    "greek": "νέον",
+    "strong": "3501"
+  },
+  {
+    "russian": "хорошо",
+    "greek": "καλὸν",
+    "strong": "2570"
+  },
+  {
+    "russian": "молитвой",
+    "greek": "προσευχῇ",
+    "strong": "4335"
+  },
+  {
+    "russian": "Сатана",
+    "greek": "Σατανᾶς",
+    "strong": "4567"
+  },
+  {
+    "russian": "муж",
+    "greek": "ἀνὴρ",
+    "strong": "435"
+  },
+  {
+    "russian": "дарование",
+    "greek": "χάρισμα",
+    "strong": "5486"
+  },
+  {
+    "russian": "неверующая",
+    "greek": "ἄπιστος",
+    "strong": "571"
+  },
+  {
+    "russian": "сестра",
+    "greek": "ἀδελφὴ",
+    "strong": "79"
+  },
+  {
+    "russian": "девушек",
+    "greek": "παρθένων",
+    "strong": "3933"
+  }
+]

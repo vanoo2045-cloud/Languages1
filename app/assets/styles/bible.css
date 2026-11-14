@@ -1,0 +1,100 @@
+/* Стили для библейского текста (как на azbyka.ru) */
+.bible-content {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.verse-block {
+  margin-bottom: 1.5rem;
+}
+
+.verse-ref {
+  font-size: 0.9rem;
+  color: #6b5b4f;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.verse {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #2c3e2f;
+  text-align: justify;
+  margin-bottom: 1rem;
+}
+
+/* Стили для слов */
+.bible-content span.word {
+  cursor: pointer;
+  display: inline-block;
+  padding: 2px 4px;
+  margin: 0 1px;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.bible-content span.word:hover {
+  background: #f0e6d2;
+  transform: scale(1.02);
+}
+
+/* Русский текст */
+.bible-content span.rus-word {
+  display: inline;
+  color: #2c3e2f;
+}
+
+/* Греческий текст */
+.bible-content a.greek-word {
+  text-decoration: none;
+  color: #9d37af;
+  font-weight: bold;
+}
+
+/* Выученные слова */
+/* .bible-content span.word.learned {
+  background: #e8f5e8;
+  border-bottom: 2px solid #2c5f2d;
+} */
+
+/* Заголовок книги */
+.book-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.book-header h1 {
+  font-size: 2rem;
+  color: #2c3e6b;
+  margin-bottom: 0.5rem;
+}
+
+.chapter-ref {
+  font-size: 1.2rem;
+  color: #6b5b4f;
+  font-style: italic;
+}
+
+/* Панель управления */
+.controls {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Подсказка */
+.footer-hint {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #aaa;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+}

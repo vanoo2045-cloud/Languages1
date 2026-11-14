@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "site": "greek-prayers",
+    "public": ".output/public",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "headers": [{ "source": "/dictionaries/**", "headers": [{ "key": "Cache-Control", "value": "no-store" }] }],
+    "rewrites": [{ "source": "**", "destination": "/200.html" }],
+    "predeploy": ["npm run generate"]
+  }
+}

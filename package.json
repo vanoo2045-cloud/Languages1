@@ -1,0 +1,17 @@
+{
+  "name": "greece",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/prepare-prayers.mjs && nuxt build",
+    "dev": "node scripts/prepare-prayers.mjs && nuxt dev",
+    "generate": "node scripts/prepare-prayers.mjs && nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^4.4.2",
+    "vue": "^3.5.32",
+    "vue-router": "^5.0.4"
+  }
+}

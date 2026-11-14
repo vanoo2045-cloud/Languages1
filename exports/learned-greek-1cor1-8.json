@@ -1,0 +1,3689 @@
+{
+  "source": "1 Corinthians 1–8; local saved interlinear chapters",
+  "selection": "initiallyLearnedWords from app/data/learnedWords.ts; browser progress not included",
+  "occurrences": 1264,
+  "missingStrongNumbers": [],
+  "entries": [
+    {
+      "strong": "26",
+      "forms": [
+        {
+          "greek": "ἀγάπῃ",
+          "russian": "любви",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "ἀγάπη",
+          "russian": "любовь",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "32",
+      "forms": [
+        {
+          "greek": "ἀγγέλοις",
+          "russian": "ангелам",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "ἀγγέλους",
+          "russian": "ангелов",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "40",
+      "forms": [
+        {
+          "greek": "ἁγίοις,",
+          "russian": "святым,",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "ἄγιός",
+          "russian": "святой",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "ἁγίων;",
+          "russian": "святых?",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἄγιοι",
+          "russian": "святые",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἁγίου",
+          "russian": "Святого",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἄγιά",
+          "russian": "святые",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἁγία",
+          "russian": "свята",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "79",
+      "forms": [
+        {
+          "greek": "ἀδελφὴ",
+          "russian": "сестра",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "80",
+      "forms": [
+        {
+          "greek": "ἀδελφός,",
+          "russian": "брат,",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "ἀδελφοί,",
+          "russian": "братья,",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            7
+          ]
+        },
+        {
+          "greek": "ἀδελφοί",
+          "russian": "братья",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "ἀδελφὸς",
+          "russian": "брат",
+          "chapters": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "ἀδελφοῦ",
+          "russian": "брата",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἀδελφοῦ",
+          "russian": "братом",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἀδελφούς.",
+          "russian": "братьев.",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἀδελφῷ·",
+          "russian": "брате;",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἀδελφοὺς",
+          "russian": "братьев",
+          "chapters": [
+            8
+          ]
+        },
+        {
+          "greek": "ἀδελφόν",
+          "russian": "брата",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "235",
+      "forms": [
+        {
+          "greek": "ἀλλὰ",
+          "russian": "но",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "ἀλλ᾽",
+          "russian": "но",
+          "chapters": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "ἀλλὰ",
+          "russian": "Но",
+          "chapters": [
+            2,
+            6
+          ]
+        },
+        {
+          "greek": "ἀλλ᾽",
+          "russian": "Но",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "Ἀλλ᾽",
+          "russian": "Но",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "265",
+      "forms": [
+        {
+          "greek": "ἁμάρτημα",
+          "russian": "грех",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "435",
+      "forms": [
+        {
+          "greek": "ἄνδρα",
+          "russian": "мужа",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἀνὴρ",
+          "russian": "муж",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἀνδρί.",
+          "russian": "мужу.",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἀνήρ·",
+          "russian": "муж;",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἀνδρὸς",
+          "russian": "мужа",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἀνδρὶ",
+          "russian": "[с] мужем",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἄνδρα",
+          "russian": "мужу",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἄνδρα.",
+          "russian": "мужа.",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἄνερ,",
+          "russian": "муж,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἀνήρ,",
+          "russian": "муж,",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "444",
+      "forms": [
+        {
+          "greek": "ἀνθρώπων",
+          "russian": "людей",
+          "chapters": [
+            1,
+            2
+          ]
+        },
+        {
+          "greek": "ἀνθρώπων.",
+          "russian": "людей.",
+          "chapters": [
+            1,
+            7
+          ]
+        },
+        {
+          "greek": "ἀνθρώπου",
+          "russian": "человека",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "ἀνθρώπων",
+          "russian": "[из] людей",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "ἄνθρωπος",
+          "russian": "человек",
+          "chapters": [
+            2,
+            4,
+            6
+          ]
+        },
+        {
+          "greek": "ἄνθρωπον",
+          "russian": "человеку",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "ἄνθρωποί",
+          "russian": "люди",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "ἀνθρώποις·",
+          "russian": "людях;",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "ἀνθρώποις.",
+          "russian": "людям.",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "ἀνθρώπῳ",
+          "russian": "человеку",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἀνθρώπους",
+          "russian": "людей",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "571",
+      "forms": [
+        {
+          "greek": "ἀπίστων;",
+          "russian": "неверных?",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἄπιστον,",
+          "russian": "неверующую,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἄπιστον,",
+          "russian": "неверующего,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἄπιστος",
+          "russian": "неверующий",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἄπιστος",
+          "russian": "неверующая",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "575",
+      "forms": [
+        {
+          "greek": "ἀπὸ",
+          "russian": "от",
+          "chapters": [
+            1,
+            4,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "846",
+      "forms": [
+        {
+          "greek": "αὐτῶν",
+          "russian": "их",
+          "chapters": [
+            1,
+            8
+          ]
+        },
+        {
+          "greek": "αὐτῷ,",
+          "russian": "Нём,",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "αὐτοῦ",
+          "russian": "Его",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "αὐτὸ",
+          "russian": "то же",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "αὐτῷ",
+          "russian": "том же",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "αὐτῇ",
+          "russian": "том же",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "αὐτοῖς",
+          "russian": "самим",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "αὐτοῦ",
+          "russian": "Него",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "αὐτόν.",
+          "russian": "Его.",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "αὐτῷ;",
+          "russian": "нём?",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "αὐτῷ",
+          "russian": "ему",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "αὐτὸς",
+          "russian": "сам",
+          "chapters": [
+            2,
+            3
+          ]
+        },
+        {
+          "greek": "αὐτόν;",
+          "russian": "его?",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "[αὐτὸ]",
+          "russian": "его",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "αὐτῶν·",
+          "russian": "их;",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "αὐτῶν.",
+          "russian": "самих.",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "αὐτοῦ;",
+          "russian": "его?",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "αὐτοῦ.",
+          "russian": "Его.",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "αὐτὸ",
+          "russian": "месте",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "αὐτοῖς",
+          "russian": "им",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "αὕτη",
+          "russian": "эта",
+          "chapters": [
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "αὐτοῦ,",
+          "russian": "ним,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "αὐτήν·",
+          "russian": "её;",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "αὐτῆς,",
+          "russian": "ней,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "αὐτῶν",
+          "russian": "самих",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "αὐτοῦ",
+          "russian": "его",
+          "chapters": [
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "αὐτῆς·",
+          "russian": "её;",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "αὐτοῦ.",
+          "russian": "Него.",
+          "chapters": [
+            8
+          ]
+        },
+        {
+          "greek": "αὐτόν,",
+          "russian": "Него,",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "932",
+      "forms": [
+        {
+          "greek": "βασιλεία",
+          "russian": "Царство",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "βασιλείαν",
+          "russian": "Царство",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "βασιλείαν",
+          "russian": "царство",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "982",
+      "forms": [
+        {
+          "greek": "βιωτικά;",
+          "russian": "житейское?",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "βιωτικὰ",
+          "russian": "Житейские",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1063",
+      "forms": [
+        {
+          "greek": "γάρ",
+          "russian": "ведь",
+          "chapters": [
+            1,
+            3,
+            4,
+            5,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "γὰρ",
+          "russian": "ведь",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "γάρ,",
+          "russian": "ведь,",
+          "chapters": [
+            1,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "greek": "γὰρ",
+          "russian": "Ведь",
+          "chapters": [
+            3,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1135",
+      "forms": [
+        {
+          "greek": "γυναῖκά",
+          "russian": "жену",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "γυναικὸς",
+          "russian": "женщины",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυναῖκα",
+          "russian": "жену",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυναικὶ",
+          "russian": "Жене",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυνὴ",
+          "russian": "жена",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυνὴ",
+          "russian": "Жена",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυνή.",
+          "russian": "жена.",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυναῖκα",
+          "russian": "жене",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυναικί,",
+          "russian": "жене,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γύναι,",
+          "russian": "жена,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυναικί;",
+          "russian": "[к] жене?",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυναικός;",
+          "russian": "жены?",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυναῖκα.",
+          "russian": "жену.",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυναῖκας",
+          "russian": "жён",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "γυνὴ",
+          "russian": "женщина",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "Γυνὴ",
+          "russian": "Жена",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1161",
+      "forms": [
+        {
+          "greek": "δὲ",
+          "russian": "же",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "δέ,",
+          "russian": "же,",
+          "chapters": [
+            3,
+            4
+          ]
+        },
+        {
+          "greek": "δέ",
+          "russian": "же",
+          "chapters": [
+            3,
+            4,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "δὲ",
+          "russian": "Же",
+          "chapters": [
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1223",
+      "forms": [
+        {
+          "greek": "διὰ",
+          "russian": "через",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            6
+          ]
+        },
+        {
+          "greek": "δι᾽",
+          "russian": "через",
+          "chapters": [
+            1,
+            3,
+            8
+          ]
+        },
+        {
+          "greek": "δι᾽",
+          "russian": "из-за",
+          "chapters": [
+            4,
+            8
+          ]
+        },
+        {
+          "greek": "διὰ",
+          "russian": "из-за",
+          "chapters": [
+            4,
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "διὰ",
+          "russian": "Из-за",
+          "chapters": [
+            4,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1417",
+      "forms": [
+        {
+          "greek": "δύο",
+          "russian": "два",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1473",
+      "forms": [
+        {
+          "greek": "Ἐγὼ",
+          "russian": "Я",
+          "chapters": [
+            1,
+            3
+          ]
+        },
+        {
+          "greek": "ἐγὼ",
+          "russian": "Я",
+          "chapters": [
+            3,
+            5
+          ]
+        },
+        {
+          "greek": "ἐγὼ",
+          "russian": "я",
+          "chapters": [
+            4,
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "ἐγώ,",
+          "russian": "я,",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1499",
+      "forms": [
+        {
+          "greek": "εἰ",
+          "russian": "если",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "καὶ",
+          "russian": "и",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1510",
+      "forms": [
+        {
+          "greek": "οὔσῃ",
+          "russian": "сущей",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "ᾖ",
+          "russian": "были",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "ἦτε",
+          "russian": "вы были",
+          "chapters": [
+            1,
+            5
+          ]
+        },
+        {
+          "greek": "εἰσιν.",
+          "russian": "есть.",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "εἰμι",
+          "russian": "есть",
+          "chapters": [
+            1,
+            3
+          ]
+        },
+        {
+          "greek": "ἢ",
+          "russian": "или",
+          "chapters": [
+            1,
+            2,
+            4,
+            5,
+            7
+          ]
+        },
+        {
+          "greek": "ἐστίν,",
+          "russian": "есть,",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "ἐστιν.",
+          "russian": "есть.",
+          "chapters": [
+            1,
+            4,
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "ὄντα,",
+          "russian": "сущее,",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "ὄντα",
+          "russian": "сущее",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "ἐστε",
+          "russian": "есть",
+          "chapters": [
+            1,
+            3
+          ]
+        },
+        {
+          "greek": "ᾖ",
+          "russian": "была",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "ἐστιν,",
+          "russian": "есть,",
+          "chapters": [
+            2,
+            3,
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "ἐστε.",
+          "russian": "вы есть.",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "ἐστε",
+          "russian": "вы есть",
+          "chapters": [
+            3,
+            5,
+            6
+          ]
+        },
+        {
+          "greek": "ἐστε;",
+          "russian": "вы есть?",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "ἐστιν",
+          "russian": "есть",
+          "chapters": [
+            3,
+            4,
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "ἐστίν",
+          "russian": "есть",
+          "chapters": [
+            3,
+            4
+          ]
+        },
+        {
+          "greek": "εἰσιν,",
+          "russian": "они есть,",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "ἐσμεν",
+          "russian": "мы есть",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "εἶναι",
+          "russian": "быть",
+          "chapters": [
+            3,
+            7
+          ]
+        },
+        {
+          "greek": "ἐστιν·",
+          "russian": "есть;",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "εἰσὶν",
+          "russian": "они есть",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "ἐστέ·",
+          "russian": "вы есть;",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "ἐστέ,",
+          "russian": "есть,",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "ᾖ",
+          "russian": "будет",
+          "chapters": [
+            5,
+            7
+          ]
+        },
+        {
+          "greek": "ἢ",
+          "russian": "Или",
+          "chapters": [
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "ἦτε·",
+          "russian": "вы были;",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἐστιν;",
+          "russian": "есть?",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "[ἢ]",
+          "russian": "Или",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "Ἔσονται",
+          "russian": "Будут",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἐστὲ",
+          "russian": "есть вы",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἦτε,",
+          "russian": "вы были,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἢ",
+          "russian": "нежели",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ᾗ",
+          "russian": "в котором",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἐστίν·",
+          "russian": "есть;",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "εἶναι.",
+          "russian": "быть.",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ὦσιν,",
+          "russian": "были,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ᾖ",
+          "russian": "она была",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἐστὶν",
+          "russian": "есть",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἐστιν",
+          "russian": "она есть",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "εἰσὶν",
+          "russian": "есть",
+          "chapters": [
+            8
+          ]
+        },
+        {
+          "greek": "οὖσα",
+          "russian": "сущая",
+          "chapters": [
+            8
+          ]
+        },
+        {
+          "greek": "ὄντος",
+          "russian": "сущего",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1537",
+      "forms": [
+        {
+          "greek": "ἐξ",
+          "russian": "Из",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "ἐκ",
+          "russian": "от",
+          "chapters": [
+            2,
+            7
+          ]
+        },
+        {
+          "greek": "ἐκ",
+          "russian": "из",
+          "chapters": [
+            5,
+            7
+          ]
+        },
+        {
+          "greek": "ἐξ",
+          "russian": "из",
+          "chapters": [
+            5,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1577",
+      "forms": [
+        {
+          "greek": "ἐκκλησίᾳ",
+          "russian": "церкви",
+          "chapters": [
+            1,
+            4,
+            6
+          ]
+        },
+        {
+          "greek": "ἐκκλησίαις",
+          "russian": "церквах",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1722",
+      "forms": [
+        {
+          "greek": "ἐν",
+          "russian": "в",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "ἐν",
+          "russian": "во",
+          "chapters": [
+            1,
+            4,
+            8
+          ]
+        },
+        {
+          "greek": "ἐν",
+          "russian": "у",
+          "chapters": [
+            2,
+            3,
+            5,
+            6
+          ]
+        },
+        {
+          "greek": "ἕν",
+          "russian": "одно",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "ἐν",
+          "russian": "В",
+          "chapters": [
+            4,
+            7
+          ]
+        },
+        {
+          "greek": "ἓν",
+          "russian": "одно",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἓν",
+          "russian": "один",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1762",
+      "forms": [
+        {
+          "greek": "ἔνι",
+          "russian": "есть",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "1909",
+      "forms": [
+        {
+          "greek": "ἐπὶ",
+          "russian": "за",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "ἐπὶ",
+          "russian": "на",
+          "chapters": [
+            2,
+            3,
+            8
+          ]
+        },
+        {
+          "greek": "ἐπὶ",
+          "russian": "у",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἐπὶ",
+          "russian": "в",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἐπὶ",
+          "russian": "относительно",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἐφ᾽",
+          "russian": "на",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2192",
+      "forms": [
+        {
+          "greek": "ἔχομεν.",
+          "russian": "имеем.",
+          "chapters": [
+            2,
+            8
+          ]
+        },
+        {
+          "greek": "ἔχεις",
+          "russian": "имеешь",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "ἔχητε",
+          "russian": "будете иметь",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "ἔχειν.",
+          "russian": "иметь.",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "ἔχων",
+          "russian": "имеющий",
+          "chapters": [
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "ἔχητε,",
+          "russian": "будете иметь,",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἔχετε",
+          "russian": "имеете",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ἐχέτω,",
+          "russian": "пусть имеет,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἐχέτω.",
+          "russian": "пусть имеет.",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἔχει",
+          "russian": "имеет",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἔχω,",
+          "russian": "имею,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἕξουσιν",
+          "russian": "будут иметь",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἔχοντες",
+          "russian": "имеющие",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἔχειν.",
+          "russian": "имею.",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ἔχοντα",
+          "russian": "имеющего",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2316",
+      "forms": [
+        {
+          "greek": "θεοῦ,",
+          "russian": "Бога,",
+          "chapters": [
+            1,
+            2,
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "θεοῦ",
+          "russian": "Бога",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "θεῷ",
+          "russian": "Бога",
+          "chapters": [
+            1,
+            3
+          ]
+        },
+        {
+          "greek": "θεὸς",
+          "russian": "Бог",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            8
+          ]
+        },
+        {
+          "greek": "θεῷ]",
+          "russian": "Бога",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "θεόν,",
+          "russian": "Бога,",
+          "chapters": [
+            1,
+            8
+          ]
+        },
+        {
+          "greek": "θεός,",
+          "russian": "Бог,",
+          "chapters": [
+            1,
+            7
+          ]
+        },
+        {
+          "greek": "θεοῦ.",
+          "russian": "Богом.",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "θεοῦ.",
+          "russian": "Бога.",
+          "chapters": [
+            2,
+            3,
+            4,
+            7
+          ]
+        },
+        {
+          "greek": "θεός.",
+          "russian": "Бог.",
+          "chapters": [
+            3,
+            7
+          ]
+        },
+        {
+          "greek": "θεός·",
+          "russian": "Бог;",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "θεὸν",
+          "russian": "Бога",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "θεῷ.",
+          "russian": "Бога.",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "θεὸς",
+          "russian": "бог",
+          "chapters": [
+            8
+          ]
+        },
+        {
+          "greek": "θεοὶ",
+          "russian": "боги",
+          "chapters": [
+            8
+          ]
+        },
+        {
+          "greek": "θεῷ·",
+          "russian": "Богу;",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2443",
+      "forms": [
+        {
+          "greek": "ἵνα",
+          "russian": "чтобы",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2504",
+      "forms": [
+        {
+          "greek": "Κἀγὼ",
+          "russian": "И я",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "κἀγὼ",
+          "russian": "И я",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "Κἀγώ,",
+          "russian": "И я,",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "κἀγώ·",
+          "russian": "и я;",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "κἀγὼ",
+          "russian": "и я",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2523",
+      "forms": [
+        {
+          "greek": "καθίζετε;",
+          "russian": "сажаете?",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2531",
+      "forms": [
+        {
+          "greek": "καθὼς",
+          "russian": "как",
+          "chapters": [
+            1,
+            2,
+            4,
+            8
+          ]
+        },
+        {
+          "greek": "καθώς",
+          "russian": "как",
+          "chapters": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2532",
+      "forms": [
+        {
+          "greek": "καὶ",
+          "russian": "и",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "καὶ",
+          "russian": "И",
+          "chapters": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "καὶ",
+          "russian": "а",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2570",
+      "forms": [
+        {
+          "greek": "καλὸν",
+          "russian": "хороша",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "καλὸν",
+          "russian": "хорошо",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2588",
+      "forms": [
+        {
+          "greek": "καρδίαν",
+          "russian": "сердце",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "καρδιῶν·",
+          "russian": "сердец;",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "καρδίᾳ",
+          "russian": "сердце",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "καρδίᾳ,",
+          "russian": "сердце,",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2816",
+      "forms": [
+        {
+          "greek": "κληρονομήσουσιν;",
+          "russian": "унаследуют?",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "κληρονομήσουσιν.",
+          "russian": "унаследуют.",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2889",
+      "forms": [
+        {
+          "greek": "κόσμου;",
+          "russian": "мира?",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "κόσμος",
+          "russian": "мир",
+          "chapters": [
+            1,
+            3
+          ]
+        },
+        {
+          "greek": "κόσμου",
+          "russian": "мира",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7
+          ]
+        },
+        {
+          "greek": "κόσμῳ",
+          "russian": "миру",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "κόσμον",
+          "russian": "мир",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "κόσμος,",
+          "russian": "мир,",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "κόσμον",
+          "russian": "миром",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "κόσμου,",
+          "russian": "мира,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "κόσμῳ,",
+          "russian": "мире,",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2917",
+      "forms": [
+        {
+          "greek": "κρίματα",
+          "russian": "суды",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "2962",
+      "forms": [
+        {
+          "greek": "κυρίου",
+          "russian": "Го́спода",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "κυρίῳ",
+          "russian": "Господе",
+          "chapters": [
+            1,
+            7
+          ]
+        },
+        {
+          "greek": "κύριον",
+          "russian": "Го́спода",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "κυρίου,",
+          "russian": "Го́спода,",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "κύριος",
+          "russian": "Господь",
+          "chapters": [
+            3,
+            4,
+            6,
+            8
+          ]
+        },
+        {
+          "greek": "Κύριος",
+          "russian": "Господь",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "κύριός",
+          "russian": "Господь",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "κύριος,",
+          "russian": "Господь,",
+          "chapters": [
+            4,
+            7
+          ]
+        },
+        {
+          "greek": "κυρίῳ,",
+          "russian": "Господе,",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "κυρίου",
+          "russian": "Го&#769спода",
+          "chapters": [
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "κυρίου.",
+          "russian": "Го&#769спода.",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "κυρίῳ,",
+          "russian": "Господу,",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "κύριον",
+          "russian": "Го&#769спода",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "κυρίῳ",
+          "russian": "[с] Господом",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "κύριος·",
+          "russian": "Господь;",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "κυρίου,",
+          "russian": "Го&#769спода,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "κυρίῳ·",
+          "russian": "Господу;",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "κυρίῳ",
+          "russian": "[у] Го&#769спода",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "κυρίῳ.",
+          "russian": "Господе.",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "κύριοι",
+          "russian": "господа&#769",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3004",
+      "forms": [
+        {
+          "greek": "λέγητε",
+          "russian": "вы говорили",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "λέγω",
+          "russian": "Говорю",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "λέγει,",
+          "russian": "говорит,",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "λέγῃ",
+          "russian": "будет говорить",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "λέγω.",
+          "russian": "говорю.",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "λέγω",
+          "russian": "говорю",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "Λέγω",
+          "russian": "Говорю",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "λέγω,",
+          "russian": "говорю,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "λεγόμενοι",
+          "russian": "называемые",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3120",
+      "forms": [
+        {
+          "greek": "μαλακοὶ",
+          "russian": "сластолюбцы",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3326",
+      "forms": [
+        {
+          "greek": "μετὰ",
+          "russian": "с",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "μεθ᾽",
+          "russian": "с",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "μετ᾽",
+          "russian": "с",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3361",
+      "forms": [
+        {
+          "greek": "μὴ",
+          "russian": "не",
+          "chapters": [
+            1,
+            2,
+            4,
+            5,
+            7
+          ]
+        },
+        {
+          "greek": "μὴ",
+          "russian": "Не",
+          "chapters": [
+            1,
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "μή",
+          "russian": "не",
+          "chapters": [
+            1,
+            8
+          ]
+        },
+        {
+          "greek": "Μὴ",
+          "russian": "Не",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "μή",
+          "russian": "Не",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3398",
+      "forms": [
+        {
+          "greek": "μικρὰ",
+          "russian": "малая",
+          "chapters": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3485",
+      "forms": [
+        {
+          "greek": "ναὸς",
+          "russian": "храм",
+          "chapters": [
+            3,
+            6
+          ]
+        },
+        {
+          "greek": "ναὸν",
+          "russian": "храм",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3501",
+      "forms": [
+        {
+          "greek": "νέον",
+          "russian": "новое",
+          "chapters": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3588",
+      "forms": [
+        {
+          "greek": "τῶν",
+          "russian": "[которых]",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "τὰ",
+          "russian": "которое",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "τὸ",
+          "russian": "который",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "ὃ",
+          "russian": "которое",
+          "chapters": [
+            3,
+            4,
+            7
+          ]
+        },
+        {
+          "greek": "τὸ",
+          "russian": "которое",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "τοὺς",
+          "russian": "которых",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "τοὺς",
+          "russian": "Которых",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "ὃ",
+          "russian": "который",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "τοῦ",
+          "russian": "Которого",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "ὁ",
+          "russian": "другой",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "τὰ",
+          "russian": "[о] котором",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3739",
+      "forms": [
+        {
+          "greek": "ὃς",
+          "russian": "Который",
+          "chapters": [
+            1,
+            4,
+            7
+          ]
+        },
+        {
+          "greek": "οὗ",
+          "russian": "Которого",
+          "chapters": [
+            1,
+            6,
+            8
+          ]
+        },
+        {
+          "greek": "οὐ",
+          "russian": "Не",
+          "chapters": [
+            1,
+            2
+          ]
+        },
+        {
+          "greek": "οὐ",
+          "russian": "не",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "ἣν",
+          "russian": "которую",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "Ἃ",
+          "russian": "Которое",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "ἃ",
+          "russian": "которое",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "ὃς",
+          "russian": "который",
+          "chapters": [
+            2,
+            4,
+            6
+          ]
+        },
+        {
+          "greek": "ὧν",
+          "russian": "которых",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "ὅς",
+          "russian": "который",
+          "chapters": [
+            3,
+            4
+          ]
+        },
+        {
+          "greek": "ἃ",
+          "russian": "которого",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "Οὐ",
+          "russian": "Не",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "ὧν",
+          "russian": "котором",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ᾧ",
+          "russian": "котором",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ᾧ",
+          "russian": "[за] которого",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "ὃν",
+          "russian": "которого",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3754",
+      "forms": [
+        {
+          "greek": "ὅτι",
+          "russian": "потому что",
+          "chapters": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "greek": "ὅτι",
+          "russian": "что",
+          "chapters": [
+            1,
+            3,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3756",
+      "forms": [
+        {
+          "greek": "οὐκ",
+          "russian": "не",
+          "chapters": [
+            1,
+            2,
+            3,
+            4,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "οὐκ",
+          "russian": "[Разве] не",
+          "chapters": [
+            3,
+            5,
+            6
+          ]
+        },
+        {
+          "greek": "Οὐκ",
+          "russian": "Не",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "οὐχ",
+          "russian": "не",
+          "chapters": [
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3777",
+      "forms": [
+        {
+          "greek": "οὔτε",
+          "russian": "и не",
+          "chapters": [
+            3,
+            6,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3779",
+      "forms": [
+        {
+          "greek": "οὕτως",
+          "russian": "Так",
+          "chapters": [
+            2,
+            6,
+            8
+          ]
+        },
+        {
+          "greek": "οὕτως",
+          "russian": "так",
+          "chapters": [
+            3,
+            7
+          ]
+        },
+        {
+          "greek": "Οὕτως",
+          "russian": "Так",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "οὕτως",
+          "russian": "[о] котором",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "οὕτως,",
+          "russian": "так,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "οὕτως.",
+          "russian": "так.",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3780",
+      "forms": [
+        {
+          "greek": "οὐχὶ",
+          "russian": "[Разве] не",
+          "chapters": [
+            1,
+            5
+          ]
+        },
+        {
+          "greek": "οὐχὶ",
+          "russian": "[разве] не",
+          "chapters": [
+            3,
+            8
+          ]
+        },
+        {
+          "greek": "οὐχὶ",
+          "russian": "не",
+          "chapters": [
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3933",
+      "forms": [
+        {
+          "greek": "παρθένων",
+          "russian": "девушек",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "παρθένος,",
+          "russian": "дева,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "παρθένος",
+          "russian": "дева",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "παρθένον",
+          "russian": "девушки",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "παρθένον,",
+          "russian": "девушку,",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "παρθένον",
+          "russian": "девушку",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3956",
+      "forms": [
+        {
+          "greek": "πᾶσιν",
+          "russian": "всеми",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "παντὶ",
+          "russian": "всяком",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "παντὶ",
+          "russian": "всём",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "πάσῃ",
+          "russian": "всяком",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "πάντες,",
+          "russian": "все,",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "πᾶσα",
+          "russian": "всякая",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "πάντα",
+          "russian": "всё",
+          "chapters": [
+            2,
+            3,
+            6,
+            8
+          ]
+        },
+        {
+          "greek": "πάντα,",
+          "russian": "всё,",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "πάντων",
+          "russian": "всех",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "πάσῃ",
+          "russian": "всякой",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "Πάντα",
+          "russian": "Всё",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "πάντα",
+          "russian": "Всё",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "πᾶν",
+          "russian": "всякий",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "πάντας",
+          "russian": "всех",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "πάσαις",
+          "russian": "всех",
+          "chapters": [
+            7
+          ]
+        },
+        {
+          "greek": "πάντες",
+          "russian": "все",
+          "chapters": [
+            8
+          ]
+        },
+        {
+          "greek": "πᾶσιν",
+          "russian": "всех",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3962",
+      "forms": [
+        {
+          "greek": "πατρὸς",
+          "russian": "Отца",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "πατέρας,",
+          "russian": "отцов,",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "πατρὸς",
+          "russian": "отца",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "πατήρ,",
+          "russian": "Отец,",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "3972",
+      "forms": [
+        {
+          "greek": "Παῦλος",
+          "russian": "Павел",
+          "chapters": [
+            1,
+            3
+          ]
+        },
+        {
+          "greek": "Παύλου,",
+          "russian": "Павла,",
+          "chapters": [
+            1,
+            3
+          ]
+        },
+        {
+          "greek": "Παύλου",
+          "russian": "Павла",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "Παῦλος;",
+          "russian": "Павел?",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "4151",
+      "forms": [
+        {
+          "greek": "πνεύματος",
+          "russian": "Духа",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "πνεύματος·",
+          "russian": "Духа;",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "πνεῦμα",
+          "russian": "Дух",
+          "chapters": [
+            2,
+            3
+          ]
+        },
+        {
+          "greek": "πνεῦμα",
+          "russian": "дух",
+          "chapters": [
+            2,
+            5
+          ]
+        },
+        {
+          "greek": "πνεῦμα",
+          "russian": "духа",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "πνεῦμα",
+          "russian": "Духа",
+          "chapters": [
+            2,
+            7
+          ]
+        },
+        {
+          "greek": "πνεύματος,",
+          "russian": "Духа,",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "πνεύματί",
+          "russian": "[с] духом",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "πνεύματι,",
+          "russian": "духом,",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "πνεύματος",
+          "russian": "духа",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "πνεύματι",
+          "russian": "Духе",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "πνεῦμά",
+          "russian": "дух",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "πνεύματός",
+          "russian": "Духа",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "πνεύματι·",
+          "russian": "духом;",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "4205",
+      "forms": [
+        {
+          "greek": "πόρνοις,",
+          "russian": "[с] развратниками,",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "πόρνοις",
+          "russian": "развратниками",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "πόρνος",
+          "russian": "развратник",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "πόρνοι",
+          "russian": "развратники",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "4229",
+      "forms": [
+        {
+          "greek": "πρᾶγμα",
+          "russian": "дело",
+          "chapters": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "4314",
+      "forms": [
+        {
+          "greek": "πρὸς",
+          "russian": "к",
+          "chapters": [
+            2,
+            4,
+            6,
+            7
+          ]
+        },
+        {
+          "greek": "πρὸς",
+          "russian": "у",
+          "chapters": [
+            2
+          ]
+        },
+        {
+          "greek": "πρὸς",
+          "russian": "К",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "πρὸς",
+          "russian": "на",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "4335",
+      "forms": [
+        {
+          "greek": "προσευχῇ",
+          "russian": "молитвой",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "4561",
+      "forms": [
+        {
+          "greek": "σάρκα,",
+          "russian": "плоти,",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "σὰρξ",
+          "russian": "плоть",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "σαρκός,",
+          "russian": "плоти,",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "σάρκα",
+          "russian": "плоть",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "σαρκὶ",
+          "russian": "плоти",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "4567",
+      "forms": [
+        {
+          "greek": "Σατανᾳϋ152",
+          "russian": "Сатане",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "Σατανᾶς",
+          "russian": "Сатана",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "4680",
+      "forms": [
+        {
+          "greek": "σοφῶν,",
+          "russian": "мудрых,",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "σοφός;",
+          "russian": "мудрый?",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "σοφώτερον",
+          "russian": "мудрее",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "σοφοὶ",
+          "russian": "мудрые",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "σοφούς,",
+          "russian": "мудрых,",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "σοφὸς",
+          "russian": "мудрый",
+          "chapters": [
+            3,
+            6
+          ]
+        },
+        {
+          "greek": "σοφὸς",
+          "russian": "мудр",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "σοφός.",
+          "russian": "мудр.",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "σοφοὺς",
+          "russian": "мудрых",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "σοφῶν",
+          "russian": "мудрых",
+          "chapters": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "4983",
+      "forms": [
+        {
+          "greek": "σώματι",
+          "russian": "телом",
+          "chapters": [
+            5,
+            7
+          ]
+        },
+        {
+          "greek": "σῶμα",
+          "russian": "тело",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "σώματι·",
+          "russian": "телу;",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "σώματα",
+          "russian": "тела&#769",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "σῶμά",
+          "russian": "тело",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "σώματός",
+          "russian": "те&#769ла",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "σώματι",
+          "russian": "теле",
+          "chapters": [
+            6
+          ]
+        },
+        {
+          "greek": "σώματος",
+          "russian": "телом",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "5209",
+      "forms": [
+        {
+          "greek": "ὑμᾶς",
+          "russian": "вам",
+          "chapters": [
+            1,
+            4
+          ]
+        },
+        {
+          "greek": "ὑμᾶς",
+          "russian": "вас",
+          "chapters": [
+            1,
+            3,
+            4,
+            7
+          ]
+        },
+        {
+          "greek": "ὑμᾶς,",
+          "russian": "вас,",
+          "chapters": [
+            1,
+            2,
+            4
+          ]
+        },
+        {
+          "greek": "ὑμᾶς,",
+          "russian": "вам,",
+          "chapters": [
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "5486",
+      "forms": [
+        {
+          "greek": "χαρίσματι,",
+          "russian": "даровании,",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "χάρισμα",
+          "russian": "дарование",
+          "chapters": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "5547",
+      "forms": [
+        {
+          "greek": "Χριστοῦ",
+          "russian": "Христа",
+          "chapters": [
+            1,
+            2,
+            4,
+            6
+          ]
+        },
+        {
+          "greek": "Χριστῷ",
+          "russian": "Христе",
+          "chapters": [
+            1,
+            4
+          ]
+        },
+        {
+          "greek": "Χριστοῦ.",
+          "russian": "Христа.",
+          "chapters": [
+            1,
+            7
+          ]
+        },
+        {
+          "greek": "Χριστοῦ·",
+          "russian": "Христа;",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "[Χριστοῦ].",
+          "russian": "Христа.",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "Χριστοῦ,",
+          "russian": "Христа,",
+          "chapters": [
+            1,
+            3
+          ]
+        },
+        {
+          "greek": "Χριστός;",
+          "russian": "Христос?",
+          "chapters": [
+            1
+          ]
+        },
+        {
+          "greek": "Χριστὸς",
+          "russian": "Христос",
+          "chapters": [
+            1,
+            3,
+            8
+          ]
+        },
+        {
+          "greek": "Χριστὸν",
+          "russian": "Христа",
+          "chapters": [
+            1,
+            2,
+            8
+          ]
+        },
+        {
+          "greek": "Χριστῷ.",
+          "russian": "Христе.",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "Χριστός.",
+          "russian": "Христос.",
+          "chapters": [
+            3
+          ]
+        },
+        {
+          "greek": "Χριστόν,",
+          "russian": "Христа,",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "Χριστῷ·",
+          "russian": "Христе;",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "Χριστῷ,",
+          "russian": "Христе,",
+          "chapters": [
+            4
+          ]
+        },
+        {
+          "greek": "Χριστός·",
+          "russian": "Христос;",
+          "chapters": [
+            5
+          ]
+        },
+        {
+          "greek": "Χριστός,",
+          "russian": "Христос,",
+          "chapters": [
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "strong": "5613",
+      "forms": [
+        {
+          "greek": "ὡς",
+          "russian": "как",
+          "chapters": [
+            3,
+            4,
+            5,
+            7,
+            8
+          ]
+        },
+        {
+          "greek": "ὡς",
+          "russian": "Как",
+          "chapters": [
+            4
+          ]
+        }
+      ]
+    }
+  ]
+}

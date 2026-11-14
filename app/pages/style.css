@@ -1,0 +1,235 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  min-height: 100vh;
+  background: #fefefe;
+  font-family: 'Georgia', 'Times New Roman', 'Palatino', serif;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* Заголовок */
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.header h1 {
+  font-size: 2rem;
+  color: #2c3e6b;
+  margin-bottom: 0.5rem;
+}
+
+.chapter-ref {
+  font-size: 1.2rem;
+  color: #6b5b4f;
+  font-style: italic;
+}
+
+/* Панель управления */
+.controls {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btn {
+  padding: 0.6rem 1.2rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+.btn-primary {
+  background: #2c3e6b;
+  color: white;
+}
+
+.btn-primary:hover {
+  background: #1e2a4a;
+  transform: translateY(-1px);
+}
+
+.btn-secondary {
+  background: #2c5f2d;
+  color: white;
+}
+
+.btn-secondary:hover {
+  background: #1e4a1f;
+  transform: translateY(-1px);
+}
+
+.btn-danger {
+  background: #c0392b;
+  color: white;
+}
+
+.btn-danger:hover {
+  background: #a93226;
+  transform: translateY(-1px);
+}
+
+/* Прогресс-бар */
+.progress-bar {
+  flex: 1;
+  min-width: 200px;
+  background: #e0e0e0;
+  border-radius: 10px;
+  height: 30px;
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-fill {
+  background: #2c5f2d;
+  height: 100%;
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #333;
+  white-space: nowrap;
+}
+
+/* Текст */
+.synodal-text {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.verse-block {
+  margin-bottom: 1.5rem;
+}
+
+.verse-ref {
+  font-size: 0.9rem;
+  color: #6b5b4f;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.verse {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #2c3e2f;
+  text-align: justify;
+  margin-bottom: 1rem;
+}
+
+/* Обёртка слова */
+.word-wrapper {
+  display: inline-block;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  padding: 2px 4px;
+  margin: 0 1px;
+  border-radius: 6px;
+  position: relative;
+}
+
+.word-wrapper:hover {
+  background: #f0e6d2;
+  transform: scale(1.02);
+}
+
+.word-wrapper.is-greek {
+  background: #e8f5e8;
+  border-bottom: 2px solid #2c5f2d;
+}
+
+.word-wrapper.is-punctuation {
+  cursor: default;
+}
+
+.word-wrapper.is-punctuation:hover {
+  background: transparent;
+  transform: none;
+}
+
+/* Русский текст */
+.russian-text {
+  color: #2c3e2f;
+  font-weight: normal;
+}
+
+/* Греческий текст */
+.greek-text-display {
+  font-weight: bold;
+  color: #2c5f2d;
+  position: relative;
+}
+
+.transcript-hint {
+  font-size: 0.7rem;
+  color: #999;
+  margin-left: 4px;
+  font-style: italic;
+  font-weight: normal;
+}
+
+/* Значок выученного слова */
+.learned-badge {
+  font-size: 0.7rem;
+  color: #2c5f2d;
+  margin-left: 4px;
+  font-weight: bold;
+}
+
+/* Подсказка внизу */
+.footer-hint {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #aaa;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .verse {
+    font-size: 1rem;
+  }
+  
+  .controls {
+    flex-direction: column;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+  
+  .progress-bar {
+    width: 100%;
+  }
+}
