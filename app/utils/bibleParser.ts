@@ -23,28 +23,14 @@ export class BibleParser {
     const html = await response.text()
     const parser = new DOMParser()
     const doc = parser.parseFromString(html, 'text/html')
-    // Saved Azbyka pages include the entire portal navigation and footer.
-    // Keep only interlinear verses in the reader, not the source site's chrome.
-    const verses = Array.from(doc.querySelectorAll('.verse')).filter(verse => verse.querySelector('span.word'))
-    if (!verses.length) throw new Error('В HTML главы не найдены стихи подстрочника')
-    const content = doc.createElement('div')
-    content.className = 'interlinear-verses'
-    verses.forEach(verse => content.appendChild(verse.cloneNode(true)))
-    this.container = content
+    this.container = doc.body
     this.parseWords()
   }
   
   loadFromString(htmlString: string): void {
     const parser = new DOMParser()
     const doc = parser.parseFromString(htmlString, 'text/html')
-    // Saved Azbyka pages include the entire portal navigation and footer.
-    // Keep only interlinear verses in the reader, not the source site's chrome.
-    const verses = Array.from(doc.querySelectorAll('.verse')).filter(verse => verse.querySelector('span.word'))
-    if (!verses.length) throw new Error('В HTML главы не найдены стихи подстрочника')
-    const content = doc.createElement('div')
-    content.className = 'interlinear-verses'
-    verses.forEach(verse => content.appendChild(verse.cloneNode(true)))
-    this.container = content
+    this.container = doc.body
     this.parseWords()
   }
   
